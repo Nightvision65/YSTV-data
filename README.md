@@ -56,7 +56,8 @@ YSTV-data/
 
 ## 获取与读取
 
-克隆/Fork 此仓库，或点击 **Code → Download ZIP** 下载当前文件。
+任何人都可以直接使用此公开仓库的数据。克隆此仓库，或点击 **Code → Download ZIP** 下载当前文件。
+克隆后可用 `git pull origin main` 获取最新数据；程序也可以直接读取本仓库的公开数据文件。
 直接读取 `data/*.json`；压缩文件可用工具解压到统一 JSON 编辑目录。
 以下命令在仓库根目录执行，Python 示例使用 conda `opencode` 环境：
 
@@ -74,6 +75,12 @@ from pathlib import Path
 players = json.loads(Path('../YSTV-data-edit/data/players.json').read_text(encoding='utf-8'))
 print([p['name'] for p in players if p['is_player']])
 ```
+
+## 参与数据维护
+
+如果想修改并上传新数据，请联系仓库维护者 [Nightvision65](https://github.com/Nightvision65)，
+申请加入仓库协作者。获得写入权限后，即可在此仓库提交和推送修改。
+仅获取、读取或在自己的项目中使用数据，无需加入协作者。
 
 ## 少量文件直接修改
 
@@ -104,8 +111,7 @@ git push origin main
 ```
 
 `sync` 校验并重新压缩大文件，仅更新内容有变化的文件。编辑前先拉取最新 `main`；不要把过期
-编辑目录整套同步回已更新的仓库，覆盖别人的修订。Fork 协作者提交 Pull Request，维护者合并
-进 `main` 后网站才同步；其他分支和未合并 PR 不直接上线。
+编辑目录整套同步回已更新的仓库，覆盖别人的修订。网站只同步已提交并推送到 `main` 的数据。
 
 - 赛果：`outcome` 仅用 `a_win`、`b_win`、`draw` 或 `null`。未知赛果不编造，不直接填 Rating、胜率或积分汇总。
 - 身份合并：把所有引用改到保留 ID，合并别名，把旧 ID 写入 `merged_player_uids`，再删除被合并者记录。
