@@ -21,14 +21,17 @@ def inputs(root, verify=True):
     dataset=json.loads((root/'dataset.json').read_text(encoding='utf-8'))
     if dataset.get('schema')!='YSTV-Final-Data-v1':raise ValueError('不兼容的最终数据格式。')
     expected={'LICENSE',*(f'data/{name}.json' for name in NAMES)}
-    if set(dataset['files'])!=expected:raise ValueError('最终数据文件清单不完整。')
+    if dataset.get('files') and set(dataset['files'])!=expected:raise ValueError('最终数据文件清单不完整。')
     result={}
-    for name,entry in dataset['files'].items():
-        storage=entry['storage']
+    for name in sorted(expected):
+        entry=dataset.get('files',{}).get(name)
+        candidates=[p for p in [name,name+'.gz'] if (root/p).is_file()]
+        if len(candidates)!=1:raise ValueError('最终文件缺失或重复：'+name)
+        storage=entry['storage'] if entry else candidates[0]
         if storage not in [name,name+'.gz']:raise ValueError('数据存储路径无效。')
         raw=(root/storage).read_bytes()
         if storage.endswith('.gz'):raw=gzip.decompress(raw)
-        if verify and (digest(raw)!=entry['sha256'] or len(raw)!=entry['size']):
+        if verify and entry and (digest(raw)!=entry['sha256'] or len(raw)!=entry['size']):
             raise ValueError('文件校验失败：'+name)
         result[name]=raw
     return dataset,result
@@ -38,12 +41,11 @@ def write_repository(destination, files, metadata):
     destination=Path(destination)
     if destination.exists():raise ValueError('输出目录已存在，请使用新目录。')
     destination.mkdir(parents=True)
-    metadata=dict(metadata,files={})
+    metadata={key:value for key,value in metadata.items() if key not in ['files','version','counts']}
     for name,raw in files.items():
         storage=name+'.gz' if len(raw)>40*1024*1024 else name
         target=destination/storage;target.parent.mkdir(parents=True,exist_ok=True)
         target.write_bytes(gzip.compress(raw,mtime=0) if storage.endswith('.gz') else raw)
-        metadata['files'][name]=dict(storage=storage,size=len(raw),sha256=digest(raw))
     (destination/'dataset.json').write_bytes(json_bytes(metadata))
     return metadata
 
@@ -60,9 +62,7 @@ def package(repository, output, version, source_commit=None):
     with zipfile.ZipFile(target,'x',compression=zipfile.ZIP_DEFLATED,compresslevel=6) as archive:
         archive.writestr('package.json',json_bytes(manifest))
         for name,raw in files.items():archive.writestr(name,raw)
-    release=dict(schema='YSTV-Open-Data-v1',version=version,source_commit=source_commit,
-                 package=target.name,sha256=digest(target.read_bytes()),size=target.stat().st_size,license='MIT')
-    (output/'ystv-data-manifest.json').write_bytes(json_bytes(release))
+    release=dict(package=target.name,sha256=digest(target.read_bytes()),size=target.stat().st_size,license='MIT')
     return release
 
 
@@ -112,15 +112,10 @@ def main():
     unpack=sub.add_parser('unpack');unpack.add_argument('--destination',required=True,type=Path)
     unpack.add_argument('--repository',type=Path,default=Path(__file__).resolve().parents[1])
     pack=sub.add_parser('pack');pack.add_argument('--input',required=True,type=Path)
-    pack.add_argument('--output',required=True,type=Path);pack.add_argument('--version',required=True)
-    pack.add_argument('--source-commit')
-    manifest=sub.add_parser('stamp');manifest.add_argument('--manifest',required=True,type=Path)
-    manifest.add_argument('--source-commit',required=True)
+    pack.add_argument('--output',required=True,type=Path);pack.add_argument('--version',default='manual')
+    sync=sub.add_parser('sync');sync.add_argument('--input',required=True,type=Path)
+    sync.add_argument('--repository',type=Path,default=Path(__file__).resolve().parents[1])
     args=parser.parse_args()
-    if args.action=='stamp':
-        if not re.fullmatch('[0-9a-f]{40}',args.source_commit):raise ValueError('源提交必须为完整 Git SHA。')
-        value=json.loads(args.manifest.read_text(encoding='utf-8-sig'));value['source_commit']=args.source_commit
-        args.manifest.write_bytes(json_bytes(value));print('源提交已写入发布 manifest。');return
     if args.action in ['verify','unpack']:
         dataset,files=inputs(args.repository);validate_rows(files)
         if args.action=='unpack':
@@ -130,6 +125,23 @@ def main():
                 target=args.destination/name;target.parent.mkdir(parents=True,exist_ok=True);target.write_bytes(raw)
             (args.destination/'dataset.json').write_bytes(json_bytes(dataset))
         print('最终数据文件、指纹与关联校验通过。');return
+    if args.action=='sync':
+        metadata=json.loads((args.input/'dataset.json').read_text(encoding='utf-8'))
+        files={f'data/{name}.json':(args.input/'data'/(name+'.json')).read_bytes() for name in NAMES}
+        files['LICENSE']=(args.input/'LICENSE').read_bytes();validate_rows(files)
+        temp=args.repository.parent/(args.repository.name+'-sync-pending')
+        write_repository(temp,files,metadata)
+        try:
+            for name in files:
+                for storage in [name,name+'.gz']:
+                    source=temp/storage;target=args.repository/storage
+                    if source.exists():
+                        target.parent.mkdir(parents=True,exist_ok=True)
+                        if not target.exists() or target.read_bytes()!=source.read_bytes():shutil.copy2(source,target)
+                    elif target.exists():target.unlink()
+            shutil.copy2(temp/'dataset.json',args.repository/'dataset.json')
+        finally:shutil.rmtree(temp)
+        print('已将修改同步回仓库；请检查 Git 差异并提交到 main。');return
     dataset=json.loads((args.input/'dataset.json').read_text(encoding='utf-8'))
     files={f'data/{name}.json':(args.input/'data'/(name+'.json')).read_bytes() for name in NAMES}
     files['LICENSE']=(args.input/'LICENSE').read_bytes();validate_rows(files)
@@ -146,7 +158,7 @@ def main():
         if (original/name).exists():shutil.copy2(original/name,repository/name)
     (repository/'tools').mkdir()
     shutil.copy2(__file__,repository/'tools'/'dataset.py')
-    print(json.dumps(package(repository,args.output,args.version,args.source_commit),ensure_ascii=False))
+    print(json.dumps(package(repository,args.output,args.version),ensure_ascii=False))
 
 
 if __name__=='__main__':main()
