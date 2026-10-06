@@ -124,12 +124,15 @@ def main():
             for name,raw in files.items():
                 target=args.destination/name;target.parent.mkdir(parents=True,exist_ok=True);target.write_bytes(raw)
             (args.destination/'dataset.json').write_bytes(json_bytes(dataset))
-        print('最终数据文件、指纹与关联校验通过。');return
+        print('最终数据格式、ID 与关联校验通过。');return
     if args.action=='sync':
         metadata=json.loads((args.input/'dataset.json').read_text(encoding='utf-8'))
         files={f'data/{name}.json':(args.input/'data'/(name+'.json')).read_bytes() for name in NAMES}
         files['LICENSE']=(args.input/'LICENSE').read_bytes();validate_rows(files)
-        temp=args.repository.parent/(args.repository.name+'-sync-pending')
+        repository_path=args.repository.resolve()
+        temp=(repository_path.parent/(repository_path.name+'-sync-pending')).resolve()
+        if temp.parent!=repository_path.parent or temp.name!=repository_path.name+'-sync-pending':
+            raise ValueError('临时同步目录越界。')
         write_repository(temp,files,metadata)
         try:
             for name in files:
