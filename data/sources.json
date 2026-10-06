@@ -1,0 +1,3588 @@
+[
+  {
+    "source_id": "src001",
+    "origin": "rawdata",
+    "filename": "2020年3月日本大会対戦結果表.xlsx",
+    "size": 126404,
+    "sha256": "f15623c7e269a7306dfda6747c6ed101be194a45dba679f924216f3cab13ddfa",
+    "sheets": [
+      {
+        "name": "対戦表（投稿順）",
+        "dimension": "C1:CD85",
+        "cell_count": 5400,
+        "comments": 0
+      },
+      {
+        "name": "試合結果",
+        "dimension": "B1:CB216",
+        "cell_count": 6090,
+        "comments": 0
+      }
+    ],
+    "pages": 0
+  },
+  {
+    "source_id": "src002",
+    "origin": "rawdata",
+    "filename": "2020年4月大会.xlsx",
+    "size": 96922,
+    "sha256": "4885e75741ae304d2f8135c5d437aba3c5a30677c7999380484e47b115565824",
+    "sheets": [
+      {
+        "name": "対戦表（投稿順）",
+        "dimension": "C1:CE85",
+        "cell_count": 2968,
+        "comments": 0
+      },
+      {
+        "name": "試合結果",
+        "dimension": "A1:AE218",
+        "cell_count": 1247,
+        "comments": 0
+      }
+    ],
+    "pages": 0
+  },
+  {
+    "source_id": "src003",
+    "origin": "rawdata",
+    "filename": "2023年元宵嘻乐会.xlsx",
+    "size": 40986,
+    "sha256": "39b4b2c25f30081799bd22558c64b2571799896558bc4ccb52a1722688723451",
+    "sheets": [
+      {
+        "name": "第一轮",
+        "dimension": "A1:D26",
+        "cell_count": 79,
+        "comments": 0
+      },
+      {
+        "name": "胜者组1",
+        "dimension": "A1:C14",
+        "cell_count": 40,
+        "comments": 0
+      },
+      {
+        "name": "败者组1",
+        "dimension": "A1:C13",
+        "cell_count": 37,
+        "comments": 0
+      },
+      {
+        "name": "胜者组2",
+        "dimension": "A1:C8",
+        "cell_count": 22,
+        "comments": 0
+      },
+      {
+        "name": "败者组2",
+        "dimension": "A1:C13",
+        "cell_count": 37,
+        "comments": 0
+      },
+      {
+        "name": "胜者组3",
+        "dimension": "A1:C5",
+        "cell_count": 13,
+        "comments": 0
+      },
+      {
+        "name": "败者组3",
+        "dimension": "A1:C9",
+        "cell_count": 25,
+        "comments": 0
+      },
+      {
+        "name": "败者组4",
+        "dimension": "A1:C7",
+        "cell_count": 19,
+        "comments": 0
+      },
+      {
+        "name": "胜者组4",
+        "dimension": "A1:D3",
+        "cell_count": 8,
+        "comments": 0
+      },
+      {
+        "name": "败者组5",
+        "dimension": "A1:F7",
+        "cell_count": 21,
+        "comments": 0
+      },
+      {
+        "name": "最终一战",
+        "dimension": "A1:C3",
+        "cell_count": 7,
+        "comments": 0
+      }
+    ],
+    "pages": 0
+  },
+  {
+    "source_id": "src004",
+    "origin": "rawdata",
+    "filename": "CGR中国选手排行.pdf",
+    "size": 79314,
+    "sha256": "4a3a46cd48dce0d9c8c1791c2fd90e22949c92dbcab1809330f05110d1cb2389",
+    "sheets": [],
+    "pages": 1
+  },
+  {
+    "source_id": "src005",
+    "origin": "rawdata",
+    "filename": "GTCS2表格.xlsx",
+    "size": 224371,
+    "sha256": "20e0925c5598cae7fec26ee3d875bdecb83316a9d2fdc5300a6bc21cf68990ac",
+    "sheets": [
+      {
+        "name": "报名表",
+        "dimension": "A1:L89",
+        "cell_count": 758,
+        "comments": 0
+      },
+      {
+        "name": "A组",
+        "dimension": "A1:I60",
+        "cell_count": 301,
+        "comments": 0
+      },
+      {
+        "name": "B组",
+        "dimension": "A1:I60",
+        "cell_count": 301,
+        "comments": 0
+      },
+      {
+        "name": "C组",
+        "dimension": "A1:I60",
+        "cell_count": 301,
+        "comments": 0
+      },
+      {
+        "name": "决赛",
+        "dimension": "A1:M117",
+        "cell_count": 565,
+        "comments": 0
+      },
+      {
+        "name": "A组对战表",
+        "dimension": "A1:BV81",
+        "cell_count": 1170,
+        "comments": 0
+      },
+      {
+        "name": "B组对战表",
+        "dimension": "A1:BV81",
+        "cell_count": 1170,
+        "comments": 0
+      },
+      {
+        "name": "C组对战表",
+        "dimension": "A1:BV81",
+        "cell_count": 1170,
+        "comments": 0
+      },
+      {
+        "name": "决赛对战表",
+        "dimension": "A1:BV80",
+        "cell_count": 2842,
+        "comments": 0
+      },
+      {
+        "name": "分组表",
+        "dimension": "A1:V61",
+        "cell_count": 739,
+        "comments": 0
+      },
+      {
+        "name": "胜场转换",
+        "dimension": "A1:AZ60",
+        "cell_count": 111,
+        "comments": 0
+      },
+      {
+        "name": "结果表",
+        "dimension": "A1:S49",
+        "cell_count": 556,
+        "comments": 0
+      }
+    ],
+    "pages": 0
+  },
+  {
+    "source_id": "src006",
+    "origin": "rawdata",
+    "filename": "GTC对战表.xlsx",
+    "size": 227672,
+    "sha256": "70edca64025e136268c4b8638d3e1a2e8add0fa2c7b129d7369427444dc0b82e",
+    "sheets": [
+      {
+        "name": "报名表",
+        "dimension": "A1:K81",
+        "cell_count": 492,
+        "comments": 0
+      },
+      {
+        "name": "A组分组表",
+        "dimension": "A1:L29",
+        "cell_count": 236,
+        "comments": 0
+      },
+      {
+        "name": "B组分组表",
+        "dimension": "A1:K28",
+        "cell_count": 228,
+        "comments": 0
+      },
+      {
+        "name": "C组分组表",
+        "dimension": "A1:K28",
+        "cell_count": 228,
+        "comments": 0
+      },
+      {
+        "name": "决赛分组表",
+        "dimension": "A1:K34",
+        "cell_count": 276,
+        "comments": 0
+      },
+      {
+        "name": "A组对战表",
+        "dimension": "B1:BU81",
+        "cell_count": 1787,
+        "comments": 0
+      },
+      {
+        "name": "B组对战表",
+        "dimension": "B1:BT80",
+        "cell_count": 1723,
+        "comments": 0
+      },
+      {
+        "name": "C组对战表",
+        "dimension": "B1:BT80",
+        "cell_count": 1723,
+        "comments": 0
+      },
+      {
+        "name": "决赛对战表",
+        "dimension": "B1:BZ80",
+        "cell_count": 2137,
+        "comments": 0
+      },
+      {
+        "name": "对战结果",
+        "dimension": "A1:F122",
+        "cell_count": 694,
+        "comments": 0
+      },
+      {
+        "name": "数据统计",
+        "dimension": "A2:R78",
+        "cell_count": 121,
+        "comments": 0
+      }
+    ],
+    "pages": 0
+  },
+  {
+    "source_id": "src007",
+    "origin": "rawdata",
+    "filename": "GTLS2参赛表.xlsx",
+    "size": 23756,
+    "sha256": "e9341b651321c4e959bbef278d7bad575df972d6ec8f705ca1d8f9f2e0b80a04",
+    "sheets": [
+      {
+        "name": "Sheet1",
+        "dimension": "A1:M22",
+        "cell_count": 286,
+        "comments": 0
+      },
+      {
+        "name": "Sheet1 (2)",
+        "dimension": "A1:M22",
+        "cell_count": 286,
+        "comments": 0
+      }
+    ],
+    "pages": 0
+  },
+  {
+    "source_id": "src008",
+    "origin": "rawdata",
+    "filename": "GTLS3!+积分表（第1赛季）.xlsx",
+    "size": 81282,
+    "sha256": "8396f246b368ccfb97412201557ecd00e73d2f52a3518a451e69705c24e36e61",
+    "sheets": [
+      {
+        "name": "预赛总表",
+        "dimension": "A1:E33",
+        "cell_count": 161,
+        "comments": 0
+      },
+      {
+        "name": "预赛对战表",
+        "dimension": "A1:AJ33",
+        "cell_count": 1120,
+        "comments": 0
+      },
+      {
+        "name": "预赛排名",
+        "dimension": "A1:E32",
+        "cell_count": 159,
+        "comments": 0
+      },
+      {
+        "name": "出线选手初赛对战表",
+        "dimension": "A1:T17",
+        "cell_count": 304,
+        "comments": 0
+      },
+      {
+        "name": "出线选手预赛排名",
+        "dimension": "A1:E16",
+        "cell_count": 78,
+        "comments": 0
+      },
+      {
+        "name": "决赛总表",
+        "dimension": "A1:E17",
+        "cell_count": 81,
+        "comments": 0
+      },
+      {
+        "name": "决赛对战表",
+        "dimension": "A1:T17",
+        "cell_count": 304,
+        "comments": 0
+      },
+      {
+        "name": "决赛排名",
+        "dimension": "A1:G16",
+        "cell_count": 111,
+        "comments": 0
+      },
+      {
+        "name": "季后赛",
+        "dimension": "A1:K22",
+        "cell_count": 194,
+        "comments": 0
+      }
+    ],
+    "pages": 0
+  },
+  {
+    "source_id": "src009",
+    "origin": "rawdata",
+    "filename": "GTLS3对战表格.xlsx",
+    "size": 91571,
+    "sha256": "40c465e21306d00cf78ec9901c771f1a0c1fa050b3c75a8cb31bdc7781024f3f",
+    "sheets": [
+      {
+        "name": "报名表",
+        "dimension": "A1:M62",
+        "cell_count": 288,
+        "comments": 0
+      },
+      {
+        "name": "对战表",
+        "dimension": "B1:BM74",
+        "cell_count": 1290,
+        "comments": 0
+      },
+      {
+        "name": "报名表 (2)",
+        "dimension": "A1:M57",
+        "cell_count": 215,
+        "comments": 0
+      },
+      {
+        "name": "对战表 (2)",
+        "dimension": "B1:BD65",
+        "cell_count": 615,
+        "comments": 0
+      },
+      {
+        "name": "对战结果",
+        "dimension": "A1:L106",
+        "cell_count": 455,
+        "comments": 0
+      },
+      {
+        "name": "数据统计",
+        "dimension": "A1:H78",
+        "cell_count": 100,
+        "comments": 0
+      }
+    ],
+    "pages": 0
+  },
+  {
+    "source_id": "src010",
+    "origin": "rawdata",
+    "filename": "GTLS4R1总表.xlsx",
+    "size": 22352,
+    "sha256": "4f63f7555572935f271ce7f7b2bff3e3346ae6b9019717e16f994084720d4083",
+    "sheets": [
+      {
+        "name": "收集",
+        "dimension": "A1:D55",
+        "cell_count": 111,
+        "comments": 0
+      },
+      {
+        "name": "对战",
+        "dimension": "A1:T21",
+        "cell_count": 71,
+        "comments": 0
+      },
+      {
+        "name": "一轮随机",
+        "dimension": "A1:C6",
+        "cell_count": 10,
+        "comments": 0
+      }
+    ],
+    "pages": 0
+  },
+  {
+    "source_id": "src011",
+    "origin": "rawdata",
+    "filename": "GTLS4R2总表.xlsx",
+    "size": 20902,
+    "sha256": "e403714261a2ea89f03385f8e6e292d9e7498103a6f2ab4e6a8c6bf017c80ab5",
+    "sheets": [
+      {
+        "name": "总表",
+        "dimension": "A1:AK34",
+        "cell_count": 685,
+        "comments": 0
+      },
+      {
+        "name": "Sheet1",
+        "dimension": "A1:D33",
+        "cell_count": 132,
+        "comments": 0
+      }
+    ],
+    "pages": 0
+  },
+  {
+    "source_id": "src012",
+    "origin": "rawdata",
+    "filename": "IGC.xlsx",
+    "size": 87970,
+    "sha256": "fc94f1c672ab8eaa2f7d54cc178fd408005e3971847b454c33739d0c815f3fdc",
+    "sheets": [
+      {
+        "name": "报名表",
+        "dimension": "A1:M32",
+        "cell_count": 380,
+        "comments": 0
+      },
+      {
+        "name": "对战表",
+        "dimension": "A1:AM59",
+        "cell_count": 1152,
+        "comments": 0
+      },
+      {
+        "name": "结果表",
+        "dimension": "A1:K31",
+        "cell_count": 306,
+        "comments": 0
+      },
+      {
+        "name": "Sheet1",
+        "dimension": "A1:F293",
+        "cell_count": 1750,
+        "comments": 0
+      }
+    ],
+    "pages": 0
+  },
+  {
+    "source_id": "src013",
+    "origin": "rawdata",
+    "filename": "IGC第一轮对战表.xlsx",
+    "size": 51021,
+    "sha256": "5c313893f5a2cd5bac26a0fa3fa0255fbb38121474d67585d67c6572643d51d9",
+    "sheets": [
+      {
+        "name": "报名表",
+        "dimension": "A1:M32",
+        "cell_count": 380,
+        "comments": 0
+      },
+      {
+        "name": "对战表",
+        "dimension": "A1:AM59",
+        "cell_count": 1152,
+        "comments": 0
+      },
+      {
+        "name": "结果表",
+        "dimension": "A1:K31",
+        "cell_count": 306,
+        "comments": 0
+      }
+    ],
+    "pages": 0
+  },
+  {
+    "source_id": "src014",
+    "origin": "rawdata",
+    "filename": "igc第三轮报名表.xlsx",
+    "size": 32582,
+    "sha256": "ae5c059ceb41ae32a148bcb62fd00ec9d6e92fd853798e0515682315e7854cd2",
+    "sheets": [
+      {
+        "name": "报名表",
+        "dimension": "A1:H17",
+        "cell_count": 133,
+        "comments": 0
+      },
+      {
+        "name": "比分表",
+        "dimension": "A1:B5",
+        "cell_count": 6,
+        "comments": 0
+      },
+      {
+        "name": "结果表",
+        "dimension": "A1:H17",
+        "cell_count": 136,
+        "comments": 0
+      }
+    ],
+    "pages": 0
+  },
+  {
+    "source_id": "src015",
+    "origin": "rawdata",
+    "filename": "IGC第二轮对战表.xlsx",
+    "size": 275224,
+    "sha256": "45beb6ac9d71f0eadf5690ca9a08e031a81653f070e955c828968ce47d3abd72",
+    "sheets": [
+      {
+        "name": "报名表",
+        "dimension": "A1:N90",
+        "cell_count": 870,
+        "comments": 0
+      },
+      {
+        "name": "对战表",
+        "dimension": "A1:CO113",
+        "cell_count": 7915,
+        "comments": 0
+      },
+      {
+        "name": "结果表",
+        "dimension": "A1:K86",
+        "cell_count": 860,
+        "comments": 0
+      }
+    ],
+    "pages": 0
+  },
+  {
+    "source_id": "src016",
+    "origin": "rawdata",
+    "filename": "IVSC决赛.xlsx",
+    "size": 41203,
+    "sha256": "dcdaa95cff9a61caf0c98d752dab9cadf7ff0c52a46ea34e7557121485d8bd2d",
+    "sheets": [
+      {
+        "name": "原始数据",
+        "dimension": "A1:M17",
+        "cell_count": 221,
+        "comments": 0
+      },
+      {
+        "name": "总决赛",
+        "dimension": "A1:P37",
+        "cell_count": 281,
+        "comments": 0
+      },
+      {
+        "name": "A组",
+        "dimension": "A1:M17",
+        "cell_count": 106,
+        "comments": 0
+      },
+      {
+        "name": "B组",
+        "dimension": "A1:M17",
+        "cell_count": 106,
+        "comments": 0
+      },
+      {
+        "name": "C组",
+        "dimension": "A1:M17",
+        "cell_count": 106,
+        "comments": 0
+      },
+      {
+        "name": "D组",
+        "dimension": "A1:M17",
+        "cell_count": 106,
+        "comments": 0
+      },
+      {
+        "name": "小组赛模板",
+        "dimension": "A1:F11",
+        "cell_count": 20,
+        "comments": 0
+      }
+    ],
+    "pages": 0
+  },
+  {
+    "source_id": "src017",
+    "origin": "rawdata",
+    "filename": "IVSC复活赛.xlsx",
+    "size": 27276,
+    "sha256": "3e634854c6adcd3b4ee12b556067c531a93d40cb1abea06a9d2c0cc5105cbad6",
+    "sheets": [
+      {
+        "name": "原始数据",
+        "dimension": "A1:J17",
+        "cell_count": 170,
+        "comments": 0
+      },
+      {
+        "name": "A组",
+        "dimension": "A1:J28",
+        "cell_count": 142,
+        "comments": 0
+      },
+      {
+        "name": "B组",
+        "dimension": "A1:J28",
+        "cell_count": 140,
+        "comments": 0
+      },
+      {
+        "name": "晋级名单",
+        "dimension": "A1:B17",
+        "cell_count": 34,
+        "comments": 0
+      }
+    ],
+    "pages": 0
+  },
+  {
+    "source_id": "src018",
+    "origin": "rawdata",
+    "filename": "IVSC群星挑战赛.xlsx",
+    "size": 101019,
+    "sha256": "973389524aff9da866edd372188df67e20e2550254d363f09f3cee4c04d52d05",
+    "sheets": [
+      {
+        "name": "原始数据 (上半场)",
+        "dimension": "A1:I25",
+        "cell_count": 225,
+        "comments": 0
+      },
+      {
+        "name": "原始数据（下半场）",
+        "dimension": "A1:I25",
+        "cell_count": 225,
+        "comments": 0
+      },
+      {
+        "name": "排序",
+        "dimension": "A1:G25",
+        "cell_count": 151,
+        "comments": 0
+      },
+      {
+        "name": "战队排列",
+        "dimension": "A1:G10",
+        "cell_count": 47,
+        "comments": 0
+      },
+      {
+        "name": "战队积分",
+        "dimension": "A1:AH25",
+        "cell_count": 850,
+        "comments": 0
+      },
+      {
+        "name": "积分赛排名",
+        "dimension": "A1:B25",
+        "cell_count": 50,
+        "comments": 0
+      },
+      {
+        "name": "w1",
+        "dimension": "A1:R25",
+        "cell_count": 400,
+        "comments": 0
+      },
+      {
+        "name": "w2",
+        "dimension": "A1:R25",
+        "cell_count": 400,
+        "comments": 0
+      },
+      {
+        "name": "w3",
+        "dimension": "A1:R25",
+        "cell_count": 400,
+        "comments": 0
+      },
+      {
+        "name": "w4",
+        "dimension": "A1:R25",
+        "cell_count": 400,
+        "comments": 0
+      },
+      {
+        "name": "w5",
+        "dimension": "A1:R25",
+        "cell_count": 400,
+        "comments": 0
+      },
+      {
+        "name": "w6",
+        "dimension": "A1:R25",
+        "cell_count": 400,
+        "comments": 0
+      },
+      {
+        "name": "w7",
+        "dimension": "A1:R25",
+        "cell_count": 400,
+        "comments": 0
+      },
+      {
+        "name": "w8",
+        "dimension": "A1:R25",
+        "cell_count": 400,
+        "comments": 0
+      },
+      {
+        "name": "每周模板",
+        "dimension": "A1:R25",
+        "cell_count": 112,
+        "comments": 0
+      }
+    ],
+    "pages": 0
+  },
+  {
+    "source_id": "src019",
+    "origin": "rawdata",
+    "filename": "LEAF杯最终结果！.xlsx",
+    "size": 28340,
+    "sha256": "182075a80c4c0f55a19fdc0750e8055d1614efa4addc57e6231b019577097b87",
+    "sheets": [
+      {
+        "name": "Sheet1",
+        "dimension": "A1:BL57",
+        "cell_count": 1809,
+        "comments": 0
+      }
+    ],
+    "pages": 0
+  },
+  {
+    "source_id": "src020",
+    "origin": "rawdata",
+    "filename": "°C单阵赛対戦結果.xlsx",
+    "size": 102923,
+    "sha256": "2feef0ca03d10a24655c2d2812c620d68f2288a46b4d81bee6308a0c547ce1f3",
+    "sheets": [
+      {
+        "name": "対戦結果",
+        "dimension": "A1:Q113",
+        "cell_count": 1920,
+        "comments": 0
+      },
+      {
+        "name": "総当たり表",
+        "dimension": "A1:DW113",
+        "cell_count": 14238,
+        "comments": 0
+      },
+      {
+        "name": "ユニットデータ",
+        "dimension": "A1:T86",
+        "cell_count": 613,
+        "comments": 0
+      },
+      {
+        "name": "コア位置データ",
+        "dimension": "B2:D16",
+        "cell_count": 38,
+        "comments": 0
+      }
+    ],
+    "pages": 0
+  },
+  {
+    "source_id": "src021",
+    "origin": "rawdata",
+    "filename": "中国好阵师2020.xlsx",
+    "size": 26027,
+    "sha256": "1a2266cbdf164b11d8e76f3add4ac14797604c037fc3f76286089a9748f3a414",
+    "sheets": [
+      {
+        "name": "19",
+        "dimension": "A1:J15",
+        "cell_count": 69,
+        "comments": 0
+      },
+      {
+        "name": "2069",
+        "dimension": "A1:J15",
+        "cell_count": 68,
+        "comments": 0
+      },
+      {
+        "name": "65",
+        "dimension": "A1:J15",
+        "cell_count": 68,
+        "comments": 0
+      },
+      {
+        "name": "WMD",
+        "dimension": "A1:J15",
+        "cell_count": 66,
+        "comments": 0
+      }
+    ],
+    "pages": 0
+  },
+  {
+    "source_id": "src022",
+    "origin": "rawdata",
+    "filename": "冲国好阵师2021.xlsx",
+    "size": 40122,
+    "sha256": "3abdb12b8adb49646ab8bb383c2362d1e31a69605343d34c36eee68d0d449d7b",
+    "sheets": [
+      {
+        "name": "海选",
+        "dimension": "A1:L25",
+        "cell_count": 129,
+        "comments": 0
+      },
+      {
+        "name": "XX内战",
+        "dimension": "A1:E9",
+        "cell_count": 29,
+        "comments": 0
+      },
+      {
+        "name": "幕府内战",
+        "dimension": "A2:G11",
+        "cell_count": 32,
+        "comments": 0
+      },
+      {
+        "name": "MKTL内战",
+        "dimension": "A2:H13",
+        "cell_count": 45,
+        "comments": 0
+      },
+      {
+        "name": "叶玉内战",
+        "dimension": "A2:H13",
+        "cell_count": 40,
+        "comments": 0
+      },
+      {
+        "name": "外战",
+        "dimension": "A1:V17",
+        "cell_count": 208,
+        "comments": 0
+      },
+      {
+        "name": "总决赛",
+        "dimension": "A1:I19",
+        "cell_count": 132,
+        "comments": 0
+      }
+    ],
+    "pages": 0
+  },
+  {
+    "source_id": "src023",
+    "origin": "rawdata",
+    "filename": "多段大会.xlsx",
+    "size": 1056803,
+    "sha256": "0692b1db94635905773c46fc008ce0e71944b38b1e963ec7c8da44cde663b2ce",
+    "sheets": [
+      {
+        "name": "目次",
+        "dimension": null,
+        "cell_count": 25,
+        "comments": 0
+      },
+      {
+        "name": "参加要塞リスト",
+        "dimension": null,
+        "cell_count": 2297,
+        "comments": 0
+      },
+      {
+        "name": "要塞分析用（未実装）",
+        "dimension": null,
+        "cell_count": 334,
+        "comments": 0
+      },
+      {
+        "name": "要塞分析用（未実装）_保存用",
+        "dimension": null,
+        "cell_count": 322,
+        "comments": 0
+      },
+      {
+        "name": "対戦組み合わせ",
+        "dimension": null,
+        "cell_count": 71918,
+        "comments": 0
+      },
+      {
+        "name": "総当たり結果",
+        "dimension": null,
+        "cell_count": 102618,
+        "comments": 0
+      },
+      {
+        "name": "分布",
+        "dimension": null,
+        "cell_count": 3355,
+        "comments": 0
+      }
+    ],
+    "pages": 0
+  },
+  {
+    "source_id": "src024",
+    "origin": "rawdata",
+    "filename": "大規模大会 最终结果.xlsx",
+    "size": 773478,
+    "sha256": "58044cfdc415ecbdd77d9a216e2a482a59bc76562bb5a05f7d776dff7b0c3cb5",
+    "sheets": [
+      {
+        "name": "進行スケジュール等",
+        "dimension": null,
+        "cell_count": 20,
+        "comments": 0
+      },
+      {
+        "name": "対戦表（投稿順）",
+        "dimension": null,
+        "cell_count": 9987,
+        "comments": 0
+      },
+      {
+        "name": "試合結果",
+        "dimension": null,
+        "cell_count": 2988,
+        "comments": 1
+      },
+      {
+        "name": "試合結果（エキシビション含む）",
+        "dimension": null,
+        "cell_count": 3113,
+        "comments": 2
+      },
+      {
+        "name": "参照用",
+        "dimension": null,
+        "cell_count": 9803,
+        "comments": 0
+      },
+      {
+        "name": "1106",
+        "dimension": null,
+        "cell_count": 9691,
+        "comments": 0
+      },
+      {
+        "name": "参照用 (1)",
+        "dimension": null,
+        "cell_count": 28110,
+        "comments": 0
+      },
+      {
+        "name": "参照用 (2)",
+        "dimension": null,
+        "cell_count": 27844,
+        "comments": 0
+      }
+    ],
+    "pages": 0
+  },
+  {
+    "source_id": "src025",
+    "origin": "rawdata",
+    "filename": "好阵师巅峰赛2026.xlsx",
+    "size": 43896,
+    "sha256": "8797b79daf5485a042d54f57d5b1b59a2cac2b130f6a8f3062661977ab0b5d23",
+    "sheets": [
+      {
+        "name": "原始数据",
+        "dimension": "A1:L27",
+        "cell_count": 230,
+        "comments": 0
+      },
+      {
+        "name": "盲选",
+        "dimension": "A1:H29",
+        "cell_count": 149,
+        "comments": 0
+      },
+      {
+        "name": "内战",
+        "dimension": "A1:L32",
+        "cell_count": 268,
+        "comments": 0
+      },
+      {
+        "name": "外战",
+        "dimension": "A1:F25",
+        "cell_count": 101,
+        "comments": 0
+      },
+      {
+        "name": "决战",
+        "dimension": "A1:E32",
+        "cell_count": 140,
+        "comments": 0
+      }
+    ],
+    "pages": 0
+  },
+  {
+    "source_id": "src026",
+    "origin": "rawdata",
+    "filename": "激奥会单人1v1.xlsx",
+    "size": 28331,
+    "sha256": "accd5ac1dc0cd16faa9bd298e078d5ee6e72db21aacf1b76535e9bcfe3be549e",
+    "sheets": [
+      {
+        "name": "单人1v1",
+        "dimension": "A1:BF51",
+        "cell_count": 1683,
+        "comments": 0
+      },
+      {
+        "name": "单人1v1排名",
+        "dimension": "A1:H51",
+        "cell_count": 408,
+        "comments": 0
+      }
+    ],
+    "pages": 0
+  },
+  {
+    "source_id": "src027",
+    "origin": "rawdata",
+    "filename": "激奥会单人3v3.xlsx",
+    "size": 29386,
+    "sha256": "132084d033201c7d73ffc96e814ec20041a811037f7d0f3ddf9c705112fdd67b",
+    "sheets": [
+      {
+        "name": "单人3v3",
+        "dimension": "A1:AI26",
+        "cell_count": 585,
+        "comments": 0
+      },
+      {
+        "name": "单人3v3（修正）",
+        "dimension": "A1:AH25",
+        "cell_count": 550,
+        "comments": 0
+      },
+      {
+        "name": "单人3v3排名",
+        "dimension": "A1:G25",
+        "cell_count": 175,
+        "comments": 0
+      }
+    ],
+    "pages": 0
+  },
+  {
+    "source_id": "src028",
+    "origin": "rawdata",
+    "filename": "激奥会双人4v4.xlsx",
+    "size": 19767,
+    "sha256": "e93e749337fec26be6699ef913b136b0c0fa9b3c04e93dc5f7c603b432640467",
+    "sheets": [
+      {
+        "name": "混双4v4",
+        "dimension": "A1:I21",
+        "cell_count": 189,
+        "comments": 0
+      },
+      {
+        "name": "混双4v4对战+排名",
+        "dimension": "A1:R27",
+        "cell_count": 133,
+        "comments": 0
+      }
+    ],
+    "pages": 0
+  },
+  {
+    "source_id": "src029",
+    "origin": "rawdata",
+    "filename": "激奥会激突项目.xlsx",
+    "size": 69593,
+    "sha256": "72bf5e0bba4a6d5077eb6a8b1b5582ecc2d7ce68b0ad43eb9675cc191e8ada30",
+    "sheets": [
+      {
+        "name": "国家奖牌榜",
+        "dimension": "A1:AC10",
+        "cell_count": 90,
+        "comments": 0
+      },
+      {
+        "name": "积分表",
+        "dimension": "A1:R38",
+        "cell_count": 684,
+        "comments": 0
+      },
+      {
+        "name": "单人1v1",
+        "dimension": "A1:BF51",
+        "cell_count": 1683,
+        "comments": 0
+      },
+      {
+        "name": "单人1v1排名",
+        "dimension": "A1:H51",
+        "cell_count": 408,
+        "comments": 0
+      },
+      {
+        "name": "单人3v3",
+        "dimension": "A1:AI26",
+        "cell_count": 585,
+        "comments": 0
+      },
+      {
+        "name": "单人3v3（修正）",
+        "dimension": "A1:AH25",
+        "cell_count": 550,
+        "comments": 0
+      },
+      {
+        "name": "单人3v3排名",
+        "dimension": "A1:G25",
+        "cell_count": 175,
+        "comments": 0
+      },
+      {
+        "name": "混双4v4",
+        "dimension": "A1:I21",
+        "cell_count": 189,
+        "comments": 0
+      },
+      {
+        "name": "混双4v4对战+排名",
+        "dimension": "A1:R27",
+        "cell_count": 133,
+        "comments": 0
+      }
+    ],
+    "pages": 0
+  },
+  {
+    "source_id": "src030",
+    "origin": "rawdata",
+    "filename": "激突国好阵师2022.xlsx",
+    "size": 107561,
+    "sha256": "71b65aa2197054188654db3866ac33647ef0bb89145f7f76c18af3f49f50130e",
+    "sheets": [
+      {
+        "name": "盲选",
+        "dimension": "A1:J17",
+        "cell_count": 169,
+        "comments": 0
+      },
+      {
+        "name": "沙包",
+        "dimension": "A1:C24",
+        "cell_count": 59,
+        "comments": 0
+      },
+      {
+        "name": "积分榜",
+        "dimension": "A1:M28",
+        "cell_count": 202,
+        "comments": 0
+      },
+      {
+        "name": "第二轮（随机赛）",
+        "dimension": "A1:O37",
+        "cell_count": 350,
+        "comments": 0
+      },
+      {
+        "name": "第三轮（替身赛）",
+        "dimension": "A1:G41",
+        "cell_count": 155,
+        "comments": 0
+      },
+      {
+        "name": "第三轮排名",
+        "dimension": "A1:O41",
+        "cell_count": 405,
+        "comments": 0
+      },
+      {
+        "name": "第四轮（个人赛）",
+        "dimension": "A1:BH55",
+        "cell_count": 3245,
+        "comments": 0
+      },
+      {
+        "name": "第四轮总排名",
+        "dimension": "A1:G55",
+        "cell_count": 318,
+        "comments": 0
+      },
+      {
+        "name": "替身海王",
+        "dimension": "A1:I33",
+        "cell_count": 126,
+        "comments": 0
+      },
+      {
+        "name": "决赛轮",
+        "dimension": "A1:AG26",
+        "cell_count": 829,
+        "comments": 0
+      },
+      {
+        "name": "决赛轮 排名",
+        "dimension": "A1:F26",
+        "cell_count": 155,
+        "comments": 0
+      }
+    ],
+    "pages": 0
+  },
+  {
+    "source_id": "src031",
+    "origin": "rawdata",
+    "filename": "激突国好阵师2024.xlsx",
+    "size": 238818,
+    "sha256": "70635de73949eb589498407fe6714a13d66baee49f40d1ad44c57b1b3251d585",
+    "sheets": [
+      {
+        "name": "盲选",
+        "dimension": "A1:K26",
+        "cell_count": 259,
+        "comments": 0
+      },
+      {
+        "name": "内战-审玉战队",
+        "dimension": "A1:J29",
+        "cell_count": 135,
+        "comments": 0
+      },
+      {
+        "name": "内战-hell战队",
+        "dimension": "A1:I20",
+        "cell_count": 114,
+        "comments": 0
+      },
+      {
+        "name": "内战-神秘玉战队",
+        "dimension": "A1:I18",
+        "cell_count": 99,
+        "comments": 0
+      },
+      {
+        "name": "内战-lbwnb战队",
+        "dimension": "A1:L20",
+        "cell_count": 138,
+        "comments": 0
+      },
+      {
+        "name": "外战",
+        "dimension": "A1:O42",
+        "cell_count": 331,
+        "comments": 0
+      },
+      {
+        "name": "决赛",
+        "dimension": "A1:O49",
+        "cell_count": 438,
+        "comments": 0
+      }
+    ],
+    "pages": 0
+  },
+  {
+    "source_id": "src032",
+    "origin": "rawdata",
+    "filename": "激突要塞匹配赛积分表（第0赛季）.xlsx",
+    "size": 84576,
+    "sha256": "fa29e9ae15348e034f2dfd30dc06eb530ae7035efdbb0a0a319ba57da08b4c26",
+    "sheets": [
+      {
+        "name": "成就栏",
+        "dimension": "A1:K20",
+        "cell_count": 79,
+        "comments": 0
+      },
+      {
+        "name": "赛季积分榜",
+        "dimension": "B1:R36",
+        "cell_count": 271,
+        "comments": 0
+      },
+      {
+        "name": "0828",
+        "dimension": "A1:H48",
+        "cell_count": 307,
+        "comments": 0
+      },
+      {
+        "name": "0827",
+        "dimension": "A1:H49",
+        "cell_count": 331,
+        "comments": 0
+      },
+      {
+        "name": "0826",
+        "dimension": "A1:H49",
+        "cell_count": 326,
+        "comments": 0
+      },
+      {
+        "name": "0825",
+        "dimension": "A1:H69",
+        "cell_count": 444,
+        "comments": 0
+      },
+      {
+        "name": "0824",
+        "dimension": "A1:H80",
+        "cell_count": 519,
+        "comments": 0
+      },
+      {
+        "name": "0823中午",
+        "dimension": "A1:D131",
+        "cell_count": 442,
+        "comments": 0
+      },
+      {
+        "name": "0822晚上",
+        "dimension": "A1:D57",
+        "cell_count": 196,
+        "comments": 0
+      },
+      {
+        "name": "0821中午",
+        "dimension": "A1:D113",
+        "cell_count": 385,
+        "comments": 0
+      },
+      {
+        "name": "0820上午",
+        "dimension": "A1:D55",
+        "cell_count": 189,
+        "comments": 0
+      },
+      {
+        "name": "0819下午",
+        "dimension": "A1:D76",
+        "cell_count": 259,
+        "comments": 0
+      },
+      {
+        "name": "0819中午",
+        "dimension": "A1:D62",
+        "cell_count": 200,
+        "comments": 0
+      },
+      {
+        "name": "0818晚上",
+        "dimension": "A1:D54",
+        "cell_count": 182,
+        "comments": 0
+      },
+      {
+        "name": "0818下午",
+        "dimension": "A1:D71",
+        "cell_count": 246,
+        "comments": 0
+      }
+    ],
+    "pages": 0
+  },
+  {
+    "source_id": "src033",
+    "origin": "rawdata",
+    "filename": "激突要塞匹配赛积分表（第1赛季）.xlsx",
+    "size": 89887,
+    "sha256": "fb7f18564197217b23a7ae5c4f3a5761751b883a953d7b4ff18d0f0bfbf5d2b5",
+    "sheets": [
+      {
+        "name": "排行专用",
+        "dimension": "A1:K18",
+        "cell_count": 169,
+        "comments": 0
+      },
+      {
+        "name": "赛季积分榜",
+        "dimension": "A1:V38",
+        "cell_count": 328,
+        "comments": 0
+      },
+      {
+        "name": "1024",
+        "dimension": "A1:H33",
+        "cell_count": 199,
+        "comments": 0
+      },
+      {
+        "name": "1023",
+        "dimension": "A1:H33",
+        "cell_count": 209,
+        "comments": 0
+      },
+      {
+        "name": "1018",
+        "dimension": "A1:H33",
+        "cell_count": 207,
+        "comments": 0
+      },
+      {
+        "name": "1017",
+        "dimension": "A1:H33",
+        "cell_count": 219,
+        "comments": 0
+      },
+      {
+        "name": "1016",
+        "dimension": "A1:H35",
+        "cell_count": 233,
+        "comments": 0
+      },
+      {
+        "name": "1011",
+        "dimension": "A1:H35",
+        "cell_count": 221,
+        "comments": 0
+      },
+      {
+        "name": "1010",
+        "dimension": "A1:H35",
+        "cell_count": 228,
+        "comments": 0
+      },
+      {
+        "name": "1009",
+        "dimension": "A1:H17",
+        "cell_count": 114,
+        "comments": 0
+      },
+      {
+        "name": "1004",
+        "dimension": "A1:H35",
+        "cell_count": 218,
+        "comments": 0
+      },
+      {
+        "name": "1003",
+        "dimension": "A1:H35",
+        "cell_count": 213,
+        "comments": 0
+      },
+      {
+        "name": "1002",
+        "dimension": "A1:H33",
+        "cell_count": 209,
+        "comments": 0
+      },
+      {
+        "name": "0926f",
+        "dimension": "A1:H35",
+        "cell_count": 238,
+        "comments": 0
+      },
+      {
+        "name": "0925f",
+        "dimension": "A1:H17",
+        "cell_count": 119,
+        "comments": 0
+      },
+      {
+        "name": "0920",
+        "dimension": "A1:H35",
+        "cell_count": 238,
+        "comments": 0
+      },
+      {
+        "name": "0919",
+        "dimension": "A1:H35",
+        "cell_count": 223,
+        "comments": 0
+      },
+      {
+        "name": "0918",
+        "dimension": "A1:H17",
+        "cell_count": 119,
+        "comments": 0
+      },
+      {
+        "name": "0913",
+        "dimension": "A1:H31",
+        "cell_count": 201,
+        "comments": 0
+      },
+      {
+        "name": "0912",
+        "dimension": "A1:H31",
+        "cell_count": 195,
+        "comments": 0
+      },
+      {
+        "name": "0911",
+        "dimension": "A1:H31",
+        "cell_count": 205,
+        "comments": 0
+      },
+      {
+        "name": "0906",
+        "dimension": "A1:H33",
+        "cell_count": 224,
+        "comments": 0
+      },
+      {
+        "name": "0905",
+        "dimension": "A1:H33",
+        "cell_count": 219,
+        "comments": 0
+      },
+      {
+        "name": "0904",
+        "dimension": "A1:H33",
+        "cell_count": 204,
+        "comments": 0
+      }
+    ],
+    "pages": 0
+  },
+  {
+    "source_id": "src034",
+    "origin": "rawdata",
+    "filename": "激突要塞匹配赛（第2赛季）.xlsx",
+    "size": 86496,
+    "sha256": "b287ba9151be8a890e6aa6294c4b942e4f376d4911e92300e3ca1e50367ac78b",
+    "sheets": [
+      {
+        "name": "第一周",
+        "dimension": "A1:H16",
+        "cell_count": 66,
+        "comments": 0
+      },
+      {
+        "name": "第二周",
+        "dimension": "A1:H16",
+        "cell_count": 65,
+        "comments": 0
+      },
+      {
+        "name": "第三周",
+        "dimension": "A1:H16",
+        "cell_count": 65,
+        "comments": 0
+      },
+      {
+        "name": "第四周",
+        "dimension": "A1:H16",
+        "cell_count": 67,
+        "comments": 0
+      },
+      {
+        "name": "第1月加赛1",
+        "dimension": "A1:H16",
+        "cell_count": 67,
+        "comments": 0
+      },
+      {
+        "name": "第1月加赛2",
+        "dimension": "A1:H16",
+        "cell_count": 68,
+        "comments": 0
+      },
+      {
+        "name": "第一月",
+        "dimension": "A1:AF50",
+        "cell_count": 518,
+        "comments": 0
+      },
+      {
+        "name": "第五周1",
+        "dimension": "A1:I16",
+        "cell_count": 75,
+        "comments": 0
+      },
+      {
+        "name": "第五周2",
+        "dimension": "A1:I16",
+        "cell_count": 74,
+        "comments": 0
+      },
+      {
+        "name": "第六周1",
+        "dimension": "A1:H16",
+        "cell_count": 65,
+        "comments": 0
+      },
+      {
+        "name": "第六周2",
+        "dimension": "A1:G15",
+        "cell_count": 64,
+        "comments": 0
+      },
+      {
+        "name": "第七周1",
+        "dimension": "A1:G15",
+        "cell_count": 63,
+        "comments": 0
+      },
+      {
+        "name": "第七周2",
+        "dimension": "A1:G15",
+        "cell_count": 65,
+        "comments": 0
+      },
+      {
+        "name": "第二月",
+        "dimension": "A1:AI40",
+        "cell_count": 618,
+        "comments": 0
+      },
+      {
+        "name": "第八周1",
+        "dimension": "A1:G15",
+        "cell_count": 73,
+        "comments": 0
+      },
+      {
+        "name": "第八周2",
+        "dimension": "A1:G15",
+        "cell_count": 66,
+        "comments": 0
+      },
+      {
+        "name": "第九周1",
+        "dimension": "A1:H16",
+        "cell_count": 66,
+        "comments": 0
+      },
+      {
+        "name": "第九周2",
+        "dimension": "A1:H16",
+        "cell_count": 66,
+        "comments": 0
+      },
+      {
+        "name": "第十周1",
+        "dimension": "A1:H16",
+        "cell_count": 66,
+        "comments": 0
+      },
+      {
+        "name": "第十周2",
+        "dimension": "A1:H16",
+        "cell_count": 67,
+        "comments": 0
+      },
+      {
+        "name": "第三月",
+        "dimension": "A1:AF43",
+        "cell_count": 355,
+        "comments": 0
+      }
+    ],
+    "pages": 0
+  },
+  {
+    "source_id": "src035",
+    "origin": "rawdata",
+    "filename": "激突要塞匹配赛（第3赛季）.xlsx",
+    "size": 40576,
+    "sha256": "60be068e033f376558ccf9e0906a4c9060434533ceb2290020ffe3ac2f650920",
+    "sheets": [
+      {
+        "name": "循环表",
+        "dimension": "A1:V17",
+        "cell_count": 116,
+        "comments": 0
+      },
+      {
+        "name": "单人赛第五周",
+        "dimension": "A2:E88",
+        "cell_count": 207,
+        "comments": 0
+      },
+      {
+        "name": "单人赛第六周",
+        "dimension": "A1:O12",
+        "cell_count": 110,
+        "comments": 0
+      },
+      {
+        "name": "单人赛第七周",
+        "dimension": "A1:O13",
+        "cell_count": 125,
+        "comments": 0
+      },
+      {
+        "name": "单人赛第八周",
+        "dimension": "A1:M12",
+        "cell_count": 98,
+        "comments": 0
+      },
+      {
+        "name": "Sheet1",
+        "dimension": "A2:B2",
+        "cell_count": 2,
+        "comments": 0
+      },
+      {
+        "name": "第四周",
+        "dimension": "A1:C30",
+        "cell_count": 87,
+        "comments": 0
+      },
+      {
+        "name": "第三周",
+        "dimension": "A1:C30",
+        "cell_count": 87,
+        "comments": 0
+      },
+      {
+        "name": "第二周",
+        "dimension": "A1:D32",
+        "cell_count": 101,
+        "comments": 0
+      },
+      {
+        "name": "第一周",
+        "dimension": "A1:C28",
+        "cell_count": 81,
+        "comments": 0
+      }
+    ],
+    "pages": 0
+  },
+  {
+    "source_id": "src036",
+    "origin": "rawdata",
+    "filename": "激突要塞希望杯修复.xls",
+    "size": 737280,
+    "sha256": "61b307c96369d32f697e1813c9c5c2353022ccb4ef1f72f64687d99943f18c64",
+    "sheets": [
+      {
+        "name": "开幕式",
+        "dimension": "A1:AI23",
+        "cell_count": 14,
+        "comments": 0
+      },
+      {
+        "name": "初赛",
+        "dimension": "A1:AP60",
+        "cell_count": 1377,
+        "comments": 0
+      },
+      {
+        "name": "复活赛",
+        "dimension": "A1:AI19",
+        "cell_count": 208,
+        "comments": 0
+      },
+      {
+        "name": "复赛",
+        "dimension": "A1:Y24",
+        "cell_count": 288,
+        "comments": 0
+      },
+      {
+        "name": "决赛",
+        "dimension": "A1:P16",
+        "cell_count": 106,
+        "comments": 0
+      }
+    ],
+    "pages": 0
+  },
+  {
+    "source_id": "src037",
+    "origin": "rawdata",
+    "filename": "突発大会2023秋 有排名 有分区.xlsx",
+    "size": 2427135,
+    "sha256": "8808b66b02937cce72d0765ca1533bcd14bbf5d7d8f0a4b018b32b20c913ff0b",
+    "sheets": [
+      {
+        "name": "目次",
+        "dimension": "B1:F21",
+        "cell_count": 17,
+        "comments": 0
+      },
+      {
+        "name": "参加要塞リスト",
+        "dimension": "A1:CJ110",
+        "cell_count": 3137,
+        "comments": 0
+      },
+      {
+        "name": "対戦組み合わせ2",
+        "dimension": "A1:I5671",
+        "cell_count": 12343,
+        "comments": 0
+      },
+      {
+        "name": "要塞分析用（未実装）",
+        "dimension": "A1:P931",
+        "cell_count": 322,
+        "comments": 0
+      },
+      {
+        "name": "要塞分析用（未実装）_保存用",
+        "dimension": "A1:P931",
+        "cell_count": 322,
+        "comments": 0
+      },
+      {
+        "name": "対戦組み合わせ",
+        "dimension": "A1:S5675",
+        "cell_count": 71918,
+        "comments": 0
+      },
+      {
+        "name": "自作部門",
+        "dimension": "A1:LU1015",
+        "cell_count": 109596,
+        "comments": 0
+      },
+      {
+        "name": "エキシビションマッチ",
+        "dimension": "A1:LU1000",
+        "cell_count": 114308,
+        "comments": 0
+      },
+      {
+        "name": "分布",
+        "dimension": "A1:AM4754",
+        "cell_count": 3350,
+        "comments": 0
+      }
+    ],
+    "pages": 0
+  },
+  {
+    "source_id": "src038",
+    "origin": "rawdata",
+    "filename": "第四玉格群星赛IIVSC（Identity IV Stellaris Challenge）比赛表格.xlsm",
+    "size": 219717,
+    "sha256": "9efeb21e69d11f78a08b04527102689655ac28cb22398ab397c4188a469d5545",
+    "sheets": [
+      {
+        "name": "报名表",
+        "dimension": "A1:E31",
+        "cell_count": 151,
+        "comments": 0
+      },
+      {
+        "name": "初赛综合表（前半程）",
+        "dimension": "A1:J25",
+        "cell_count": 247,
+        "comments": 0
+      },
+      {
+        "name": "初赛综合表（后半程）",
+        "dimension": "A1:J25",
+        "cell_count": 247,
+        "comments": 0
+      },
+      {
+        "name": "决赛分队",
+        "dimension": "A1:L24",
+        "cell_count": 35,
+        "comments": 0
+      },
+      {
+        "name": "决赛综合表",
+        "dimension": "A1:S25",
+        "cell_count": 211,
+        "comments": 0
+      },
+      {
+        "name": "决赛对局",
+        "dimension": "A1:P66",
+        "cell_count": 667,
+        "comments": 0
+      },
+      {
+        "name": "积分详细表",
+        "dimension": "A1:AQ25",
+        "cell_count": 975,
+        "comments": 0
+      },
+      {
+        "name": "第一周",
+        "dimension": "A1:S25",
+        "cell_count": 469,
+        "comments": 0
+      },
+      {
+        "name": "第二周",
+        "dimension": "A1:S25",
+        "cell_count": 469,
+        "comments": 0
+      },
+      {
+        "name": "第三周",
+        "dimension": "A1:S25",
+        "cell_count": 469,
+        "comments": 0
+      },
+      {
+        "name": "第四周",
+        "dimension": "A1:S25",
+        "cell_count": 469,
+        "comments": 0
+      },
+      {
+        "name": "第五周",
+        "dimension": "A1:S25",
+        "cell_count": 469,
+        "comments": 0
+      },
+      {
+        "name": "第六周",
+        "dimension": "A1:S25",
+        "cell_count": 469,
+        "comments": 0
+      },
+      {
+        "name": "第七周",
+        "dimension": "A1:S25",
+        "cell_count": 469,
+        "comments": 0
+      },
+      {
+        "name": "第八周",
+        "dimension": "A1:S25",
+        "cell_count": 469,
+        "comments": 0
+      },
+      {
+        "name": "初赛空记录表",
+        "dimension": "A1:S25",
+        "cell_count": 181,
+        "comments": 0
+      },
+      {
+        "name": "决赛随机阵池",
+        "dimension": "A2:D14",
+        "cell_count": 16,
+        "comments": 0
+      }
+    ],
+    "pages": 0
+  },
+  {
+    "source_id": "src039",
+    "origin": "targets",
+    "filename": "20200402春休み大会結果.xlsx",
+    "size": 85191,
+    "sha256": "1125ad7008550bb419981cdca68c48f6d6d088cbb7e04162e21f1945ba157b33",
+    "sheets": [
+      {
+        "name": "Sheet1",
+        "dimension": "A1:BT124",
+        "cell_count": 4539,
+        "comments": 0
+      },
+      {
+        "name": "Sheet2",
+        "dimension": "A1:F65",
+        "cell_count": 378,
+        "comments": 0
+      }
+    ],
+    "pages": 0
+  },
+  {
+    "source_id": "src040",
+    "origin": "targets",
+    "filename": "2023.4.5清明赛 (1).xlsx",
+    "size": 16260,
+    "sha256": "f79b89a35fd9708e9901c00de223becc4a29b8536e6e06f4014a871fd4056ce9",
+    "sheets": [
+      {
+        "name": "Sheet1",
+        "dimension": "A1:F33",
+        "cell_count": 97,
+        "comments": 0
+      }
+    ],
+    "pages": 0
+  },
+  {
+    "source_id": "src041",
+    "origin": "targets",
+    "filename": "2023.5.22钓鱼佬小臂赛 (1).xlsx",
+    "size": 16341,
+    "sha256": "3cf9dc8d6f8073cf4ff8c48552205cbc7eeff28f70a1aff58fdc433ffc791833",
+    "sheets": [
+      {
+        "name": "Sheet1",
+        "dimension": "A1:R22",
+        "cell_count": 90,
+        "comments": 0
+      }
+    ],
+    "pages": 0
+  },
+  {
+    "source_id": "src042",
+    "origin": "targets",
+    "filename": "2023年3月25日临时海王赛.xlsx",
+    "size": 20117,
+    "sha256": "6477e1b8d185e1a91923f0f099b71ca920e0ab66c18ab98b7ced2ab6d82122f0"
+  },
+  {
+    "source_id": "src043",
+    "origin": "targets",
+    "filename": "2023年元宵嘻乐会.xlsx",
+    "size": 40986,
+    "sha256": "39b4b2c25f30081799bd22558c64b2571799896558bc4ccb52a1722688723451",
+    "sheets": [
+      {
+        "name": "第一轮",
+        "dimension": "A1:D26",
+        "cell_count": 79,
+        "comments": 0
+      },
+      {
+        "name": "胜者组1",
+        "dimension": "A1:C14",
+        "cell_count": 40,
+        "comments": 0
+      },
+      {
+        "name": "败者组1",
+        "dimension": "A1:C13",
+        "cell_count": 37,
+        "comments": 0
+      },
+      {
+        "name": "胜者组2",
+        "dimension": "A1:C8",
+        "cell_count": 22,
+        "comments": 0
+      },
+      {
+        "name": "败者组2",
+        "dimension": "A1:C13",
+        "cell_count": 37,
+        "comments": 0
+      },
+      {
+        "name": "胜者组3",
+        "dimension": "A1:C5",
+        "cell_count": 13,
+        "comments": 0
+      },
+      {
+        "name": "败者组3",
+        "dimension": "A1:C9",
+        "cell_count": 25,
+        "comments": 0
+      },
+      {
+        "name": "败者组4",
+        "dimension": "A1:C7",
+        "cell_count": 19,
+        "comments": 0
+      },
+      {
+        "name": "胜者组4",
+        "dimension": "A1:D3",
+        "cell_count": 8,
+        "comments": 0
+      },
+      {
+        "name": "败者组5",
+        "dimension": "A1:F7",
+        "cell_count": 21,
+        "comments": 0
+      },
+      {
+        "name": "最终一战",
+        "dimension": "A1:C3",
+        "cell_count": 7,
+        "comments": 0
+      }
+    ],
+    "pages": 0
+  },
+  {
+    "source_id": "src044",
+    "origin": "targets",
+    "filename": "2023日常循环赛.xlsx",
+    "size": 22379,
+    "sha256": "620b38f6054876808f13c7e63b13a47772dfc93f59e5fb0afc8475496d5a7c37",
+    "sheets": [
+      {
+        "name": "Sheet1",
+        "dimension": "A1:AM84",
+        "cell_count": 1330,
+        "comments": 0
+      },
+      {
+        "name": "Sheet2",
+        "dimension": "A1:C32",
+        "cell_count": 33,
+        "comments": 0
+      },
+      {
+        "name": "Sheet3",
+        "dimension": "A1",
+        "cell_count": 0,
+        "comments": 0
+      }
+    ],
+    "pages": 0
+  },
+  {
+    "source_id": "src045",
+    "origin": "targets",
+    "filename": "202年3月大会対戦結果表.xlsx",
+    "size": 131440,
+    "sha256": "d5f403b4270ce36eb1444d71ab5dd345012098757773df1ff91033b56919707d",
+    "sheets": [
+      {
+        "name": "対戦表（投稿順）",
+        "dimension": "C1:CD85",
+        "cell_count": 5400,
+        "comments": 0
+      },
+      {
+        "name": "試合結果",
+        "dimension": "B1:CB216",
+        "cell_count": 6090,
+        "comments": 0
+      }
+    ],
+    "pages": 0
+  },
+  {
+    "source_id": "src046",
+    "origin": "targets",
+    "filename": "~$日区334机测试要塞.xlsx",
+    "size": 165,
+    "sha256": "cc012654aee91ecf35b1cbf2bc3ab74fddacd2db35b9be1ee24830c749feb31b"
+  },
+  {
+    "source_id": "src047",
+    "origin": "targets",
+    "filename": "日区334机测试要塞.xlsx",
+    "size": 237088,
+    "sha256": "2b1fa805f9f55af3a2f60ff63c95c9e0a383df37aa44a8c75ba317929b06ca6b",
+    "sheets": [
+      {
+        "name": "Sheet1",
+        "dimension": "A1:C101",
+        "cell_count": 301,
+        "comments": 0
+      },
+      {
+        "name": "Sheet3",
+        "dimension": "A1:C181",
+        "cell_count": 536,
+        "comments": 0
+      },
+      {
+        "name": "Sheet2",
+        "dimension": "A1:B152",
+        "cell_count": 303,
+        "comments": 0
+      },
+      {
+        "name": "Sheet4",
+        "dimension": "A1:D334",
+        "cell_count": 1331,
+        "comments": 0
+      },
+      {
+        "name": "Sheet5",
+        "dimension": "A1:C334",
+        "cell_count": 997,
+        "comments": 0
+      },
+      {
+        "name": "Sheet6",
+        "dimension": "A1:B334",
+        "cell_count": 668,
+        "comments": 0
+      },
+      {
+        "name": "Sheet7",
+        "dimension": "A1:E334",
+        "cell_count": 1336,
+        "comments": 0
+      },
+      {
+        "name": "要塞引き抜き用",
+        "dimension": "A2:A336",
+        "cell_count": 335,
+        "comments": 0
+      },
+      {
+        "name": "勝率計算表",
+        "dimension": "A2:O336",
+        "cell_count": 1067,
+        "comments": 0
+      }
+    ],
+    "pages": 0
+  },
+  {
+    "source_id": "src048",
+    "origin": "targets",
+    "filename": "CN151循环（分战术）.xlsx",
+    "size": 161975,
+    "sha256": "0813d000fb8117c735a172819f405fb8ff2f331256119513606ed494085f08b3"
+  },
+  {
+    "source_id": "src049",
+    "origin": "targets",
+    "filename": "GTC対戦結果(中國大會).xlsx",
+    "size": 227672,
+    "sha256": "70edca64025e136268c4b8638d3e1a2e8add0fa2c7b129d7369427444dc0b82e",
+    "sheets": [
+      {
+        "name": "报名表",
+        "dimension": "A1:K81",
+        "cell_count": 492,
+        "comments": 0
+      },
+      {
+        "name": "A组分组表",
+        "dimension": "A1:L29",
+        "cell_count": 236,
+        "comments": 0
+      },
+      {
+        "name": "B组分组表",
+        "dimension": "A1:K28",
+        "cell_count": 228,
+        "comments": 0
+      },
+      {
+        "name": "C组分组表",
+        "dimension": "A1:K28",
+        "cell_count": 228,
+        "comments": 0
+      },
+      {
+        "name": "决赛分组表",
+        "dimension": "A1:K34",
+        "cell_count": 276,
+        "comments": 0
+      },
+      {
+        "name": "A组对战表",
+        "dimension": "B1:BU81",
+        "cell_count": 1787,
+        "comments": 0
+      },
+      {
+        "name": "B组对战表",
+        "dimension": "B1:BT80",
+        "cell_count": 1723,
+        "comments": 0
+      },
+      {
+        "name": "C组对战表",
+        "dimension": "B1:BT80",
+        "cell_count": 1723,
+        "comments": 0
+      },
+      {
+        "name": "决赛对战表",
+        "dimension": "B1:BZ80",
+        "cell_count": 2137,
+        "comments": 0
+      },
+      {
+        "name": "对战结果",
+        "dimension": "A1:F122",
+        "cell_count": 694,
+        "comments": 0
+      },
+      {
+        "name": "数据统计",
+        "dimension": "A2:R78",
+        "cell_count": 121,
+        "comments": 0
+      }
+    ],
+    "pages": 0
+  },
+  {
+    "source_id": "src050",
+    "origin": "targets",
+    "filename": "GTLS3!+积分表（第1赛季）.xlsx",
+    "size": 63221,
+    "sha256": "d27cf356963d4e4fcac161382e607fd5c52e3065a2d9f09006a0fb3d842f4cf8",
+    "sheets": [
+      {
+        "name": "总表",
+        "dimension": "A1:E33",
+        "cell_count": 161,
+        "comments": 0
+      },
+      {
+        "name": "对战表",
+        "dimension": "A1:AJ33",
+        "cell_count": 1120,
+        "comments": 0
+      },
+      {
+        "name": "预赛排名",
+        "dimension": "A1:E32",
+        "cell_count": 159,
+        "comments": 0
+      },
+      {
+        "name": "出线选手初赛对战表",
+        "dimension": "A1:T17",
+        "cell_count": 304,
+        "comments": 0
+      },
+      {
+        "name": "出线选手预赛排名",
+        "dimension": "A1:E16",
+        "cell_count": 78,
+        "comments": 0
+      },
+      {
+        "name": "决赛总表",
+        "dimension": "A1:E17",
+        "cell_count": 81,
+        "comments": 0
+      },
+      {
+        "name": "决赛对战表",
+        "dimension": "A1:T17",
+        "cell_count": 304,
+        "comments": 0
+      },
+      {
+        "name": "决赛排名",
+        "dimension": "A1:G16",
+        "cell_count": 111,
+        "comments": 0
+      }
+    ],
+    "pages": 0
+  },
+  {
+    "source_id": "src051",
+    "origin": "targets",
+    "filename": "GTLS4R1总表.xlsx",
+    "size": 22352,
+    "sha256": "4f63f7555572935f271ce7f7b2bff3e3346ae6b9019717e16f994084720d4083",
+    "sheets": [
+      {
+        "name": "收集",
+        "dimension": "A1:D55",
+        "cell_count": 111,
+        "comments": 0
+      },
+      {
+        "name": "对战",
+        "dimension": "A1:T21",
+        "cell_count": 71,
+        "comments": 0
+      },
+      {
+        "name": "一轮随机",
+        "dimension": "A1:C6",
+        "cell_count": 10,
+        "comments": 0
+      }
+    ],
+    "pages": 0
+  },
+  {
+    "source_id": "src052",
+    "origin": "targets",
+    "filename": "LEAF杯.xlsx",
+    "size": 22755,
+    "sha256": "cc3c15b8b5480650da3a182148f5f003ebbe0538252b63edf46486046c28aa62",
+    "sheets": [
+      {
+        "name": "Sheet1",
+        "dimension": "A1:BK57",
+        "cell_count": 616,
+        "comments": 0
+      }
+    ],
+    "pages": 0
+  },
+  {
+    "source_id": "src053",
+    "origin": "targets",
+    "filename": "LEAF杯最终结果！.xlsx",
+    "size": 28340,
+    "sha256": "182075a80c4c0f55a19fdc0750e8055d1614efa4addc57e6231b019577097b87",
+    "sheets": [
+      {
+        "name": "Sheet1",
+        "dimension": "A1:BL57",
+        "cell_count": 1809,
+        "comments": 0
+      }
+    ],
+    "pages": 0
+  },
+  {
+    "source_id": "src054",
+    "origin": "targets",
+    "filename": "PPG报名表.xlsx",
+    "size": 42841,
+    "sha256": "e60c79157b9eb3318fb5fe9908b7422444d3a76acaeb3fa5b1c741e43efa84d0",
+    "sheets": [
+      {
+        "name": "报名表",
+        "dimension": "A1:M45",
+        "cell_count": 236,
+        "comments": 0
+      },
+      {
+        "name": "对战表",
+        "dimension": "A1:AM59",
+        "cell_count": 1152,
+        "comments": 0
+      },
+      {
+        "name": "结果表",
+        "dimension": "A1:K31",
+        "cell_count": 306,
+        "comments": 0
+      }
+    ],
+    "pages": 0
+  },
+  {
+    "source_id": "src055",
+    "origin": "targets",
+    "filename": "~$CN151循环（分战术）.xlsx",
+    "size": 165,
+    "sha256": "cc012654aee91ecf35b1cbf2bc3ab74fddacd2db35b9be1ee24830c749feb31b"
+  },
+  {
+    "source_id": "src056",
+    "origin": "targets",
+    "filename": "~$GTC対戦結果(中國大會).xlsx",
+    "size": 165,
+    "sha256": "cc012654aee91ecf35b1cbf2bc3ab74fddacd2db35b9be1ee24830c749feb31b"
+  },
+  {
+    "source_id": "src057",
+    "origin": "targets",
+    "filename": "~$GTLS3!+积分表（第1赛季）.xlsx",
+    "size": 165,
+    "sha256": "cc012654aee91ecf35b1cbf2bc3ab74fddacd2db35b9be1ee24830c749feb31b"
+  },
+  {
+    "source_id": "src058",
+    "origin": "targets",
+    "filename": "~$大規模大会 最终结果.xlsx",
+    "size": 165,
+    "sha256": "cc012654aee91ecf35b1cbf2bc3ab74fddacd2db35b9be1ee24830c749feb31b"
+  },
+  {
+    "source_id": "src059",
+    "origin": "targets",
+    "filename": "~$激突国际大学通用测试题库.xlsx",
+    "size": 165,
+    "sha256": "cc012654aee91ecf35b1cbf2bc3ab74fddacd2db35b9be1ee24830c749feb31b"
+  },
+  {
+    "source_id": "src060",
+    "origin": "targets",
+    "filename": "~$激突要塞匹配赛（第2赛季）.xlsx",
+    "size": 165,
+    "sha256": "cc012654aee91ecf35b1cbf2bc3ab74fddacd2db35b9be1ee24830c749feb31b"
+  },
+  {
+    "source_id": "src061",
+    "origin": "targets",
+    "filename": "レート机制.xlsx",
+    "size": 16793,
+    "sha256": "e7b646c0117186f2f968fa9aa9e5e48a6b572379fac4d1f8330ae9e7f1e300eb"
+  },
+  {
+    "source_id": "src062",
+    "origin": "targets",
+    "filename": "七海王初赛比赛结果.xlsx",
+    "size": 107176,
+    "sha256": "ece2a7fdd6ddbc62ee84834657e80f465f9600884b5087aec6e54468c291e767"
+  },
+  {
+    "source_id": "src063",
+    "origin": "targets",
+    "filename": "冲国好阵师2021.xlsx",
+    "size": 40122,
+    "sha256": "3abdb12b8adb49646ab8bb383c2362d1e31a69605343d34c36eee68d0d449d7b",
+    "sheets": [
+      {
+        "name": "海选",
+        "dimension": "A1:L25",
+        "cell_count": 129,
+        "comments": 0
+      },
+      {
+        "name": "XX内战",
+        "dimension": "A1:E9",
+        "cell_count": 29,
+        "comments": 0
+      },
+      {
+        "name": "幕府内战",
+        "dimension": "A2:G11",
+        "cell_count": 32,
+        "comments": 0
+      },
+      {
+        "name": "MKTL内战",
+        "dimension": "A2:H13",
+        "cell_count": 45,
+        "comments": 0
+      },
+      {
+        "name": "叶玉内战",
+        "dimension": "A2:H13",
+        "cell_count": 40,
+        "comments": 0
+      },
+      {
+        "name": "外战",
+        "dimension": "A1:V17",
+        "cell_count": 208,
+        "comments": 0
+      },
+      {
+        "name": "总决赛",
+        "dimension": "A1:I19",
+        "cell_count": 132,
+        "comments": 0
+      }
+    ],
+    "pages": 0
+  },
+  {
+    "source_id": "src064",
+    "origin": "targets",
+    "filename": "劳动节大战.xlsx",
+    "size": 31670,
+    "sha256": "cf8068eba24d00e95056fe98fccd66fee6eb12d91173f3462d7891636e47dfa5",
+    "sheets": [
+      {
+        "name": "阵总收集",
+        "dimension": "A1:D53",
+        "cell_count": 108,
+        "comments": 0
+      },
+      {
+        "name": "分组用",
+        "dimension": "A1:C40",
+        "cell_count": 81,
+        "comments": 0
+      },
+      {
+        "name": "组一对战",
+        "dimension": "A1:P14",
+        "cell_count": 110,
+        "comments": 0
+      },
+      {
+        "name": "组二对战",
+        "dimension": "A1:P14",
+        "cell_count": 133,
+        "comments": 0
+      },
+      {
+        "name": "组三对战 ",
+        "dimension": "A1:P14",
+        "cell_count": 133,
+        "comments": 0
+      },
+      {
+        "name": "组四对战 ",
+        "dimension": "A1:P14",
+        "cell_count": 133,
+        "comments": 0
+      },
+      {
+        "name": "组四对战  (2)",
+        "dimension": "A1:H6",
+        "cell_count": 33,
+        "comments": 0
+      },
+      {
+        "name": "决赛表",
+        "dimension": "A1:U19",
+        "cell_count": 228,
+        "comments": 0
+      }
+    ],
+    "pages": 0
+  },
+  {
+    "source_id": "src065",
+    "origin": "targets",
+    "filename": "匹配赛阵池（第三赛季）.xlsx",
+    "size": 44425,
+    "sha256": "e4ae9fe2b4375056de2f22c316893588dceb07d74a1c803d634aff5f161e914f"
+  },
+  {
+    "source_id": "src066",
+    "origin": "targets",
+    "filename": "啥比151.xlsx",
+    "size": 35292,
+    "sha256": "b6b3b7d0df457a8d220e31c43af900be44e94d88eecdc76cd18a8c6055cf7e6c"
+  },
+  {
+    "source_id": "src067",
+    "origin": "targets",
+    "filename": "大規模大会 最终结果.xlsx",
+    "size": 773478,
+    "sha256": "58044cfdc415ecbdd77d9a216e2a482a59bc76562bb5a05f7d776dff7b0c3cb5",
+    "sheets": [
+      {
+        "name": "進行スケジュール等",
+        "dimension": null,
+        "cell_count": 20,
+        "comments": 0
+      },
+      {
+        "name": "対戦表（投稿順）",
+        "dimension": null,
+        "cell_count": 9987,
+        "comments": 0
+      },
+      {
+        "name": "試合結果",
+        "dimension": null,
+        "cell_count": 2988,
+        "comments": 1
+      },
+      {
+        "name": "試合結果（エキシビション含む）",
+        "dimension": null,
+        "cell_count": 3113,
+        "comments": 2
+      },
+      {
+        "name": "参照用",
+        "dimension": null,
+        "cell_count": 9803,
+        "comments": 0
+      },
+      {
+        "name": "1106",
+        "dimension": null,
+        "cell_count": 9691,
+        "comments": 0
+      },
+      {
+        "name": "参照用 (1)",
+        "dimension": null,
+        "cell_count": 28110,
+        "comments": 0
+      },
+      {
+        "name": "参照用 (2)",
+        "dimension": null,
+        "cell_count": 27844,
+        "comments": 0
+      }
+    ],
+    "pages": 0
+  },
+  {
+    "source_id": "src068",
+    "origin": "targets",
+    "filename": "对战表格1 (1).xlsx",
+    "size": 88494,
+    "sha256": "b23e540025fd4326c8cbfec71e0823c698d22c1eb5810a6d63babcd18c71aab7",
+    "sheets": [
+      {
+        "name": "対戦表（投稿順）",
+        "dimension": "C1:CE85",
+        "cell_count": 2507,
+        "comments": 0
+      },
+      {
+        "name": "Sheet1",
+        "dimension": "A1:C46",
+        "cell_count": 114,
+        "comments": 0
+      },
+      {
+        "name": "対戦表（勝率順）",
+        "dimension": "C1:CD96",
+        "cell_count": 2004,
+        "comments": 0
+      },
+      {
+        "name": "試合結果",
+        "dimension": "A1:L90",
+        "cell_count": 203,
+        "comments": 0
+      }
+    ],
+    "pages": 0
+  },
+  {
+    "source_id": "src069",
+    "origin": "targets",
+    "filename": "对战表格1.xlsx",
+    "size": 90442,
+    "sha256": "012a6e60b69a7490d6745d380c2866016a487a5cb6c991ebe1e921ee44db75d8",
+    "sheets": [
+      {
+        "name": "対戦表（投稿順）",
+        "dimension": "C1:CE85",
+        "cell_count": 2505,
+        "comments": 0
+      },
+      {
+        "name": "Sheet1",
+        "dimension": "A1:C46",
+        "cell_count": 114,
+        "comments": 0
+      },
+      {
+        "name": "対戦表（勝率順）",
+        "dimension": "C1:CD96",
+        "cell_count": 2004,
+        "comments": 0
+      },
+      {
+        "name": "試合結果",
+        "dimension": "A1:L90",
+        "cell_count": 203,
+        "comments": 0
+      }
+    ],
+    "pages": 0
+  },
+  {
+    "source_id": "src070",
+    "origin": "targets",
+    "filename": "対戦結果.xlsx",
+    "size": 102923,
+    "sha256": "2feef0ca03d10a24655c2d2812c620d68f2288a46b4d81bee6308a0c547ce1f3",
+    "sheets": [
+      {
+        "name": "対戦結果",
+        "dimension": "A1:Q113",
+        "cell_count": 1920,
+        "comments": 0
+      },
+      {
+        "name": "総当たり表",
+        "dimension": "A1:DW113",
+        "cell_count": 14238,
+        "comments": 0
+      },
+      {
+        "name": "ユニットデータ",
+        "dimension": "A1:T86",
+        "cell_count": 613,
+        "comments": 0
+      },
+      {
+        "name": "コア位置データ",
+        "dimension": "B2:D16",
+        "cell_count": 38,
+        "comments": 0
+      }
+    ],
+    "pages": 0
+  },
+  {
+    "source_id": "src071",
+    "origin": "targets",
+    "filename": "工作簿1.xlsx",
+    "size": 10523,
+    "sha256": "0a953baac10588525e2fd76a12bc0453fe14e876fd7b3d727ebbb9ed3d163fa5",
+    "sheets": [
+      {
+        "name": "Sheet1",
+        "dimension": "A1:E7",
+        "cell_count": 27,
+        "comments": 0
+      }
+    ],
+    "pages": 0
+  },
+  {
+    "source_id": "src072",
+    "origin": "targets",
+    "filename": "新年大战.xlsx",
+    "size": 24973,
+    "sha256": "ddda34d39170b6381f3226da4fc9da1f86ed5a94b74b8977bad700f48d7ad80f",
+    "sheets": [
+      {
+        "name": "收集",
+        "dimension": "A1:C25",
+        "cell_count": 75,
+        "comments": 0
+      },
+      {
+        "name": "随机",
+        "dimension": "A1",
+        "cell_count": 0,
+        "comments": 0
+      }
+    ],
+    "pages": 0
+  },
+  {
+    "source_id": "src073",
+    "origin": "targets",
+    "filename": "日常赛！.xlsx",
+    "size": 20393,
+    "sha256": "70bf8800364de7c63213611fc16bdba17d775dcc1ceb534fd6f792868cd1fcd5",
+    "sheets": [
+      {
+        "name": "12.21",
+        "dimension": "A1:R15",
+        "cell_count": 164,
+        "comments": 0
+      },
+      {
+        "name": "12.22",
+        "dimension": "A1:O12",
+        "cell_count": 113,
+        "comments": 0
+      },
+      {
+        "name": "4.16",
+        "dimension": "A1:K9",
+        "cell_count": 63,
+        "comments": 0
+      },
+      {
+        "name": "4.21",
+        "dimension": "A1:Q15",
+        "cell_count": 150,
+        "comments": 0
+      }
+    ],
+    "pages": 0
+  },
+  {
+    "source_id": "src074",
+    "origin": "targets",
+    "filename": "暑期大逃脱.xlsx",
+    "size": 21949,
+    "sha256": "1023e47dd08ba670082b8882f9f092daa38905d45501cfc15b6c6323e655686d",
+    "sheets": [
+      {
+        "name": "总收集",
+        "dimension": "A1:G21",
+        "cell_count": 131,
+        "comments": 0
+      },
+      {
+        "name": "随机页",
+        "dimension": "A1:C17",
+        "cell_count": 49,
+        "comments": 0
+      },
+      {
+        "name": "结果页",
+        "dimension": "A1:E16",
+        "cell_count": 31,
+        "comments": 0
+      }
+    ],
+    "pages": 0
+  },
+  {
+    "source_id": "src075",
+    "origin": "targets",
+    "filename": "海王争霸赛参赛表.xlsx",
+    "size": 106602,
+    "sha256": "0398c4a5d8fdf602eb1d6aa10c158585530fcfb27e9113ba9fcf9946e11611e9"
+  },
+  {
+    "source_id": "src076",
+    "origin": "targets",
+    "filename": "激突因子挑战赛.xls",
+    "size": 25600,
+    "sha256": "ff04cbc26f4f5af87667b870acdf54d9f0a016c79fa6cea5018040a0a409616e",
+    "sheets": [
+      {
+        "name": "Sheet1",
+        "dimension": "A1:D37",
+        "cell_count": 48,
+        "comments": 0
+      },
+      {
+        "name": "Sheet2",
+        "dimension": "A1:0",
+        "cell_count": 0,
+        "comments": 0
+      },
+      {
+        "name": "Sheet3",
+        "dimension": "A1:0",
+        "cell_count": 0,
+        "comments": 0
+      }
+    ],
+    "pages": 0
+  },
+  {
+    "source_id": "src077",
+    "origin": "targets",
+    "filename": "激突国好阵师2022 (1).xlsx",
+    "size": 107561,
+    "sha256": "71b65aa2197054188654db3866ac33647ef0bb89145f7f76c18af3f49f50130e",
+    "sheets": [
+      {
+        "name": "盲选",
+        "dimension": "A1:J17",
+        "cell_count": 169,
+        "comments": 0
+      },
+      {
+        "name": "沙包",
+        "dimension": "A1:C24",
+        "cell_count": 59,
+        "comments": 0
+      },
+      {
+        "name": "积分榜",
+        "dimension": "A1:M28",
+        "cell_count": 202,
+        "comments": 0
+      },
+      {
+        "name": "第二轮（随机赛）",
+        "dimension": "A1:O37",
+        "cell_count": 350,
+        "comments": 0
+      },
+      {
+        "name": "第三轮（替身赛）",
+        "dimension": "A1:G41",
+        "cell_count": 155,
+        "comments": 0
+      },
+      {
+        "name": "第三轮排名",
+        "dimension": "A1:O41",
+        "cell_count": 405,
+        "comments": 0
+      },
+      {
+        "name": "第四轮（个人赛）",
+        "dimension": "A1:BH55",
+        "cell_count": 3245,
+        "comments": 0
+      },
+      {
+        "name": "第四轮总排名",
+        "dimension": "A1:G55",
+        "cell_count": 318,
+        "comments": 0
+      },
+      {
+        "name": "替身海王",
+        "dimension": "A1:I33",
+        "cell_count": 126,
+        "comments": 0
+      },
+      {
+        "name": "决赛轮",
+        "dimension": "A1:AG26",
+        "cell_count": 829,
+        "comments": 0
+      },
+      {
+        "name": "决赛轮 排名",
+        "dimension": "A1:F26",
+        "cell_count": 155,
+        "comments": 0
+      }
+    ],
+    "pages": 0
+  },
+  {
+    "source_id": "src078",
+    "origin": "targets",
+    "filename": "激突国的庆典！.xlsx",
+    "size": 23370,
+    "sha256": "da284c6f2e190b5bf1bc5b2d7b37fc0f049d218a2ead2cd550f5fdb796198743",
+    "sheets": [
+      {
+        "name": "循环",
+        "dimension": "A1:V18",
+        "cell_count": 121,
+        "comments": 0
+      },
+      {
+        "name": "晋级",
+        "dimension": "A1:K17",
+        "cell_count": 59,
+        "comments": 0
+      }
+    ],
+    "pages": 0
+  },
+  {
+    "source_id": "src079",
+    "origin": "targets",
+    "filename": "激突国际大学通用测试题库.xlsx",
+    "size": 102908,
+    "sha256": "c41bd6231a3efc7ea0dd1a773069172d6d3b38586d5d5e331a28fbf26258b531"
+  },
+  {
+    "source_id": "src080",
+    "origin": "targets",
+    "filename": "激突要塞!+   レート戦 (1).xlsx",
+    "size": 12932061,
+    "sha256": "d9cfaec9e9de487ed87dc5232b4540d1d52517a7e53e7fcc7a348079bd125698"
+  },
+  {
+    "source_id": "src081",
+    "origin": "targets",
+    "filename": "激突要塞!+   レート戦.xlsx",
+    "size": 15366951,
+    "sha256": "9394889bcae1653bbd3da0e32b20eb575629163090379627310632d2d554f9c0"
+  },
+  {
+    "source_id": "src082",
+    "origin": "targets",
+    "filename": "激突要塞匹配赛（第2赛季）.xlsx",
+    "size": 86496,
+    "sha256": "b287ba9151be8a890e6aa6294c4b942e4f376d4911e92300e3ca1e50367ac78b",
+    "sheets": [
+      {
+        "name": "第一周",
+        "dimension": "A1:H16",
+        "cell_count": 66,
+        "comments": 0
+      },
+      {
+        "name": "第二周",
+        "dimension": "A1:H16",
+        "cell_count": 65,
+        "comments": 0
+      },
+      {
+        "name": "第三周",
+        "dimension": "A1:H16",
+        "cell_count": 65,
+        "comments": 0
+      },
+      {
+        "name": "第四周",
+        "dimension": "A1:H16",
+        "cell_count": 67,
+        "comments": 0
+      },
+      {
+        "name": "第1月加赛1",
+        "dimension": "A1:H16",
+        "cell_count": 67,
+        "comments": 0
+      },
+      {
+        "name": "第1月加赛2",
+        "dimension": "A1:H16",
+        "cell_count": 68,
+        "comments": 0
+      },
+      {
+        "name": "第一月",
+        "dimension": "A1:AF50",
+        "cell_count": 518,
+        "comments": 0
+      },
+      {
+        "name": "第五周1",
+        "dimension": "A1:I16",
+        "cell_count": 75,
+        "comments": 0
+      },
+      {
+        "name": "第五周2",
+        "dimension": "A1:I16",
+        "cell_count": 74,
+        "comments": 0
+      },
+      {
+        "name": "第六周1",
+        "dimension": "A1:H16",
+        "cell_count": 65,
+        "comments": 0
+      },
+      {
+        "name": "第六周2",
+        "dimension": "A1:G15",
+        "cell_count": 64,
+        "comments": 0
+      },
+      {
+        "name": "第七周1",
+        "dimension": "A1:G15",
+        "cell_count": 63,
+        "comments": 0
+      },
+      {
+        "name": "第七周2",
+        "dimension": "A1:G15",
+        "cell_count": 65,
+        "comments": 0
+      },
+      {
+        "name": "第二月",
+        "dimension": "A1:AI40",
+        "cell_count": 618,
+        "comments": 0
+      },
+      {
+        "name": "第八周1",
+        "dimension": "A1:G15",
+        "cell_count": 73,
+        "comments": 0
+      },
+      {
+        "name": "第八周2",
+        "dimension": "A1:G15",
+        "cell_count": 66,
+        "comments": 0
+      },
+      {
+        "name": "第九周1",
+        "dimension": "A1:H16",
+        "cell_count": 66,
+        "comments": 0
+      },
+      {
+        "name": "第九周2",
+        "dimension": "A1:H16",
+        "cell_count": 66,
+        "comments": 0
+      },
+      {
+        "name": "第十周1",
+        "dimension": "A1:H16",
+        "cell_count": 66,
+        "comments": 0
+      },
+      {
+        "name": "第十周2",
+        "dimension": "A1:H16",
+        "cell_count": 67,
+        "comments": 0
+      },
+      {
+        "name": "第三月",
+        "dimension": "A1:AF43",
+        "cell_count": 355,
+        "comments": 0
+      }
+    ],
+    "pages": 0
+  },
+  {
+    "source_id": "src083",
+    "origin": "targets",
+    "filename": "激突要塞匹配赛（第3赛季）.xlsx",
+    "size": 40576,
+    "sha256": "60be068e033f376558ccf9e0906a4c9060434533ceb2290020ffe3ac2f650920",
+    "sheets": [
+      {
+        "name": "循环表",
+        "dimension": "A1:V17",
+        "cell_count": 116,
+        "comments": 0
+      },
+      {
+        "name": "单人赛第五周",
+        "dimension": "A2:E88",
+        "cell_count": 207,
+        "comments": 0
+      },
+      {
+        "name": "单人赛第六周",
+        "dimension": "A1:O12",
+        "cell_count": 110,
+        "comments": 0
+      },
+      {
+        "name": "单人赛第七周",
+        "dimension": "A1:O13",
+        "cell_count": 125,
+        "comments": 0
+      },
+      {
+        "name": "单人赛第八周",
+        "dimension": "A1:M12",
+        "cell_count": 98,
+        "comments": 0
+      },
+      {
+        "name": "Sheet1",
+        "dimension": "A2:B2",
+        "cell_count": 2,
+        "comments": 0
+      },
+      {
+        "name": "第四周",
+        "dimension": "A1:C30",
+        "cell_count": 87,
+        "comments": 0
+      },
+      {
+        "name": "第三周",
+        "dimension": "A1:C30",
+        "cell_count": 87,
+        "comments": 0
+      },
+      {
+        "name": "第二周",
+        "dimension": "A1:D32",
+        "cell_count": 101,
+        "comments": 0
+      },
+      {
+        "name": "第一周",
+        "dimension": "A1:C28",
+        "cell_count": 81,
+        "comments": 0
+      }
+    ],
+    "pages": 0
+  },
+  {
+    "source_id": "src084",
+    "origin": "targets",
+    "filename": "激突要塞小丑杯结果发表.xlsx",
+    "size": 95881,
+    "sha256": "acf604c30eccc394f232fb11c5e09c057e25c4b9376acdbcfa4138c23fd09235",
+    "sheets": [
+      {
+        "name": "Sheet1",
+        "dimension": "A1:Q41",
+        "cell_count": 234,
+        "comments": 0
+      }
+    ],
+    "pages": 0
+  },
+  {
+    "source_id": "src085",
+    "origin": "targets",
+    "filename": "激突要塞希望杯修复.xls",
+    "size": 737280,
+    "sha256": "e5a006ebb71a298de976ee75c9dd0376b061c6cabeb6baee83b49ad7eb79cb09",
+    "sheets": [
+      {
+        "name": "开幕式",
+        "dimension": "A1:AI23",
+        "cell_count": 14,
+        "comments": 0
+      },
+      {
+        "name": "初赛",
+        "dimension": "A1:AP60",
+        "cell_count": 1377,
+        "comments": 0
+      },
+      {
+        "name": "复活赛",
+        "dimension": "A1:AI19",
+        "cell_count": 208,
+        "comments": 0
+      },
+      {
+        "name": "复赛",
+        "dimension": "A1:Y24",
+        "cell_count": 288,
+        "comments": 0
+      },
+      {
+        "name": "决赛",
+        "dimension": "A1:P16",
+        "cell_count": 106,
+        "comments": 0
+      }
+    ],
+    "pages": 0
+  },
+  {
+    "source_id": "src086",
+    "origin": "targets",
+    "filename": "突発大会2023秋 有排名 有分区.xlsx",
+    "size": 2427135,
+    "sha256": "8808b66b02937cce72d0765ca1533bcd14bbf5d7d8f0a4b018b32b20c913ff0b",
+    "sheets": [
+      {
+        "name": "目次",
+        "dimension": "B1:F21",
+        "cell_count": 17,
+        "comments": 0
+      },
+      {
+        "name": "参加要塞リスト",
+        "dimension": "A1:CJ110",
+        "cell_count": 3137,
+        "comments": 0
+      },
+      {
+        "name": "対戦組み合わせ2",
+        "dimension": "A1:I5671",
+        "cell_count": 12343,
+        "comments": 0
+      },
+      {
+        "name": "要塞分析用（未実装）",
+        "dimension": "A1:P931",
+        "cell_count": 322,
+        "comments": 0
+      },
+      {
+        "name": "要塞分析用（未実装）_保存用",
+        "dimension": "A1:P931",
+        "cell_count": 322,
+        "comments": 0
+      },
+      {
+        "name": "対戦組み合わせ",
+        "dimension": "A1:S5675",
+        "cell_count": 71918,
+        "comments": 0
+      },
+      {
+        "name": "自作部門",
+        "dimension": "A1:LU1015",
+        "cell_count": 109596,
+        "comments": 0
+      },
+      {
+        "name": "エキシビションマッチ",
+        "dimension": "A1:LU1000",
+        "cell_count": 114308,
+        "comments": 0
+      },
+      {
+        "name": "分布",
+        "dimension": "A1:AM4754",
+        "cell_count": 3350,
+        "comments": 0
+      }
+    ],
+    "pages": 0
+  },
+  {
+    "source_id": "src087",
+    "origin": "targets",
+    "filename": "第四玉格群星赛IIVSC（Identity IV Stellaris Challenge）比赛表格 (1).xlsm",
+    "size": 219717,
+    "sha256": "9efeb21e69d11f78a08b04527102689655ac28cb22398ab397c4188a469d5545",
+    "sheets": [
+      {
+        "name": "报名表",
+        "dimension": "A1:E31",
+        "cell_count": 151,
+        "comments": 0
+      },
+      {
+        "name": "初赛综合表（前半程）",
+        "dimension": "A1:J25",
+        "cell_count": 247,
+        "comments": 0
+      },
+      {
+        "name": "初赛综合表（后半程）",
+        "dimension": "A1:J25",
+        "cell_count": 247,
+        "comments": 0
+      },
+      {
+        "name": "决赛分队",
+        "dimension": "A1:L24",
+        "cell_count": 35,
+        "comments": 0
+      },
+      {
+        "name": "决赛综合表",
+        "dimension": "A1:S25",
+        "cell_count": 211,
+        "comments": 0
+      },
+      {
+        "name": "决赛对局",
+        "dimension": "A1:P66",
+        "cell_count": 667,
+        "comments": 0
+      },
+      {
+        "name": "积分详细表",
+        "dimension": "A1:AQ25",
+        "cell_count": 975,
+        "comments": 0
+      },
+      {
+        "name": "第一周",
+        "dimension": "A1:S25",
+        "cell_count": 469,
+        "comments": 0
+      },
+      {
+        "name": "第二周",
+        "dimension": "A1:S25",
+        "cell_count": 469,
+        "comments": 0
+      },
+      {
+        "name": "第三周",
+        "dimension": "A1:S25",
+        "cell_count": 469,
+        "comments": 0
+      },
+      {
+        "name": "第四周",
+        "dimension": "A1:S25",
+        "cell_count": 469,
+        "comments": 0
+      },
+      {
+        "name": "第五周",
+        "dimension": "A1:S25",
+        "cell_count": 469,
+        "comments": 0
+      },
+      {
+        "name": "第六周",
+        "dimension": "A1:S25",
+        "cell_count": 469,
+        "comments": 0
+      },
+      {
+        "name": "第七周",
+        "dimension": "A1:S25",
+        "cell_count": 469,
+        "comments": 0
+      },
+      {
+        "name": "第八周",
+        "dimension": "A1:S25",
+        "cell_count": 469,
+        "comments": 0
+      },
+      {
+        "name": "初赛空记录表",
+        "dimension": "A1:S25",
+        "cell_count": 181,
+        "comments": 0
+      },
+      {
+        "name": "决赛随机阵池",
+        "dimension": "A2:D14",
+        "cell_count": 16,
+        "comments": 0
+      }
+    ],
+    "pages": 0
+  },
+  {
+    "source_id": "src088",
+    "origin": "targets",
+    "filename": "红色电音.xlsx",
+    "size": 17262,
+    "sha256": "4713aa6f35f54785685de9851bf4db783d7cc41b9cb5e30ec3b5a29bbf27c7f2",
+    "sheets": [
+      {
+        "name": "Sheet1",
+        "dimension": "A2:H12",
+        "cell_count": 83,
+        "comments": 0
+      },
+      {
+        "name": "Sheet2",
+        "dimension": "A1:L11",
+        "cell_count": 75,
+        "comments": 0
+      }
+    ],
+    "pages": 0
+  },
+  {
+    "source_id": "src089",
+    "origin": "targets",
+    "filename": "谁是大茄王合集表格 (1).xlsx",
+    "size": 110313,
+    "sha256": "47fbcbe6089d1f964bc865dd3150d79294dde998cf4f6ae4cb00b78bb8782c86"
+  },
+  {
+    "source_id": "src090",
+    "origin": "targets",
+    "filename": "调酒师日常考核记录.xlsx",
+    "size": 110498,
+    "sha256": "466a9babbf27b879ebbe75077793455b32093840a39b97a6cbc33cac6d7a03ba"
+  },
+  {
+    "source_id": "src091",
+    "origin": "review_supplement",
+    "filename": "record.txt",
+    "size": 2926,
+    "sha256": "b1f2ee47a53a58d48ccfcb5bfa2521bfd75c6dcf43592e26645887df02246ba5",
+    "sheets": [
+      {
+        "name": "record.txt",
+        "dimension": null,
+        "cell_count": 0,
+        "comments": 0
+      }
+    ],
+    "pages": 0
+  },
+  {
+    "source_id": "src092",
+    "origin": "review_supplement",
+    "filename": "IGCRound3最终结果.png",
+    "size": 445495,
+    "sha256": "642b0296fe248590e5ca1e1f5f1ca587acd90987406a4497b67f336e090d3869",
+    "sheets": [
+      {
+        "name": "对阵图（人工转录）",
+        "dimension": "A2:E46",
+        "cell_count": 225,
+        "comments": 0
+      }
+    ],
+    "pages": 0
+  }
+]

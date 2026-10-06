@@ -1,0 +1,73 @@
+{
+  "schema": "YSTV-Final-Data-v1",
+  "version": "v2026.10.06",
+  "counts": {
+    "players": 119,
+    "events": 36,
+    "matches": 52521,
+    "sources": 92
+  },
+  "license": "MIT",
+  "files": {
+    "data/players.json": {
+      "storage": "data/players.json",
+      "size": 98385,
+      "sha256": "a95bd49f591bd9202ff0830568ca3f58e45324406cdeec93b143ef9b7a69131d"
+    },
+    "data/events.json": {
+      "storage": "data/events.json",
+      "size": 74110,
+      "sha256": "7373e6482d008f7fe472cc6ecdd01a771f9f75bfced90dad07c0f3d25d93ddef"
+    },
+    "data/stages.json": {
+      "storage": "data/stages.json",
+      "size": 269391,
+      "sha256": "d4ac6ec6b1d03c0dee68481534b2195d30a620803c9c37fb0733d2e8e8c51d49"
+    },
+    "data/entrants.json": {
+      "storage": "data/entrants.json",
+      "size": 2604847,
+      "sha256": "8ff540008d641b7ef0217baca6a755468c9ad55122e699b376a4093f1c955192"
+    },
+    "data/formations.json": {
+      "storage": "data/formations.json",
+      "size": 5609683,
+      "sha256": "f0eb950588f5f3b1373f12e0de2e9cbfbde3d4c736e8ecfa1242c1e12b7b9ce2"
+    },
+    "data/lineup_members.json": {
+      "storage": "data/lineup_members.json",
+      "size": 29024,
+      "sha256": "3925f71b2ce7fc274d411c94eace79be5bd0ca10d13c99015f0b6a2f583a02c2"
+    },
+    "data/encounters.json": {
+      "storage": "data/encounters.json.gz",
+      "size": 80715357,
+      "sha256": "611e24d16634daf4455b8aa5fde6c9d0d12adfa9a7417667bd3a04ef9ba71b77"
+    },
+    "data/standings.json": {
+      "storage": "data/standings.json",
+      "size": 609758,
+      "sha256": "5204d66c34477bf9ddd51dc8417a2dbb6289799302b9182c845245520b1e8a91"
+    },
+    "data/records.json": {
+      "storage": "data/records.json",
+      "size": 92,
+      "sha256": "8b44e84e82bfd127fe4229a651476add4885b18d4c4a378a23777751af76d30b"
+    },
+    "data/sources.json": {
+      "storage": "data/sources.json",
+      "size": 80425,
+      "sha256": "a20337e03876adaade3aa39a9763c2344f8cb321b206f8b1d71a0c34320dbbb3"
+    },
+    "data/source_records.json": {
+      "storage": "data/source_records.json.gz",
+      "size": 51969567,
+      "sha256": "3e053315a68c13d755429b0658d5221601f3c6b8fc7f03a81dfe9a0e927ec8e0"
+    },
+    "LICENSE": {
+      "storage": "LICENSE",
+      "size": 1092,
+      "sha256": "82f6af50b383180cc03b4212bf17118002ca3575505762ceb96a067bf3b2bc16"
+    }
+  }
+}

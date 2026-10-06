@@ -1,0 +1,2499 @@
+[
+  {
+    "competition_id": "autumn2023",
+    "name": "突発大会2023秋",
+    "source_ids": [
+      "src037",
+      "src086"
+    ],
+    "status": "complete",
+    "format_description": "每人可投稿4阵；自作阵循环，另有含他作阵的表演循环",
+    "title_year": 2023,
+    "date_start": "2023-10-16",
+    "date_end": "2023-10-17",
+    "date_estimate": "2023-10",
+    "date_precision": "filename_year_inferred_month_from_earliest_modified",
+    "date_basis": [
+      {
+        "source_id": "src037",
+        "kind": "document_modified",
+        "value": "2023-10-17T12:39:47Z"
+      },
+      {
+        "source_id": "src037",
+        "kind": "filesystem_modified",
+        "value": "2023-10-21T20:29:00.191857+08:00"
+      },
+      {
+        "source_id": "src086",
+        "kind": "document_modified",
+        "value": "2023-10-17T12:39:47Z"
+      },
+      {
+        "source_id": "src086",
+        "kind": "filesystem_modified",
+        "value": "2023-10-17T23:38:00.242595+08:00"
+      },
+      {
+        "source_id": "src037",
+        "sheet": "目次",
+        "kind": "excel_serial_schedule",
+        "value": {
+          "submission_deadline": "2023-10-15",
+          "play_start": "2023-10-16",
+          "results_announcement": "2023-10-17"
+        }
+      }
+    ],
+    "notes": [],
+    "schedule_dates": {
+      "submission_deadline": "2023-10-15",
+      "play_start": "2023-10-16",
+      "results_announcement": "2023-10-17"
+    },
+    "stage_count": 9,
+    "encounter_count": 10424,
+    "resolved_encounter_count": 10424,
+    "series": "突发大会",
+    "year": 2023,
+    "tier": "A",
+    "date_label": "2023-10",
+    "date_exact": "2023-10-16",
+    "year_status": "confirmed",
+    "tier_reason": "站点负责人指定：突发大会上调为 A 级，他作阵表演分项单独为 X。",
+    "classification": {
+      "method": "YSTV-Owner-v1",
+      "reference": "站点负责人指定：突发大会 上调成A级",
+      "frozen_at": "2026-10-05",
+      "rationale": "站点负责人指定：突发大会上调为 A 级，他作阵表演分项单独为 X。",
+      "scope": "本站首轮编辑评定；依据实际参赛资料、竞争结构与系列定位，不声称有缺失的赛前榜",
+      "F": null,
+      "P": null,
+      "R": null,
+      "V": null
+    },
+    "editorial_evidence": [
+      {
+        "source_id": "src037",
+        "type": "competition_archive"
+      },
+      {
+        "source_id": "src086",
+        "type": "competition_archive"
+      }
+    ],
+    "player_count": 36,
+    "final_standings_complete": true
+  },
+  {
+    "competition_id": "celsius2022",
+    "name": "℃单阵赛",
+    "source_ids": [
+      "src020",
+      "src070"
+    ],
+    "status": "complete",
+    "format_description": "每人可投稿多个单阵，每对阵交换1p/2p比赛两次",
+    "title_year": 2022,
+    "date_start": null,
+    "date_end": null,
+    "date_estimate": "2022-11",
+    "date_precision": "earliest_modified_month_proxy",
+    "date_basis": [
+      {
+        "source_id": "src020",
+        "kind": "document_modified",
+        "value": "2022-11-19T09:13:34Z"
+      },
+      {
+        "source_id": "src020",
+        "kind": "filesystem_modified",
+        "value": "2022-11-26T13:39:37.529088+08:00"
+      },
+      {
+        "source_id": "src070",
+        "kind": "document_modified",
+        "value": "2022-11-19T09:13:34Z"
+      },
+      {
+        "source_id": "src070",
+        "kind": "filesystem_modified",
+        "value": "2022-11-19T17:45:52+08:00"
+      }
+    ],
+    "notes": [],
+    "stage_count": 4,
+    "encounter_count": 12432,
+    "resolved_encounter_count": 12432,
+    "series": "℃单阵赛",
+    "year": 2022,
+    "tier": "B",
+    "date_label": "2022-11",
+    "date_exact": null,
+    "year_status": "confirmed",
+    "tier_reason": "分组单阵比赛采用交换位置的对局记录；按常规正式竞赛评为 B，记录数量不用于提升等级。",
+    "classification": {
+      "method": "YSTV-Editorial-v1",
+      "reference": [
+        {
+          "source_id": "src020"
+        },
+        {
+          "source_id": "src070"
+        }
+      ],
+      "frozen_at": "2026-10-04",
+      "rationale": "分组单阵比赛采用交换位置的对局记录；按常规正式竞赛评为 B，记录数量不用于提升等级。",
+      "scope": "本站首轮编辑评定；依据实际参赛资料、竞争结构与系列定位，不声称有缺失的赛前榜",
+      "F": null,
+      "P": null,
+      "R": null,
+      "V": null
+    },
+    "editorial_evidence": [
+      {
+        "source_id": "src020",
+        "type": "competition_archive"
+      },
+      {
+        "source_id": "src070",
+        "type": "competition_archive"
+      }
+    ],
+    "player_count": 17,
+    "final_standings_complete": true
+  },
+  {
+    "competition_id": "cgr2020",
+    "name": "CGR",
+    "source_ids": [
+      "src004",
+      "src068",
+      "src069"
+    ],
+    "status": "complete",
+    "format_description": "每名选手提交2阵，单阵循环；PDF为成绩表",
+    "title_year": 2020,
+    "date_start": null,
+    "date_end": null,
+    "date_estimate": "2020-04",
+    "date_precision": "earliest_modified_month_proxy",
+    "date_basis": [
+      {
+        "source_id": "src004",
+        "kind": "filesystem_modified",
+        "value": "2024-07-03T00:03:29.971826+08:00"
+      },
+      {
+        "source_id": "src068",
+        "kind": "document_modified",
+        "value": "2020-04-05T14:55:09Z"
+      },
+      {
+        "source_id": "src068",
+        "kind": "filesystem_modified",
+        "value": "2020-04-05T22:55:30+08:00"
+      },
+      {
+        "source_id": "src069",
+        "kind": "document_modified",
+        "value": "2020-04-05T14:40:04Z"
+      },
+      {
+        "source_id": "src069",
+        "kind": "filesystem_modified",
+        "value": "2023-05-04T20:51:19.494512+08:00"
+      }
+    ],
+    "notes": [
+      "用户确认：PDF仅为中国区选手成绩汇总；交手以实际对战表为准。"
+    ],
+    "stage_count": 5,
+    "encounter_count": 666,
+    "resolved_encounter_count": 666,
+    "series": "CGR",
+    "year": 2020,
+    "tier": "C",
+    "date_label": "2020-04",
+    "date_exact": null,
+    "year_status": "confirmed",
+    "tier_reason": "中国选手排行相关的循环对局资料；赛事定位与历史地位依据有限，首轮保守评为 C。",
+    "classification": {
+      "method": "YSTV-Editorial-v1",
+      "reference": [
+        {
+          "source_id": "src004"
+        },
+        {
+          "source_id": "src068"
+        },
+        {
+          "source_id": "src069"
+        }
+      ],
+      "frozen_at": "2026-10-04",
+      "rationale": "中国选手排行相关的循环对局资料；赛事定位与历史地位依据有限，首轮保守评为 C。",
+      "scope": "本站首轮编辑评定；依据实际参赛资料、竞争结构与系列定位，不声称有缺失的赛前榜",
+      "F": null,
+      "P": null,
+      "R": null,
+      "V": null
+    },
+    "editorial_evidence": [
+      {
+        "source_id": "src004",
+        "type": "competition_archive"
+      },
+      {
+        "source_id": "src068",
+        "type": "competition_archive"
+      },
+      {
+        "source_id": "src069",
+        "type": "competition_archive"
+      },
+      {
+        "user_instruction": "这个赛事名字应该就叫CGR",
+        "date": "2026-10-04"
+      }
+    ],
+    "player_count": 19,
+    "final_standings_complete": true
+  },
+  {
+    "competition_id": "clown2020",
+    "name": "激突要塞小丑杯",
+    "source_ids": [
+      "src084"
+    ],
+    "status": "complete",
+    "format_description": "单人循环；规则详情未写出",
+    "title_year": 2020,
+    "date_start": null,
+    "date_end": null,
+    "date_estimate": "2020-05",
+    "date_precision": "earliest_modified_month_proxy",
+    "date_basis": [
+      {
+        "source_id": "src084",
+        "kind": "document_modified",
+        "value": "2020-05-04T13:43:28Z"
+      },
+      {
+        "source_id": "src084",
+        "kind": "filesystem_modified",
+        "value": "2020-05-11T18:34:40+08:00"
+      }
+    ],
+    "notes": [],
+    "stage_count": 1,
+    "encounter_count": 45,
+    "resolved_encounter_count": 45,
+    "series": "小丑杯",
+    "year": 2020,
+    "tier": "C",
+    "date_label": "2020-05",
+    "date_exact": null,
+    "year_status": "confirmed",
+    "tier_reason": "小规模独立循环杯赛；首轮作为小型竞赛评为 C。",
+    "classification": {
+      "method": "YSTV-Editorial-v1",
+      "reference": [
+        {
+          "source_id": "src084"
+        }
+      ],
+      "frozen_at": "2026-10-04",
+      "rationale": "小规模独立循环杯赛；首轮作为小型竞赛评为 C。",
+      "scope": "本站首轮编辑评定；依据实际参赛资料、竞争结构与系列定位，不声称有缺失的赛前榜",
+      "F": null,
+      "P": null,
+      "R": null,
+      "V": null
+    },
+    "editorial_evidence": [
+      {
+        "source_id": "src084",
+        "type": "competition_archive"
+      }
+    ],
+    "player_count": 10,
+    "final_standings_complete": true
+  },
+  {
+    "competition_id": "daily-s000268",
+    "name": "日常赛 · 12.21",
+    "source_ids": [
+      "src073"
+    ],
+    "status": "complete",
+    "format_description": "12.21/12.22/4.16/4.21 四场独立单阵循环赛事",
+    "title_year": null,
+    "date_start": null,
+    "date_end": null,
+    "date_estimate": "2023-04",
+    "date_precision": "earliest_modified_month_proxy",
+    "date_basis": [
+      {
+        "source_id": "src073",
+        "kind": "document_modified",
+        "value": "2023-04-23T12:20:35Z"
+      },
+      {
+        "source_id": "src073",
+        "kind": "filesystem_modified",
+        "value": "2023-04-26T17:57:08.856422+08:00"
+      }
+    ],
+    "notes": [],
+    "stage_count": 4,
+    "encounter_count": 265,
+    "resolved_encounter_count": 265,
+    "series": "日常赛",
+    "year": null,
+    "tier": "D",
+    "date_label": "2023-04",
+    "date_exact": null,
+    "year_status": "unknown",
+    "tier_reason": "日常对局合集按独立日期拆开，均为日常竞赛 D 级，不作为主要赛事计入年度评价。",
+    "classification": {
+      "method": "YSTV-Editorial-v1",
+      "reference": [
+        {
+          "source_id": "src073"
+        }
+      ],
+      "frozen_at": "2026-10-04",
+      "rationale": "日常对局合集按独立日期拆开，均为日常竞赛 D 级，不作为主要赛事计入年度评价。",
+      "scope": "本站首轮编辑评定；依据实际参赛资料、竞争结构与系列定位，不声称有缺失的赛前榜",
+      "F": null,
+      "P": null,
+      "R": null,
+      "V": null
+    },
+    "editorial_evidence": [
+      {
+        "source_id": "src073",
+        "type": "competition_archive"
+      }
+    ],
+    "player_count": 14,
+    "final_standings_complete": true
+  },
+  {
+    "competition_id": "daily-s000269",
+    "name": "日常赛 · 12.22",
+    "source_ids": [
+      "src073"
+    ],
+    "status": "complete",
+    "format_description": "12.21/12.22/4.16/4.21 四场独立单阵循环赛事",
+    "title_year": null,
+    "date_start": null,
+    "date_end": null,
+    "date_estimate": "2023-04",
+    "date_precision": "earliest_modified_month_proxy",
+    "date_basis": [
+      {
+        "source_id": "src073",
+        "kind": "document_modified",
+        "value": "2023-04-23T12:20:35Z"
+      },
+      {
+        "source_id": "src073",
+        "kind": "filesystem_modified",
+        "value": "2023-04-26T17:57:08.856422+08:00"
+      }
+    ],
+    "notes": [],
+    "stage_count": 4,
+    "encounter_count": 265,
+    "resolved_encounter_count": 265,
+    "series": "日常赛",
+    "year": null,
+    "tier": "D",
+    "date_label": "2023-04",
+    "date_exact": null,
+    "year_status": "unknown",
+    "tier_reason": "日常对局合集按独立日期拆开，均为日常竞赛 D 级，不作为主要赛事计入年度评价。",
+    "classification": {
+      "method": "YSTV-Editorial-v1",
+      "reference": [
+        {
+          "source_id": "src073"
+        }
+      ],
+      "frozen_at": "2026-10-04",
+      "rationale": "日常对局合集按独立日期拆开，均为日常竞赛 D 级，不作为主要赛事计入年度评价。",
+      "scope": "本站首轮编辑评定；依据实际参赛资料、竞争结构与系列定位，不声称有缺失的赛前榜",
+      "F": null,
+      "P": null,
+      "R": null,
+      "V": null
+    },
+    "editorial_evidence": [
+      {
+        "source_id": "src073",
+        "type": "competition_archive"
+      }
+    ],
+    "player_count": 11,
+    "final_standings_complete": true
+  },
+  {
+    "competition_id": "daily-s000270",
+    "name": "日常赛 · 4.16",
+    "source_ids": [
+      "src073"
+    ],
+    "status": "complete",
+    "format_description": "12.21/12.22/4.16/4.21 四场独立单阵循环赛事",
+    "title_year": null,
+    "date_start": null,
+    "date_end": null,
+    "date_estimate": "2023-04",
+    "date_precision": "earliest_modified_month_proxy",
+    "date_basis": [
+      {
+        "source_id": "src073",
+        "kind": "document_modified",
+        "value": "2023-04-23T12:20:35Z"
+      },
+      {
+        "source_id": "src073",
+        "kind": "filesystem_modified",
+        "value": "2023-04-26T17:57:08.856422+08:00"
+      }
+    ],
+    "notes": [],
+    "stage_count": 4,
+    "encounter_count": 265,
+    "resolved_encounter_count": 265,
+    "series": "日常赛",
+    "year": null,
+    "tier": "D",
+    "date_label": "2023-04",
+    "date_exact": null,
+    "year_status": "unknown",
+    "tier_reason": "日常对局合集按独立日期拆开，均为日常竞赛 D 级，不作为主要赛事计入年度评价。",
+    "classification": {
+      "method": "YSTV-Editorial-v1",
+      "reference": [
+        {
+          "source_id": "src073"
+        }
+      ],
+      "frozen_at": "2026-10-04",
+      "rationale": "日常对局合集按独立日期拆开，均为日常竞赛 D 级，不作为主要赛事计入年度评价。",
+      "scope": "本站首轮编辑评定；依据实际参赛资料、竞争结构与系列定位，不声称有缺失的赛前榜",
+      "F": null,
+      "P": null,
+      "R": null,
+      "V": null
+    },
+    "editorial_evidence": [
+      {
+        "source_id": "src073",
+        "type": "competition_archive"
+      }
+    ],
+    "player_count": 8,
+    "final_standings_complete": true
+  },
+  {
+    "competition_id": "daily-s000271",
+    "name": "日常赛 · 4.21",
+    "source_ids": [
+      "src073"
+    ],
+    "status": "complete",
+    "format_description": "12.21/12.22/4.16/4.21 四场独立单阵循环赛事",
+    "title_year": null,
+    "date_start": null,
+    "date_end": null,
+    "date_estimate": "2023-04",
+    "date_precision": "earliest_modified_month_proxy",
+    "date_basis": [
+      {
+        "source_id": "src073",
+        "kind": "document_modified",
+        "value": "2023-04-23T12:20:35Z"
+      },
+      {
+        "source_id": "src073",
+        "kind": "filesystem_modified",
+        "value": "2023-04-26T17:57:08.856422+08:00"
+      }
+    ],
+    "notes": [],
+    "stage_count": 4,
+    "encounter_count": 265,
+    "resolved_encounter_count": 265,
+    "series": "日常赛",
+    "year": null,
+    "tier": "D",
+    "date_label": "2023-04",
+    "date_exact": null,
+    "year_status": "unknown",
+    "tier_reason": "日常对局合集按独立日期拆开，均为日常竞赛 D 级，不作为主要赛事计入年度评价。",
+    "classification": {
+      "method": "YSTV-Editorial-v1",
+      "reference": [
+        {
+          "source_id": "src073"
+        }
+      ],
+      "frozen_at": "2026-10-04",
+      "rationale": "日常对局合集按独立日期拆开，均为日常竞赛 D 级，不作为主要赛事计入年度评价。",
+      "scope": "本站首轮编辑评定；依据实际参赛资料、竞争结构与系列定位，不声称有缺失的赛前榜",
+      "F": null,
+      "P": null,
+      "R": null,
+      "V": null
+    },
+    "editorial_evidence": [
+      {
+        "source_id": "src073",
+        "type": "competition_archive"
+      }
+    ],
+    "player_count": 14,
+    "final_standings_complete": true
+  },
+  {
+    "competition_id": "daily2023",
+    "name": "2023日常循环赛",
+    "source_ids": [
+      "src044"
+    ],
+    "status": "complete",
+    "format_description": "仅收录前部34阵循环矩阵，共561条交手；当前文件没有第二矩阵。",
+    "title_year": 2023,
+    "date_start": null,
+    "date_end": null,
+    "date_estimate": "2023-03",
+    "date_precision": "filename_year_inferred_month_from_earliest_modified",
+    "date_basis": [
+      {
+        "source_id": "src044",
+        "kind": "document_modified",
+        "value": "2023-03-26T12:36:53Z"
+      },
+      {
+        "source_id": "src044",
+        "kind": "filesystem_modified",
+        "value": "2023-09-22T16:40:13.406522+08:00"
+      }
+    ],
+    "notes": [],
+    "stage_count": 3,
+    "encounter_count": 561,
+    "resolved_encounter_count": 561,
+    "series": "日常赛",
+    "year": 2023,
+    "tier": "D",
+    "date_label": "2023-03",
+    "date_exact": null,
+    "year_status": "confirmed",
+    "tier_reason": "日常循环比赛，按日常竞赛定位评为 D，资料完整不改变其赛事定位。",
+    "classification": {
+      "method": "YSTV-Editorial-v1",
+      "reference": [
+        {
+          "source_id": "src044"
+        }
+      ],
+      "frozen_at": "2026-10-04",
+      "rationale": "日常循环比赛，按日常竞赛定位评为 D，资料完整不改变其赛事定位。",
+      "scope": "本站首轮编辑评定；依据实际参赛资料、竞争结构与系列定位，不声称有缺失的赛前榜",
+      "F": null,
+      "P": null,
+      "R": null,
+      "V": null
+    },
+    "editorial_evidence": [
+      {
+        "source_id": "src044",
+        "type": "competition_archive"
+      }
+    ],
+    "player_count": 14,
+    "final_standings_complete": true
+  },
+  {
+    "competition_id": "gtc1",
+    "name": "GTC",
+    "source_ids": [
+      "src006",
+      "src049"
+    ],
+    "status": "complete",
+    "format_description": "每人3个单阵分入A/B/C组，各阵循环，晋级阵决赛循环",
+    "title_year": 2020,
+    "date_start": null,
+    "date_end": null,
+    "date_estimate": "2020-04",
+    "date_precision": "earliest_modified_month_proxy",
+    "date_basis": [
+      {
+        "source_id": "src006",
+        "kind": "document_modified",
+        "value": "2020-04-16T13:02:46Z"
+      },
+      {
+        "source_id": "src006",
+        "kind": "filesystem_modified",
+        "value": "2020-04-22T22:30:00+08:00"
+      },
+      {
+        "source_id": "src049",
+        "kind": "document_modified",
+        "value": "2020-04-16T13:02:46Z"
+      },
+      {
+        "source_id": "src049",
+        "kind": "filesystem_modified",
+        "value": "2020-04-16T21:02:48+08:00"
+      }
+    ],
+    "notes": [],
+    "stage_count": 11,
+    "encounter_count": 1497,
+    "resolved_encounter_count": 1497,
+    "series": "GTC",
+    "year": 2020,
+    "tier": "A",
+    "date_label": "2020-04",
+    "date_exact": null,
+    "year_status": "confirmed",
+    "tier_reason": "多组预赛与决赛组成同一赛事，参赛作者覆盖面较广；作为主要单阵竞赛评为 A。",
+    "classification": {
+      "method": "YSTV-Editorial-v1",
+      "reference": [
+        {
+          "source_id": "src006"
+        },
+        {
+          "source_id": "src049"
+        }
+      ],
+      "frozen_at": "2026-10-04",
+      "rationale": "多组预赛与决赛组成同一赛事，参赛作者覆盖面较广；作为主要单阵竞赛评为 A。",
+      "scope": "本站首轮编辑评定；依据实际参赛资料、竞争结构与系列定位，不声称有缺失的赛前榜",
+      "F": null,
+      "P": null,
+      "R": null,
+      "V": null
+    },
+    "editorial_evidence": [
+      {
+        "source_id": "src006",
+        "type": "competition_archive"
+      },
+      {
+        "source_id": "src049",
+        "type": "competition_archive"
+      }
+    ],
+    "player_count": 28,
+    "final_standings_complete": true
+  },
+  {
+    "competition_id": "gtc2",
+    "name": "GTC S2",
+    "source_ids": [
+      "src005"
+    ],
+    "status": "complete",
+    "format_description": "每人3个单阵分组循环，决赛按晋级阵循环",
+    "title_year": 2023,
+    "date_start": null,
+    "date_end": null,
+    "date_estimate": "2023-08",
+    "date_precision": "earliest_modified_month_proxy",
+    "date_basis": [
+      {
+        "source_id": "src005",
+        "kind": "document_modified",
+        "value": "2023-08-29T13:53:57Z"
+      },
+      {
+        "source_id": "src005",
+        "kind": "filesystem_modified",
+        "value": "2023-09-17T15:38:55.433809+08:00"
+      }
+    ],
+    "notes": [],
+    "stage_count": 12,
+    "encounter_count": 2346,
+    "resolved_encounter_count": 2346,
+    "series": "GTC",
+    "year": 2023,
+    "tier": "A",
+    "date_label": "2023-08",
+    "date_exact": null,
+    "year_status": "confirmed",
+    "tier_reason": "延续 GTC 系列，包含多个分组与后续比赛，参赛阵容较广；作为主要系列赛事评为 A。",
+    "classification": {
+      "method": "YSTV-Editorial-v1",
+      "reference": [
+        {
+          "source_id": "src005"
+        }
+      ],
+      "frozen_at": "2026-10-04",
+      "rationale": "延续 GTC 系列，包含多个分组与后续比赛，参赛阵容较广；作为主要系列赛事评为 A。",
+      "scope": "本站首轮编辑评定；依据实际参赛资料、竞争结构与系列定位，不声称有缺失的赛前榜",
+      "F": null,
+      "P": null,
+      "R": null,
+      "V": null
+    },
+    "editorial_evidence": [
+      {
+        "source_id": "src005",
+        "type": "competition_archive"
+      }
+    ],
+    "player_count": 31,
+    "final_standings_complete": true
+  },
+  {
+    "competition_id": "gtls2",
+    "name": "GTLS S2",
+    "source_ids": [
+      "src007",
+      "src091"
+    ],
+    "status": "unknown",
+    "format_description": "单人3阵；对战按用户补充record.txt登记，累计表作为不同时间的成绩快照保留。",
+    "title_year": 2020,
+    "date_start": null,
+    "date_end": null,
+    "date_estimate": "2020-05",
+    "date_precision": "earliest_modified_month_proxy",
+    "date_basis": [
+      {
+        "source_id": "src007",
+        "kind": "document_modified",
+        "value": "2020-05-09T10:59:01Z"
+      },
+      {
+        "source_id": "src007",
+        "kind": "filesystem_modified",
+        "value": "2020-05-09T19:00:24+08:00"
+      }
+    ],
+    "notes": [],
+    "stage_count": 5,
+    "encounter_count": 76,
+    "resolved_encounter_count": 76,
+    "series": "GTLS",
+    "year": 2020,
+    "tier": "A",
+    "date_label": "2020-05",
+    "date_exact": null,
+    "year_status": "confirmed",
+    "tier_reason": "站点负责人指定：GTL 系列统一为 A 级。",
+    "classification": {
+      "method": "YSTV-Owner-v1",
+      "reference": "站点负责人指定",
+      "frozen_at": "2026-10-05",
+      "rationale": "站点负责人指定：GTL 系列统一为 A 级。",
+      "scope": "本站首轮编辑评定；依据实际参赛资料、竞争结构与系列定位，不声称有缺失的赛前榜",
+      "F": null,
+      "P": null,
+      "R": null,
+      "V": null
+    },
+    "editorial_evidence": [
+      {
+        "type": "user_confirmation",
+        "date": "2026-10-05",
+        "statement": "GTL系列的比赛都调到A级，通常一个系列的比赛都是一个级别"
+      }
+    ],
+    "player_count": 21,
+    "final_standings_complete": false
+  },
+  {
+    "competition_id": "gtls3",
+    "name": "GTLS S3",
+    "source_ids": [
+      "src009"
+    ],
+    "status": "complete",
+    "format_description": "常规赛个人三阵循环；晋级赛个人五阵循环；最终总成绩按原表保存。",
+    "title_year": 2020,
+    "date_start": null,
+    "date_end": null,
+    "date_estimate": "2020-08",
+    "date_precision": "earliest_modified_month_proxy",
+    "date_basis": [
+      {
+        "source_id": "src009",
+        "kind": "document_modified",
+        "value": "2020-08-03T14:00:15Z"
+      },
+      {
+        "source_id": "src009",
+        "kind": "filesystem_modified",
+        "value": "2020-08-15T09:53:12+08:00"
+      }
+    ],
+    "notes": [],
+    "stage_count": 6,
+    "encounter_count": 245,
+    "resolved_encounter_count": 245,
+    "series": "GTLS",
+    "year": 2020,
+    "tier": "A",
+    "date_label": "2020-08",
+    "date_exact": null,
+    "year_status": "confirmed",
+    "tier_reason": "站点负责人指定：GTL 系列统一为 A 级。",
+    "classification": {
+      "method": "YSTV-Owner-v1",
+      "reference": "站点负责人指定",
+      "frozen_at": "2026-10-05",
+      "rationale": "站点负责人指定：GTL 系列统一为 A 级。",
+      "scope": "本站首轮编辑评定；依据实际参赛资料、竞争结构与系列定位，不声称有缺失的赛前榜",
+      "F": null,
+      "P": null,
+      "R": null,
+      "V": null
+    },
+    "editorial_evidence": [
+      {
+        "review": "stage_format_audit.json",
+        "date": "2026-10-04"
+      }
+    ],
+    "player_count": 20,
+    "final_standings_complete": true
+  },
+  {
+    "competition_id": "gtls3plus",
+    "name": "GTLS3!+ 第1赛季",
+    "source_ids": [
+      "src008",
+      "src050"
+    ],
+    "status": "complete",
+    "format_description": "预赛个人三阵；决赛与季后挑战采用个人五阵。",
+    "title_year": 2021,
+    "date_start": null,
+    "date_end": null,
+    "date_estimate": "2021-02",
+    "date_precision": "earliest_modified_month_proxy",
+    "date_basis": [
+      {
+        "source_id": "src008",
+        "kind": "document_modified",
+        "value": "2021-02-14T14:06:49Z"
+      },
+      {
+        "source_id": "src008",
+        "kind": "filesystem_modified",
+        "value": "2021-06-19T14:50:40+08:00"
+      },
+      {
+        "source_id": "src050",
+        "kind": "document_modified",
+        "value": "2021-02-06T17:29:11Z"
+      },
+      {
+        "source_id": "src050",
+        "kind": "filesystem_modified",
+        "value": "2021-02-07T22:06:32+08:00"
+      }
+    ],
+    "notes": [],
+    "stage_count": 10,
+    "encounter_count": 631,
+    "resolved_encounter_count": 628,
+    "series": "GTLS",
+    "year": 2021,
+    "tier": "A",
+    "date_label": "2021-02",
+    "date_exact": null,
+    "year_status": "confirmed",
+    "tier_reason": "站点负责人指定：GTL 系列统一为 A 级。",
+    "classification": {
+      "method": "YSTV-Owner-v1",
+      "reference": "站点负责人指定",
+      "frozen_at": "2026-10-05",
+      "rationale": "站点负责人指定：GTL 系列统一为 A 级。",
+      "scope": "本站首轮编辑评定；依据实际参赛资料、竞争结构与系列定位，不声称有缺失的赛前榜",
+      "F": null,
+      "P": null,
+      "R": null,
+      "V": null
+    },
+    "editorial_evidence": [
+      {
+        "review": "stage_format_audit.json",
+        "date": "2026-10-04"
+      }
+    ],
+    "player_count": 36,
+    "final_standings_complete": false
+  },
+  {
+    "competition_id": "gtls4",
+    "name": "GTLS S4",
+    "source_ids": [
+      "src010",
+      "src051",
+      "src011"
+    ],
+    "status": "partial",
+    "format_description": "R1单人3阵；R2拆分单阵循环；缺失部分R1对局",
+    "title_year": 2024,
+    "date_start": null,
+    "date_end": null,
+    "date_estimate": "2024-01",
+    "date_precision": "earliest_modified_month_proxy",
+    "date_basis": [
+      {
+        "source_id": "src010",
+        "kind": "document_modified",
+        "value": "2024-01-21T13:33:56Z"
+      },
+      {
+        "source_id": "src010",
+        "kind": "filesystem_modified",
+        "value": "2024-05-25T21:09:16.750082+08:00"
+      },
+      {
+        "source_id": "src051",
+        "kind": "document_modified",
+        "value": "2024-01-21T13:33:56Z"
+      },
+      {
+        "source_id": "src051",
+        "kind": "filesystem_modified",
+        "value": "2024-07-23T20:21:56.408269+08:00"
+      },
+      {
+        "source_id": "src011",
+        "kind": "document_modified",
+        "value": "2024-05-25T12:56:45Z"
+      },
+      {
+        "source_id": "src011",
+        "kind": "filesystem_modified",
+        "value": "2024-05-25T21:08:27.197982+08:00"
+      }
+    ],
+    "notes": [],
+    "stage_count": 5,
+    "encounter_count": 550,
+    "resolved_encounter_count": 548,
+    "series": "GTLS",
+    "year": 2024,
+    "tier": "A",
+    "date_label": "2024-01",
+    "date_exact": null,
+    "year_status": "confirmed",
+    "tier_reason": "站点负责人指定：GTL 系列统一为 A 级。",
+    "classification": {
+      "method": "YSTV-Owner-v1",
+      "reference": "站点负责人指定",
+      "frozen_at": "2026-10-05",
+      "rationale": "站点负责人指定：GTL 系列统一为 A 级。",
+      "scope": "本站首轮编辑评定；依据实际参赛资料、竞争结构与系列定位，不声称有缺失的赛前榜",
+      "F": null,
+      "P": null,
+      "R": null,
+      "V": null
+    },
+    "editorial_evidence": [
+      {
+        "type": "user_confirmation",
+        "date": "2026-10-05",
+        "statement": "GTL系列的比赛都调到A级，通常一个系列的比赛都是一个级别"
+      }
+    ],
+    "player_count": 25,
+    "final_standings_complete": false
+  },
+  {
+    "competition_id": "hope",
+    "name": "激突要塞希望杯",
+    "source_ids": [
+      "src036",
+      "src085"
+    ],
+    "status": "complete",
+    "format_description": "初赛、复活赛为单阵；复赛个人三阵；决赛个人五阵。",
+    "title_year": 2021,
+    "date_start": null,
+    "date_end": null,
+    "date_estimate": "2021-08",
+    "date_precision": "earliest_modified_month_proxy",
+    "date_basis": [
+      {
+        "source_id": "src036",
+        "kind": "filesystem_modified",
+        "value": "2021-08-15T21:18:11.866886+08:00"
+      },
+      {
+        "source_id": "src085",
+        "kind": "filesystem_modified",
+        "value": "2026-10-04T15:22:49.901000+08:00"
+      }
+    ],
+    "notes": [],
+    "stage_count": 5,
+    "encounter_count": 726,
+    "resolved_encounter_count": 726,
+    "series": "希望杯",
+    "year": 2021,
+    "tier": "B",
+    "date_label": "2021-08",
+    "date_exact": null,
+    "year_status": "confirmed",
+    "tier_reason": "希望杯具有分阶段对局与独立作者参赛记录；按常规正式杯赛评为 B。",
+    "classification": {
+      "method": "YSTV-Editorial-v1",
+      "reference": [
+        {
+          "source_id": "src036"
+        },
+        {
+          "source_id": "src085"
+        }
+      ],
+      "frozen_at": "2026-10-04",
+      "rationale": "希望杯具有分阶段对局与独立作者参赛记录；按常规正式杯赛评为 B。",
+      "scope": "本站首轮编辑评定；依据实际参赛资料、竞争结构与系列定位，不声称有缺失的赛前榜",
+      "F": null,
+      "P": null,
+      "R": null,
+      "V": null
+    },
+    "editorial_evidence": [
+      {
+        "review": "stage_format_audit.json",
+        "date": "2026-10-04"
+      }
+    ],
+    "player_count": 19,
+    "championship_scope": "stage",
+    "final_standings_complete": false
+  },
+  {
+    "competition_id": "igc",
+    "name": "IGC",
+    "source_ids": [
+      "src012",
+      "src013",
+      "src015",
+      "src014",
+      "src092"
+    ],
+    "status": "complete",
+    "format_description": "第一轮个人三阵循环，第二轮单阵循环，第三轮采用五阵阵容的淘汰赛。",
+    "title_year": 2022,
+    "date_start": null,
+    "date_end": null,
+    "date_estimate": "2022-02",
+    "date_precision": "earliest_modified_month_proxy",
+    "date_basis": [
+      {
+        "source_id": "src012",
+        "kind": "document_modified",
+        "value": "2022-08-12T15:41:41Z"
+      },
+      {
+        "source_id": "src012",
+        "kind": "filesystem_modified",
+        "value": "2022-10-22T21:20:29.330060+08:00"
+      },
+      {
+        "source_id": "src013",
+        "kind": "document_modified",
+        "value": "2022-02-13T12:27:36Z"
+      },
+      {
+        "source_id": "src013",
+        "kind": "filesystem_modified",
+        "value": "2022-02-26T16:48:14.774529+08:00"
+      },
+      {
+        "source_id": "src015",
+        "kind": "document_modified",
+        "value": "2022-06-30T06:47:46Z"
+      },
+      {
+        "source_id": "src015",
+        "kind": "filesystem_modified",
+        "value": "2022-07-01T17:04:00.432918+08:00"
+      },
+      {
+        "source_id": "src014",
+        "kind": "document_modified",
+        "value": "2022-08-07T15:01:13Z"
+      },
+      {
+        "source_id": "src014",
+        "kind": "filesystem_modified",
+        "value": "2022-10-22T21:21:54.462960+08:00"
+      }
+    ],
+    "notes": [],
+    "stage_count": 12,
+    "encounter_count": 4050,
+    "resolved_encounter_count": 4050,
+    "series": "IGC",
+    "year": 2022,
+    "tier": "S",
+    "date_label": "2022-02",
+    "date_exact": null,
+    "year_status": "confirmed",
+    "tier_reason": "站点负责人指定：IGC 为 S 级赛事。",
+    "classification": {
+      "method": "YSTV-Owner-v1",
+      "reference": [
+        "用户指令：IGC应该是S级的比赛"
+      ],
+      "frozen_at": "2026-10-04",
+      "rationale": "IGC 按站点负责人的赛事定位指定为 S 级；不补造赛前人数或阵容分值。"
+    },
+    "editorial_evidence": [
+      {
+        "review": "stage_format_audit.json",
+        "date": "2026-10-04"
+      }
+    ],
+    "player_count": 36,
+    "final_standings_complete": true
+  },
+  {
+    "competition_id": "ivsc2026",
+    "name": "IVSC群星挑战赛",
+    "source_ids": [
+      "src018",
+      "src017",
+      "src016"
+    ],
+    "status": "unknown",
+    "format_description": "只收录双方身份明确、常规胜负明确的复活赛对战；猎人求生、重组阵和角色分数阶段不收录。",
+    "title_year": 2026,
+    "date_start": null,
+    "date_end": null,
+    "date_estimate": "2026-04",
+    "date_precision": "earliest_modified_month_proxy",
+    "date_basis": [
+      {
+        "source_id": "src018",
+        "kind": "document_modified",
+        "value": "2026-05-01T16:21:25Z"
+      },
+      {
+        "source_id": "src018",
+        "kind": "filesystem_modified",
+        "value": "2026-05-26T17:57:38.682708+08:00"
+      },
+      {
+        "source_id": "src017",
+        "kind": "document_modified",
+        "value": "2026-04-19T15:14:08Z"
+      },
+      {
+        "source_id": "src017",
+        "kind": "filesystem_modified",
+        "value": "2026-05-26T17:57:39.060744+08:00"
+      },
+      {
+        "source_id": "src016",
+        "kind": "document_modified",
+        "value": "2026-05-24T15:35:30Z"
+      },
+      {
+        "source_id": "src016",
+        "kind": "filesystem_modified",
+        "value": "2026-05-26T17:57:39.279786+08:00"
+      }
+    ],
+    "notes": [],
+    "stage_count": 21,
+    "encounter_count": 26,
+    "resolved_encounter_count": 26,
+    "series": "IVSC",
+    "year": 2026,
+    "tier": "B",
+    "date_label": "2026-04",
+    "date_exact": null,
+    "year_status": "confirmed",
+    "tier_reason": "有角色与队伍结构的系列挑战赛；主体竞赛评为 B，混合作者与特殊项目不进入通用个人评分。",
+    "classification": {
+      "method": "YSTV-Editorial-v1",
+      "reference": [
+        {
+          "source_id": "src018"
+        },
+        {
+          "source_id": "src017"
+        },
+        {
+          "source_id": "src016"
+        }
+      ],
+      "frozen_at": "2026-10-04",
+      "rationale": "有角色与队伍结构的系列挑战赛；主体竞赛评为 B，混合作者与特殊项目不进入通用个人评分。",
+      "scope": "本站首轮编辑评定；依据实际参赛资料、竞争结构与系列定位，不声称有缺失的赛前榜",
+      "F": null,
+      "P": null,
+      "R": null,
+      "V": null
+    },
+    "editorial_evidence": [
+      {
+        "source_id": "src018",
+        "type": "competition_archive"
+      },
+      {
+        "source_id": "src017",
+        "type": "competition_archive"
+      },
+      {
+        "source_id": "src016",
+        "type": "competition_archive"
+      }
+    ],
+    "player_count": 28,
+    "final_standings_complete": false
+  },
+  {
+    "competition_id": "jp202003",
+    "name": "2020年3月日本大会",
+    "source_ids": [
+      "src001",
+      "src045"
+    ],
+    "status": "complete",
+    "format_description": "每人可投稿多个单阵；按阵进行单循环",
+    "title_year": 2020,
+    "date_start": null,
+    "date_end": null,
+    "date_estimate": "2020-03",
+    "date_precision": "filename_year_month",
+    "date_basis": [
+      {
+        "source_id": "src001",
+        "kind": "document_modified",
+        "value": "2020-03-17T07:11:22Z"
+      },
+      {
+        "source_id": "src001",
+        "kind": "filesystem_modified",
+        "value": "2020-04-23T19:49:24+08:00"
+      },
+      {
+        "source_id": "src045",
+        "kind": "document_modified",
+        "value": "2020-03-22T15:39:26Z"
+      },
+      {
+        "source_id": "src045",
+        "kind": "filesystem_modified",
+        "value": "2020-03-22T23:39:28+08:00"
+      }
+    ],
+    "notes": [],
+    "stage_count": 2,
+    "encounter_count": 2485,
+    "resolved_encounter_count": 2485,
+    "series": "日本大会",
+    "year": 2020,
+    "tier": "B",
+    "date_label": "2020-03",
+    "date_exact": null,
+    "year_status": "confirmed",
+    "tier_reason": "独立作者参与的正式单阵循环竞赛，对阵机会均衡；作为常规正式赛事评为 B。",
+    "classification": {
+      "method": "YSTV-Editorial-v1",
+      "reference": [
+        {
+          "source_id": "src001"
+        },
+        {
+          "source_id": "src045"
+        }
+      ],
+      "frozen_at": "2026-10-04",
+      "rationale": "独立作者参与的正式单阵循环竞赛，对阵机会均衡；作为常规正式赛事评为 B。",
+      "scope": "本站首轮编辑评定；依据实际参赛资料、竞争结构与系列定位，不声称有缺失的赛前榜",
+      "F": null,
+      "P": null,
+      "R": null,
+      "V": null
+    },
+    "editorial_evidence": [
+      {
+        "source_id": "src001",
+        "type": "competition_archive"
+      },
+      {
+        "source_id": "src045",
+        "type": "competition_archive"
+      }
+    ],
+    "player_count": 29,
+    "final_standings_complete": true
+  },
+  {
+    "competition_id": "jp202004",
+    "name": "2020年4月大会",
+    "source_ids": [
+      "src002"
+    ],
+    "status": "complete",
+    "format_description": "单人单阵循环赛",
+    "title_year": 2020,
+    "date_start": null,
+    "date_end": null,
+    "date_estimate": "2020-04",
+    "date_precision": "filename_year_month",
+    "date_basis": [
+      {
+        "source_id": "src002",
+        "kind": "document_modified",
+        "value": "2020-04-24T22:15:25Z"
+      },
+      {
+        "source_id": "src002",
+        "kind": "filesystem_modified",
+        "value": "2025-02-01T09:57:15.003574+08:00"
+      }
+    ],
+    "notes": [],
+    "stage_count": 2,
+    "encounter_count": 210,
+    "resolved_encounter_count": 210,
+    "series": "日本大会",
+    "year": 2020,
+    "tier": "B",
+    "date_label": "2020-04",
+    "date_exact": null,
+    "year_status": "confirmed",
+    "tier_reason": "日本大会系列的单阵循环竞赛，参赛与对局结构明确；作为常规正式赛事评为 B。",
+    "classification": {
+      "method": "YSTV-Editorial-v1",
+      "reference": [
+        {
+          "source_id": "src002"
+        }
+      ],
+      "frozen_at": "2026-10-04",
+      "rationale": "日本大会系列的单阵循环竞赛，参赛与对局结构明确；作为常规正式赛事评为 B。",
+      "scope": "本站首轮编辑评定；依据实际参赛资料、竞争结构与系列定位，不声称有缺失的赛前榜",
+      "F": null,
+      "P": null,
+      "R": null,
+      "V": null
+    },
+    "editorial_evidence": [
+      {
+        "source_id": "src002",
+        "type": "competition_archive"
+      }
+    ],
+    "player_count": 21,
+    "final_standings_complete": true
+  },
+  {
+    "competition_id": "labour2023",
+    "name": "劳动节大战",
+    "source_ids": [
+      "src064"
+    ],
+    "status": "partial",
+    "format_description": "投稿单阵随机分4组循环，含加赛、决赛循环",
+    "title_year": 2023,
+    "date_start": null,
+    "date_end": null,
+    "date_estimate": "2023-05",
+    "date_precision": "earliest_modified_month_proxy",
+    "date_basis": [
+      {
+        "source_id": "src064",
+        "kind": "document_modified",
+        "value": "2026-10-04T10:50:18Z"
+      },
+      {
+        "source_id": "src064",
+        "kind": "filesystem_modified",
+        "value": "2026-10-04T18:50:18.535562+08:00"
+      },
+      {
+        "source_id": "src064",
+        "kind": "document_modified",
+        "value": "2023-05-05T07:32:13Z",
+        "source_sha256": "2b280d107c02306d5dc744cc850b8b59b2cb7bf699d0d2c306ad915a7bbe3513",
+        "historical_version": true
+      },
+      {
+        "source_id": "src064",
+        "kind": "filesystem_modified",
+        "value": "2023-06-04T14:20:53.962611+08:00",
+        "source_sha256": "2b280d107c02306d5dc744cc850b8b59b2cb7bf699d0d2c306ad915a7bbe3513",
+        "historical_version": true
+      }
+    ],
+    "notes": [
+      "用户已在原表阵总收集B列补齐实际选手；分组、加赛和决赛优先按完整阵代码连接作者。30号超新星代码在收集表少末尾H，依据其余51阵一致的登记编号关系归属幕府；两版代码及身份依据原样保留。"
+    ],
+    "stage_count": 8,
+    "encounter_count": 452,
+    "resolved_encounter_count": 452,
+    "series": "劳动节大战",
+    "year": 2023,
+    "tier": "B",
+    "date_label": "2023-05",
+    "date_exact": null,
+    "year_status": "confirmed",
+    "tier_reason": "劳动节竞赛有多个阶段的独立对局记录；按常规正式杯赛评为 B。",
+    "classification": {
+      "method": "YSTV-Editorial-v1",
+      "reference": [
+        {
+          "source_id": "src064"
+        }
+      ],
+      "frozen_at": "2026-10-04",
+      "rationale": "劳动节竞赛有多个阶段的独立对局记录；按常规正式杯赛评为 B。",
+      "scope": "本站首轮编辑评定；依据实际参赛资料、竞争结构与系列定位，不声称有缺失的赛前榜",
+      "F": null,
+      "P": null,
+      "R": null,
+      "V": null
+    },
+    "editorial_evidence": [
+      {
+        "source_id": "src064",
+        "type": "competition_archive"
+      }
+    ],
+    "player_count": 17,
+    "championship_scope": "stage",
+    "final_standings_complete": false
+  },
+  {
+    "competition_id": "large2021",
+    "name": "大規模大会",
+    "source_ids": [
+      "src024",
+      "src067"
+    ],
+    "status": "complete",
+    "format_description": "多阵投稿单阵循环，含表演阵，保留竞赛/表演边界",
+    "title_year": 2021,
+    "date_start": null,
+    "date_end": "2021-11-10",
+    "date_estimate": "2021-11",
+    "date_precision": "earliest_modified_month_proxy",
+    "date_basis": [
+      {
+        "source_id": "src024",
+        "kind": "filesystem_modified",
+        "value": "2021-11-12T23:02:19.073893+08:00"
+      },
+      {
+        "source_id": "src067",
+        "kind": "filesystem_modified",
+        "value": "2021-11-10T15:49:56+08:00"
+      },
+      {
+        "source_id": "src024",
+        "sheet": "進行スケジュール等",
+        "kind": "excel_serial_schedule",
+        "value": {
+          "800_matches_stream": "2021-11-03",
+          "2500_matches_stream": "2021-11-06",
+          "4500_matches_results": "2021-11-10"
+        }
+      }
+    ],
+    "notes": [],
+    "schedule_dates": {
+      "800_matches_stream": "2021-11-03",
+      "2500_matches_stream": "2021-11-06",
+      "4500_matches_results": "2021-11-10"
+    },
+    "stage_count": 8,
+    "encounter_count": 4005,
+    "resolved_encounter_count": 4005,
+    "series": "大规模大会",
+    "year": 2021,
+    "tier": "A",
+    "date_label": "2021-11",
+    "date_exact": null,
+    "year_status": "confirmed",
+    "tier_reason": "大规模大会按用户本轮评定升级为 A 级。",
+    "classification": {
+      "method": "YSTV-Owner-v1",
+      "reference": "2026-10-05 用户本轮赛事等级修订",
+      "frozen_at": "2026-10-05",
+      "rationale": "大规模大会按用户本轮评定升级为 A 级。"
+    },
+    "editorial_evidence": [
+      {
+        "type": "owner_instruction",
+        "date": "2026-10-05",
+        "text": "大规模大会按用户本轮评定升级为 A 级。"
+      }
+    ],
+    "player_count": 27,
+    "final_standings_complete": true
+  },
+  {
+    "competition_id": "leaf",
+    "name": "LEAF杯",
+    "source_ids": [
+      "src019",
+      "src052",
+      "src053"
+    ],
+    "status": "complete",
+    "format_description": "每位选手多阵投稿，单阵循环；娱乐评分独立于战斗成绩",
+    "title_year": null,
+    "date_start": null,
+    "date_end": null,
+    "date_estimate": "2021-07",
+    "date_precision": "earliest_modified_month_proxy",
+    "date_basis": [
+      {
+        "source_id": "src019",
+        "kind": "document_modified",
+        "value": "2022-01-13T15:12:20Z"
+      },
+      {
+        "source_id": "src019",
+        "kind": "filesystem_modified",
+        "value": "2025-02-01T09:56:21.491030+08:00"
+      },
+      {
+        "source_id": "src052",
+        "kind": "document_modified",
+        "value": "2021-07-17T13:14:49Z"
+      },
+      {
+        "source_id": "src052",
+        "kind": "filesystem_modified",
+        "value": "2021-07-29T21:42:40+08:00"
+      },
+      {
+        "source_id": "src053",
+        "kind": "document_modified",
+        "value": "2022-01-13T15:12:20Z"
+      },
+      {
+        "source_id": "src053",
+        "kind": "filesystem_modified",
+        "value": "2022-01-13T23:17:32+08:00"
+      }
+    ],
+    "notes": [],
+    "stage_count": 1,
+    "encounter_count": 1431,
+    "resolved_encounter_count": 1431,
+    "series": "LEAF 杯",
+    "year": null,
+    "tier": "B",
+    "date_label": "2021-07",
+    "date_exact": null,
+    "year_status": "unknown",
+    "tier_reason": "LEAF 杯按用户本轮评定升级为 B 级。",
+    "classification": {
+      "method": "YSTV-Owner-v1",
+      "reference": "2026-10-05 用户本轮赛事等级修订",
+      "frozen_at": "2026-10-05",
+      "rationale": "LEAF 杯按用户本轮评定升级为 B 级。"
+    },
+    "editorial_evidence": [
+      {
+        "type": "owner_instruction",
+        "date": "2026-10-05",
+        "text": "LEAF 杯按用户本轮评定升级为 B 级。"
+      }
+    ],
+    "player_count": 16,
+    "final_standings_complete": true
+  },
+  {
+    "competition_id": "masters2020",
+    "name": "中国好阵师2020",
+    "source_ids": [
+      "src021"
+    ],
+    "status": "unknown",
+    "format_description": "导师分组；学员主场/客场阵；完整交手记录缺失",
+    "title_year": 2020,
+    "date_start": null,
+    "date_end": null,
+    "date_estimate": "2020-03",
+    "date_precision": "filename_year_inferred_month_from_earliest_modified",
+    "date_basis": [
+      {
+        "source_id": "src021",
+        "kind": "document_modified",
+        "value": "2020-03-21T14:34:23Z"
+      },
+      {
+        "source_id": "src021",
+        "kind": "filesystem_modified",
+        "value": "2020-05-17T10:52:38+08:00"
+      }
+    ],
+    "notes": [],
+    "stage_count": 12,
+    "encounter_count": 12,
+    "resolved_encounter_count": 0,
+    "series": "好阵师",
+    "year": 2020,
+    "tier": "A",
+    "date_label": "2020-03",
+    "date_exact": null,
+    "year_status": "confirmed",
+    "tier_reason": "好阵师系列按主要系列赛事统一为 A 级；个人、团队和特殊项目的统计归属保持独立。",
+    "classification": {
+      "method": "YSTV-Editorial-v1",
+      "reference": [
+        {
+          "source_id": "src021"
+        }
+      ],
+      "frozen_at": "2026-10-05",
+      "rationale": "好阵师系列按主要系列赛事统一为 A 级；个人、团队和特殊项目的统计归属保持独立。",
+      "scope": "本站首轮编辑评定；依据实际参赛资料、竞争结构与系列定位，不声称有缺失的赛前榜",
+      "F": null,
+      "P": null,
+      "R": null,
+      "V": null
+    },
+    "editorial_evidence": [
+      {
+        "source_id": "src021",
+        "type": "competition_archive"
+      }
+    ],
+    "player_count": 20,
+    "final_standings_complete": false
+  },
+  {
+    "competition_id": "masters2021",
+    "name": "冲国好阵师2021",
+    "source_ids": [
+      "src022",
+      "src063"
+    ],
+    "status": "complete",
+    "format_description": "导师海选、队内单阵循环、跨队单阵循环、导师阵队决赛",
+    "title_year": 2021,
+    "date_start": null,
+    "date_end": null,
+    "date_estimate": "2021-08",
+    "date_precision": "filename_year_inferred_month_from_earliest_modified",
+    "date_basis": [
+      {
+        "source_id": "src022",
+        "kind": "document_modified",
+        "value": "2021-08-02T14:50:40Z"
+      },
+      {
+        "source_id": "src022",
+        "kind": "filesystem_modified",
+        "value": "2021-08-04T11:30:14.712591+08:00"
+      },
+      {
+        "source_id": "src063",
+        "kind": "document_modified",
+        "value": "2021-08-02T14:50:40Z"
+      },
+      {
+        "source_id": "src063",
+        "kind": "filesystem_modified",
+        "value": "2021-08-02T22:55:34+08:00"
+      }
+    ],
+    "notes": [],
+    "stage_count": 8,
+    "encounter_count": 167,
+    "resolved_encounter_count": 167,
+    "series": "好阵师",
+    "year": 2021,
+    "tier": "A",
+    "date_label": "2021-08",
+    "date_exact": null,
+    "year_status": "confirmed",
+    "tier_reason": "好阵师系列按主要系列赛事统一为 A 级；个人、团队和特殊项目的统计归属保持独立。",
+    "classification": {
+      "method": "YSTV-Editorial-v1",
+      "reference": [
+        {
+          "source_id": "src022"
+        },
+        {
+          "source_id": "src063"
+        }
+      ],
+      "frozen_at": "2026-10-05",
+      "rationale": "好阵师系列按主要系列赛事统一为 A 级；个人、团队和特殊项目的统计归属保持独立。",
+      "scope": "本站首轮编辑评定；依据实际参赛资料、竞争结构与系列定位，不声称有缺失的赛前榜",
+      "F": null,
+      "P": null,
+      "R": null,
+      "V": null
+    },
+    "editorial_evidence": [
+      {
+        "source_id": "src022",
+        "type": "competition_archive"
+      },
+      {
+        "source_id": "src063",
+        "type": "competition_archive"
+      }
+    ],
+    "player_count": 23,
+    "final_standings_complete": false
+  },
+  {
+    "competition_id": "masters2022",
+    "name": "激突国好阵师2022",
+    "source_ids": [
+      "src030",
+      "src077"
+    ],
+    "status": "complete",
+    "format_description": "多阶段积分：随机赛、替身赛、个人单阵赛、决赛；特殊娱乐阶段隔离",
+    "title_year": 2022,
+    "date_start": null,
+    "date_end": null,
+    "date_estimate": "2022-03",
+    "date_precision": "filename_year_inferred_month_from_earliest_modified",
+    "date_basis": [
+      {
+        "source_id": "src030",
+        "kind": "document_modified",
+        "value": "2023-03-19T15:13:48Z"
+      },
+      {
+        "source_id": "src030",
+        "kind": "filesystem_modified",
+        "value": "2023-03-24T21:28:10.279130+08:00"
+      },
+      {
+        "source_id": "src077",
+        "kind": "document_modified",
+        "value": "2023-03-19T15:13:48Z"
+      },
+      {
+        "source_id": "src077",
+        "kind": "filesystem_modified",
+        "value": "2023-09-22T16:40:21.261437+08:00"
+      }
+    ],
+    "notes": [],
+    "stage_count": 12,
+    "encounter_count": 1799,
+    "resolved_encounter_count": 1799,
+    "series": "好阵师",
+    "year": 2022,
+    "tier": "A",
+    "date_label": "2022-03",
+    "date_exact": null,
+    "year_status": "confirmed",
+    "tier_reason": "好阵师系列的主要赛事，含多个个人与团队阶段；按主体赛事定位评为 A，特殊项目独立处理。",
+    "classification": {
+      "method": "YSTV-Editorial-v1",
+      "reference": [
+        {
+          "source_id": "src030"
+        },
+        {
+          "source_id": "src077"
+        }
+      ],
+      "frozen_at": "2026-10-04",
+      "rationale": "好阵师系列的主要赛事，含多个个人与团队阶段；按主体赛事定位评为 A，特殊项目独立处理。",
+      "scope": "本站首轮编辑评定；依据实际参赛资料、竞争结构与系列定位，不声称有缺失的赛前榜",
+      "F": null,
+      "P": null,
+      "R": null,
+      "V": null
+    },
+    "editorial_evidence": [
+      {
+        "source_id": "src030",
+        "type": "competition_archive"
+      },
+      {
+        "source_id": "src077",
+        "type": "competition_archive"
+      }
+    ],
+    "player_count": 28,
+    "championship_scope": "stage",
+    "final_standings_complete": false
+  },
+  {
+    "competition_id": "masters2024",
+    "name": "激突国好阵师2024",
+    "source_ids": [
+      "src031"
+    ],
+    "status": "complete",
+    "format_description": "保留普通个人三阵队内赛与决赛交手；特殊娱乐阶段、海王外战不计个人评分。",
+    "title_year": 2024,
+    "date_start": null,
+    "date_end": null,
+    "date_estimate": "2024-08",
+    "date_precision": "filename_year_inferred_month_from_earliest_modified",
+    "date_basis": [
+      {
+        "source_id": "src031",
+        "kind": "document_modified",
+        "value": "2024-08-16T14:10:02Z"
+      },
+      {
+        "source_id": "src031",
+        "kind": "filesystem_modified",
+        "value": "2024-08-17T12:35:46.354383+08:00"
+      }
+    ],
+    "notes": [],
+    "stage_count": 8,
+    "encounter_count": 45,
+    "resolved_encounter_count": 45,
+    "series": "好阵师",
+    "year": 2024,
+    "tier": "A",
+    "date_label": "2024-08",
+    "date_exact": null,
+    "year_status": "confirmed",
+    "tier_reason": "好阵师系列含盲选、队内循环和决赛结构；按主体赛事定位评为 A，团队成绩不分配为成员个人实力。",
+    "classification": {
+      "method": "YSTV-Editorial-v1",
+      "reference": [
+        {
+          "source_id": "src031"
+        }
+      ],
+      "frozen_at": "2026-10-04",
+      "rationale": "好阵师系列含盲选、队内循环和决赛结构；按主体赛事定位评为 A，团队成绩不分配为成员个人实力。",
+      "scope": "本站首轮编辑评定；依据实际参赛资料、竞争结构与系列定位，不声称有缺失的赛前榜",
+      "F": null,
+      "P": null,
+      "R": null,
+      "V": null
+    },
+    "editorial_evidence": [
+      {
+        "review": "stage_format_audit.json",
+        "date": "2026-10-04"
+      }
+    ],
+    "player_count": 24,
+    "final_standings_complete": false
+  },
+  {
+    "competition_id": "masters2026",
+    "name": "好阵师巅峰赛2026",
+    "source_ids": [
+      "src025"
+    ],
+    "status": "unknown",
+    "format_description": "导师队伍选拔、队内双阵组合循环、跨队/决战多人接力",
+    "title_year": 2026,
+    "date_start": null,
+    "date_end": null,
+    "date_estimate": "2026-02",
+    "date_precision": "filename_year_inferred_month_from_earliest_modified",
+    "date_basis": [
+      {
+        "source_id": "src025",
+        "kind": "document_modified",
+        "value": "2026-02-28T14:20:15Z"
+      },
+      {
+        "source_id": "src025",
+        "kind": "filesystem_modified",
+        "value": "2026-02-28T23:20:09.101303+08:00"
+      }
+    ],
+    "notes": [],
+    "stage_count": 6,
+    "encounter_count": 59,
+    "resolved_encounter_count": 59,
+    "series": "好阵师",
+    "year": 2026,
+    "tier": "A",
+    "date_label": "2026-02",
+    "date_exact": null,
+    "year_status": "confirmed",
+    "tier_reason": "好阵师系列的多阶段团队赛事；按主体赛事定位评为 A，等级不改变团队成绩的归属。",
+    "classification": {
+      "method": "YSTV-Editorial-v1",
+      "reference": [
+        {
+          "source_id": "src025"
+        }
+      ],
+      "frozen_at": "2026-10-04",
+      "rationale": "好阵师系列的多阶段团队赛事；按主体赛事定位评为 A，等级不改变团队成绩的归属。",
+      "scope": "本站首轮编辑评定；依据实际参赛资料、竞争结构与系列定位，不声称有缺失的赛前榜",
+      "F": null,
+      "P": null,
+      "R": null,
+      "V": null
+    },
+    "editorial_evidence": [
+      {
+        "source_id": "src025",
+        "type": "competition_archive"
+      }
+    ],
+    "player_count": 24,
+    "final_standings_complete": false
+  },
+  {
+    "competition_id": "matching0",
+    "name": "激突要塞匹配赛第0赛季",
+    "source_ids": [
+      "src032"
+    ],
+    "status": "unknown",
+    "format_description": "有正式赛季名单的1v1匹配，保留单局剩余量和胜负",
+    "title_year": 2020,
+    "date_start": null,
+    "date_end": null,
+    "date_estimate": "2020-08",
+    "date_precision": "earliest_modified_month_proxy",
+    "date_basis": [
+      {
+        "source_id": "src032",
+        "kind": "document_modified",
+        "value": "2020-08-28T03:36:07Z"
+      },
+      {
+        "source_id": "src032",
+        "kind": "filesystem_modified",
+        "value": "2025-02-01T09:53:23.212873+08:00"
+      }
+    ],
+    "notes": [],
+    "stage_count": 15,
+    "encounter_count": 441,
+    "resolved_encounter_count": 435,
+    "series": "匹配赛",
+    "year": 2020,
+    "tier": "C",
+    "date_label": "2020-08",
+    "date_exact": null,
+    "year_status": "confirmed",
+    "tier_reason": "匹配赛统一降为 C 级。",
+    "classification": {
+      "method": "YSTV-Owner-v1",
+      "reference": "2026-10-05 用户本轮赛事等级修订",
+      "frozen_at": "2026-10-05",
+      "rationale": "匹配赛统一降为 C 级。"
+    },
+    "editorial_evidence": [
+      {
+        "type": "owner_instruction",
+        "date": "2026-10-05",
+        "text": "匹配赛统一降为 C 级。"
+      }
+    ],
+    "player_count": 21,
+    "final_standings_complete": false
+  },
+  {
+    "competition_id": "matching1",
+    "name": "激突要塞匹配赛第1赛季",
+    "source_ids": [
+      "src033"
+    ],
+    "status": "unknown",
+    "format_description": "有正式赛季名单的1v1匹配，保留单局剩余量和胜负",
+    "title_year": 2020,
+    "date_start": null,
+    "date_end": null,
+    "date_estimate": "2020-10",
+    "date_precision": "earliest_modified_month_proxy",
+    "date_basis": [
+      {
+        "source_id": "src033",
+        "kind": "document_modified",
+        "value": "2020-10-24T11:43:03Z"
+      },
+      {
+        "source_id": "src033",
+        "kind": "filesystem_modified",
+        "value": "2025-02-01T09:57:08.032737+08:00"
+      }
+    ],
+    "notes": [],
+    "stage_count": 24,
+    "encounter_count": 560,
+    "resolved_encounter_count": 547,
+    "series": "匹配赛",
+    "year": 2020,
+    "tier": "C",
+    "date_label": "2020-10",
+    "date_exact": null,
+    "year_status": "confirmed",
+    "tier_reason": "匹配赛统一降为 C 级。",
+    "classification": {
+      "method": "YSTV-Owner-v1",
+      "reference": "2026-10-05 用户本轮赛事等级修订",
+      "frozen_at": "2026-10-05",
+      "rationale": "匹配赛统一降为 C 级。"
+    },
+    "editorial_evidence": [
+      {
+        "type": "owner_instruction",
+        "date": "2026-10-05",
+        "text": "匹配赛统一降为 C 级。"
+      }
+    ],
+    "player_count": 23,
+    "final_standings_complete": false
+  },
+  {
+    "competition_id": "matching2",
+    "name": "激突要塞匹配赛第2赛季",
+    "source_ids": [
+      "src034",
+      "src082"
+    ],
+    "status": "complete",
+    "format_description": "每周单阵循环、每月挑战/侍卫循环",
+    "title_year": 2021,
+    "date_start": null,
+    "date_end": null,
+    "date_estimate": "2021-05",
+    "date_precision": "earliest_modified_month_proxy",
+    "date_basis": [
+      {
+        "source_id": "src034",
+        "kind": "document_modified",
+        "value": "2021-05-29T14:47:26Z"
+      },
+      {
+        "source_id": "src034",
+        "kind": "filesystem_modified",
+        "value": "2025-02-01T09:53:09.750116+08:00"
+      },
+      {
+        "source_id": "src082",
+        "kind": "document_modified",
+        "value": "2021-05-29T14:47:26Z"
+      },
+      {
+        "source_id": "src082",
+        "kind": "filesystem_modified",
+        "value": "2021-05-30T15:50:36+08:00"
+      }
+    ],
+    "notes": [],
+    "stage_count": 43,
+    "encounter_count": 1241,
+    "resolved_encounter_count": 1241,
+    "series": "匹配赛",
+    "year": 2021,
+    "tier": "C",
+    "date_label": "2021-05",
+    "date_exact": null,
+    "year_status": "confirmed",
+    "tier_reason": "匹配赛统一降为 C 级。",
+    "classification": {
+      "method": "YSTV-Owner-v1",
+      "reference": "2026-10-05 用户本轮赛事等级修订",
+      "frozen_at": "2026-10-05",
+      "rationale": "匹配赛统一降为 C 级。"
+    },
+    "editorial_evidence": [
+      {
+        "type": "owner_instruction",
+        "date": "2026-10-05",
+        "text": "匹配赛统一降为 C 级。"
+      }
+    ],
+    "player_count": 19,
+    "final_standings_complete": false
+  },
+  {
+    "competition_id": "matching3",
+    "name": "激突要塞匹配赛第3赛季",
+    "source_ids": [
+      "src035",
+      "src083"
+    ],
+    "status": "complete",
+    "format_description": "前4周多阵对战记录，后4周单人赛；含超限/诛神备注",
+    "title_year": 2021,
+    "date_start": null,
+    "date_end": null,
+    "date_estimate": "2021-10",
+    "date_precision": "earliest_modified_month_proxy",
+    "date_basis": [
+      {
+        "source_id": "src035",
+        "kind": "document_modified",
+        "value": "2021-10-30T14:16:15Z"
+      },
+      {
+        "source_id": "src035",
+        "kind": "filesystem_modified",
+        "value": "2025-02-01T09:52:50.041023+08:00"
+      },
+      {
+        "source_id": "src083",
+        "kind": "document_modified",
+        "value": "2021-10-30T14:16:15Z"
+      },
+      {
+        "source_id": "src083",
+        "kind": "filesystem_modified",
+        "value": "2021-11-09T18:48:24+08:00"
+      }
+    ],
+    "notes": [],
+    "stage_count": 10,
+    "encounter_count": 317,
+    "resolved_encounter_count": 317,
+    "series": "匹配赛",
+    "year": 2021,
+    "tier": "C",
+    "date_label": "2021-10",
+    "date_exact": null,
+    "year_status": "confirmed",
+    "tier_reason": "匹配赛统一降为 C 级。",
+    "classification": {
+      "method": "YSTV-Owner-v1",
+      "reference": "2026-10-05 用户本轮赛事等级修订",
+      "frozen_at": "2026-10-05",
+      "rationale": "匹配赛统一降为 C 级。"
+    },
+    "editorial_evidence": [
+      {
+        "type": "owner_instruction",
+        "date": "2026-10-05",
+        "text": "匹配赛统一降为 C 级。"
+      }
+    ],
+    "player_count": 23,
+    "final_standings_complete": false
+  },
+  {
+    "competition_id": "multistage2024",
+    "name": "多段大会",
+    "source_ids": [
+      "src023"
+    ],
+    "status": "complete",
+    "format_description": "多段单阵投稿循环赛；旧模板辅助页不是本场结果",
+    "title_year": 2024,
+    "date_start": "2024-09-19",
+    "date_end": "2024-09-21",
+    "date_estimate": "2024-09",
+    "date_precision": "earliest_modified_month_proxy",
+    "date_basis": [
+      {
+        "source_id": "src023",
+        "kind": "filesystem_modified",
+        "value": "2024-09-22T20:38:06.368901+08:00"
+      },
+      {
+        "source_id": "src023",
+        "sheet": "目次",
+        "kind": "excel_serial_schedule",
+        "value": {
+          "announcement": "2024-09-05",
+          "submission_deadline": "2024-09-19",
+          "play_start": "2024-09-19",
+          "results_announcement": "2024-09-21"
+        }
+      }
+    ],
+    "notes": [],
+    "schedule_dates": {
+      "announcement": "2024-09-05",
+      "submission_deadline": "2024-09-19",
+      "play_start": "2024-09-19",
+      "results_announcement": "2024-09-21"
+    },
+    "stage_count": 7,
+    "encounter_count": 1275,
+    "resolved_encounter_count": 1275,
+    "series": "多段大会",
+    "year": 2024,
+    "tier": "B",
+    "date_label": "2024-09",
+    "date_exact": "2024-09-19",
+    "year_status": "confirmed",
+    "tier_reason": "有参赛作品列表与完整单阵循环表；按常规正式竞赛评为 B，不以名称授予更高等级。",
+    "classification": {
+      "method": "YSTV-Editorial-v1",
+      "reference": [
+        {
+          "source_id": "src023"
+        }
+      ],
+      "frozen_at": "2026-10-04",
+      "rationale": "有参赛作品列表与完整单阵循环表；按常规正式竞赛评为 B，不以名称授予更高等级。",
+      "scope": "本站首轮编辑评定；依据实际参赛资料、竞争结构与系列定位，不声称有缺失的赛前榜",
+      "F": null,
+      "P": null,
+      "R": null,
+      "V": null
+    },
+    "editorial_evidence": [
+      {
+        "source_id": "src023",
+        "type": "competition_archive"
+      }
+    ],
+    "player_count": 20,
+    "final_standings_complete": true
+  },
+  {
+    "competition_id": "olympics2024",
+    "name": "激奥会激突项目",
+    "source_ids": [
+      "src029",
+      "src026",
+      "src027",
+      "src028"
+    ],
+    "status": "complete",
+    "format_description": "单人1v1、单人3阵3v3、双人合计4阵4v4；分项时间不同",
+    "title_year": 2024,
+    "date_start": null,
+    "date_end": null,
+    "date_estimate": "2024-10",
+    "date_precision": "earliest_modified_month_proxy",
+    "date_basis": [
+      {
+        "source_id": "src029",
+        "kind": "document_modified",
+        "value": "2025-05-25T15:32:45Z"
+      },
+      {
+        "source_id": "src029",
+        "kind": "filesystem_modified",
+        "value": "2026-02-11T22:02:12.974316+08:00"
+      },
+      {
+        "source_id": "src026",
+        "kind": "document_modified",
+        "value": "2024-10-09T12:28:39Z"
+      },
+      {
+        "source_id": "src026",
+        "kind": "filesystem_modified",
+        "value": "2024-10-10T13:37:49.523747+08:00"
+      },
+      {
+        "source_id": "src027",
+        "kind": "document_modified",
+        "value": "2024-12-14T15:01:15Z"
+      },
+      {
+        "source_id": "src027",
+        "kind": "filesystem_modified",
+        "value": "2024-12-27T14:14:44.134215+08:00"
+      },
+      {
+        "source_id": "src028",
+        "kind": "document_modified",
+        "value": "2024-12-14T15:03:21Z"
+      },
+      {
+        "source_id": "src028",
+        "kind": "filesystem_modified",
+        "value": "2024-12-27T14:14:43.262978+08:00"
+      }
+    ],
+    "notes": [],
+    "stage_count": 11,
+    "encounter_count": 1546,
+    "resolved_encounter_count": 1546,
+    "series": "激奥会",
+    "year": 2024,
+    "tier": "A",
+    "date_label": "2024-10",
+    "date_exact": null,
+    "year_status": "confirmed",
+    "tier_reason": "含个人单阵、个人多阵与混双分项，个人分项具有完整循环表及最终成绩；作为主要综合赛事评为 A。",
+    "classification": {
+      "method": "YSTV-Editorial-v1",
+      "reference": [
+        {
+          "source_id": "src029"
+        },
+        {
+          "source_id": "src026"
+        },
+        {
+          "source_id": "src027"
+        },
+        {
+          "source_id": "src028"
+        }
+      ],
+      "frozen_at": "2026-10-04",
+      "rationale": "含个人单阵、个人多阵与混双分项，个人分项具有完整循环表及最终成绩；作为主要综合赛事评为 A。",
+      "scope": "本站首轮编辑评定；依据实际参赛资料、竞争结构与系列定位，不声称有缺失的赛前榜",
+      "F": null,
+      "P": null,
+      "R": null,
+      "V": null
+    },
+    "editorial_evidence": [
+      {
+        "source_id": "src029",
+        "type": "competition_archive"
+      },
+      {
+        "source_id": "src026",
+        "type": "competition_archive"
+      },
+      {
+        "source_id": "src027",
+        "type": "competition_archive"
+      },
+      {
+        "source_id": "src028",
+        "type": "competition_archive"
+      }
+    ],
+    "player_count": 30,
+    "final_standings_complete": true
+  },
+  {
+    "competition_id": "redmusic2023",
+    "name": "红色电音",
+    "source_ids": [
+      "src088"
+    ],
+    "status": "complete",
+    "format_description": "单人3阵战队循环",
+    "title_year": 2023,
+    "date_start": null,
+    "date_end": null,
+    "date_estimate": "2023-07",
+    "date_precision": "earliest_modified_month_proxy",
+    "date_basis": [
+      {
+        "source_id": "src088",
+        "kind": "document_modified",
+        "value": "2023-07-15T15:54:17Z"
+      },
+      {
+        "source_id": "src088",
+        "kind": "filesystem_modified",
+        "value": "2023-09-22T16:39:59.907650+08:00"
+      }
+    ],
+    "notes": [],
+    "stage_count": 2,
+    "encounter_count": 45,
+    "resolved_encounter_count": 45,
+    "series": "红色电音",
+    "year": 2023,
+    "tier": "C",
+    "date_label": "2023-07",
+    "date_exact": null,
+    "year_status": "confirmed",
+    "tier_reason": "小规模独立循环比赛；首轮按小型竞赛评为 C。",
+    "classification": {
+      "method": "YSTV-Editorial-v1",
+      "reference": [
+        {
+          "source_id": "src088"
+        }
+      ],
+      "frozen_at": "2026-10-04",
+      "rationale": "小规模独立循环比赛；首轮按小型竞赛评为 C。",
+      "scope": "本站首轮编辑评定；依据实际参赛资料、竞争结构与系列定位，不声称有缺失的赛前榜",
+      "F": null,
+      "P": null,
+      "R": null,
+      "V": null
+    },
+    "editorial_evidence": [
+      {
+        "source_id": "src088",
+        "type": "competition_archive"
+      }
+    ],
+    "player_count": 10,
+    "final_standings_complete": true
+  },
+  {
+    "competition_id": "spring2020",
+    "name": "2020年4月2日春休み大会",
+    "source_ids": [
+      "src039"
+    ],
+    "status": "complete",
+    "format_description": "每人投稿多个单阵，单循环",
+    "title_year": 2020,
+    "date_start": null,
+    "date_end": null,
+    "date_estimate": "2020-04",
+    "date_precision": "filename_year_inferred_month_from_earliest_modified",
+    "date_basis": [
+      {
+        "source_id": "src039",
+        "kind": "document_modified",
+        "value": "2020-04-02T10:07:49Z"
+      },
+      {
+        "source_id": "src039",
+        "kind": "filesystem_modified",
+        "value": "2020-04-02T18:07:50+08:00"
+      }
+    ],
+    "notes": [],
+    "stage_count": 2,
+    "encounter_count": 1891,
+    "resolved_encounter_count": 1891,
+    "series": "日本大会",
+    "year": 2020,
+    "tier": "B",
+    "date_label": "2020-04",
+    "date_exact": null,
+    "year_status": "confirmed",
+    "tier_reason": "春休大会有完整单阵循环对局及最终成绩资料；作为常规正式赛事评为 B。",
+    "classification": {
+      "method": "YSTV-Editorial-v1",
+      "reference": [
+        {
+          "source_id": "src039"
+        }
+      ],
+      "frozen_at": "2026-10-04",
+      "rationale": "春休大会有完整单阵循环对局及最终成绩资料；作为常规正式赛事评为 B。",
+      "scope": "本站首轮编辑评定；依据实际参赛资料、竞争结构与系列定位，不声称有缺失的赛前榜",
+      "F": null,
+      "P": null,
+      "R": null,
+      "V": null
+    },
+    "editorial_evidence": [
+      {
+        "source_id": "src039",
+        "type": "competition_archive"
+      }
+    ],
+    "player_count": 24,
+    "final_standings_complete": true
+  }
+]

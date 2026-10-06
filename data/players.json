@@ -1,0 +1,4737 @@
+[
+  {
+    "player_id": "p009c53319fb9",
+    "name": "斑鸠",
+    "is_player": true,
+    "original_names": [
+      "斑鸠"
+    ],
+    "competition_ids": [
+      "masters2021"
+    ],
+    "country": "中国",
+    "country_code": "CN",
+    "editorial_evidence": [
+      {
+        "source_id": "src022",
+        "sheet": "海选",
+        "cell": "A16",
+        "basis": "reviewed_common_identity"
+      },
+      {
+        "source_id": "src022",
+        "sheet": "外战",
+        "cell": "C3",
+        "basis": "reviewed_common_identity"
+      },
+      {
+        "source_id": "src022",
+        "sheet": "幕府内战",
+        "cell": "A11",
+        "basis": "reviewed_common_identity"
+      }
+    ],
+    "years": [
+      2021
+    ]
+  },
+  {
+    "player_id": "p02632190f562",
+    "name": "100K",
+    "is_player": true,
+    "original_names": [
+      "纯Tony100K",
+      "100K"
+    ],
+    "competition_ids": [
+      "gtls2",
+      "gtls3plus"
+    ],
+    "country": "中国",
+    "country_code": "CN",
+    "editorial_evidence": [
+      {
+        "source_id": "src007",
+        "sheet": "Sheet1",
+        "cell": "A5",
+        "basis": "reviewed_common_identity"
+      },
+      {
+        "source_id": "src007",
+        "sheet": "Sheet1 (2)",
+        "cell": "A6",
+        "basis": "reviewed_common_identity"
+      },
+      {
+        "source_id": "src008",
+        "sheet": "预赛总表",
+        "cell": "B18",
+        "basis": "reviewed_common_identity"
+      }
+    ],
+    "years": [
+      2020,
+      2021
+    ]
+  },
+  {
+    "player_id": "p06738d641bd6",
+    "name": "终曲黎明",
+    "is_player": true,
+    "original_names": [
+      "终曲黎明"
+    ],
+    "competition_ids": [
+      "daily_series"
+    ],
+    "country": "中国",
+    "country_code": "CN",
+    "editorial_evidence": [
+      {
+        "source": "user",
+        "basis": "explicit_country_region_correction",
+        "date": "2026-10-05",
+        "file": "review/剩余选手国籍填写表.md",
+        "player_name": "终曲黎明",
+        "value": "中国",
+        "statement": "填好了 还有一些没填的就先没有国籍"
+      }
+    ],
+    "years": []
+  },
+  {
+    "player_id": "p06bacee4bc75",
+    "name": "醉醉猫",
+    "is_player": true,
+    "original_names": [
+      "醉醉猫",
+      "醉醉猫_1",
+      "醉醉猫_2",
+      "醉醉猫_3"
+    ],
+    "competition_ids": [
+      "cgr2020",
+      "gtc1",
+      "masters2020"
+    ],
+    "country": "中国",
+    "country_code": "CN",
+    "editorial_evidence": [
+      {
+        "source_id": "src069",
+        "sheet": "対戦表（投稿順）",
+        "cell": "F40",
+        "basis": "reviewed_common_identity"
+      },
+      {
+        "source_id": "src006",
+        "sheet": "A组对战表",
+        "cell": "D28",
+        "basis": "reviewed_common_identity"
+      },
+      {
+        "source_id": "src006",
+        "sheet": "B组对战表",
+        "cell": "D27",
+        "basis": "reviewed_common_identity"
+      }
+    ],
+    "years": [
+      2020
+    ]
+  },
+  {
+    "player_id": "p09a1b036b82b",
+    "name": "354",
+    "is_player": true,
+    "original_names": [
+      "354fffaat",
+      "354-啸天尘",
+      "354-啸天尘_1",
+      "354-啸天尘_2",
+      "354-啸天尘_3",
+      "354"
+    ],
+    "competition_ids": [
+      "cgr2020",
+      "clown2020",
+      "daily_series",
+      "gtc1",
+      "gtc2",
+      "gtls2",
+      "gtls3plus",
+      "gtls4",
+      "hope",
+      "ivsc2026",
+      "labour2023",
+      "masters2020",
+      "masters2022",
+      "masters2024",
+      "masters2026",
+      "matching0",
+      "matching1",
+      "redmusic2023"
+    ],
+    "country": "中国",
+    "country_code": "CN",
+    "editorial_evidence": [
+      {
+        "source_id": "src069",
+        "sheet": "対戦表（投稿順）",
+        "cell": "F19",
+        "basis": "reviewed_common_identity"
+      },
+      {
+        "source_id": "src006",
+        "sheet": "A组对战表",
+        "cell": "D4",
+        "basis": "reviewed_common_identity"
+      },
+      {
+        "source_id": "src006",
+        "sheet": "B组对战表",
+        "cell": "D4",
+        "basis": "reviewed_common_identity"
+      }
+    ],
+    "years": [
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2026
+    ]
+  },
+  {
+    "player_id": "p0b9e7ab8fed6",
+    "name": "猪神",
+    "is_player": true,
+    "original_names": [
+      "弑神piggy",
+      "猪神",
+      "猪神_1",
+      "猪神_2",
+      "猪神_3",
+      "猪神piggy",
+      "最強 I 猪神",
+      "GodPig"
+    ],
+    "competition_ids": [
+      "celebration2021",
+      "daily_series",
+      "gtc1",
+      "gtls2",
+      "gtls3",
+      "gtls3plus",
+      "hope",
+      "igc",
+      "ivsc2026",
+      "jp202003",
+      "leaf",
+      "masters2020",
+      "masters2021",
+      "masters2024",
+      "masters2026",
+      "matching0",
+      "matching1",
+      "matching2",
+      "multistage2024",
+      "olympics2024",
+      "spring2020"
+    ],
+    "country": "中国",
+    "country_code": "CN",
+    "editorial_evidence": [
+      {
+        "source_id": "src012",
+        "sheet": "报名表",
+        "cell": "B25:C25",
+        "basis": "explicit_region"
+      }
+    ],
+    "years": [
+      2020,
+      2021,
+      2022,
+      2024,
+      2026
+    ]
+  },
+  {
+    "player_id": "p0e5dfff677d2",
+    "name": "めいちゃん",
+    "is_player": true,
+    "original_names": [
+      "めいちゃん"
+    ],
+    "competition_ids": [
+      "jp202004"
+    ],
+    "country": "日本",
+    "country_code": "JP",
+    "editorial_evidence": [
+      {
+        "source_id": "src002",
+        "sheet": "対戦表（投稿順）",
+        "cell": "E10",
+        "basis": "reviewed_common_identity"
+      }
+    ],
+    "years": [
+      2020
+    ]
+  },
+  {
+    "player_id": "p0ebdc3317b75",
+    "name": "hell",
+    "is_player": true,
+    "original_names": [
+      "事hell",
+      "hell",
+      "HELL"
+    ],
+    "competition_ids": [
+      "gtls4",
+      "ivsc2026",
+      "masters2024",
+      "masters2026",
+      "olympics2024"
+    ],
+    "country": "中国",
+    "country_code": "CN",
+    "editorial_evidence": [
+      {
+        "source_id": "src051",
+        "sheet": "对战",
+        "cell": "A17",
+        "basis": "reviewed_common_identity"
+      },
+      {
+        "source_id": "src029",
+        "sheet": "积分表",
+        "cell": "A32",
+        "basis": "reviewed_common_identity"
+      },
+      {
+        "source_id": "src029",
+        "sheet": "单人3v3（修正）",
+        "cell": "A25",
+        "basis": "reviewed_common_identity"
+      }
+    ],
+    "years": [
+      2024,
+      2026
+    ]
+  },
+  {
+    "player_id": "p0f8eb4b72b6e",
+    "name": "5000",
+    "is_player": true,
+    "original_names": [
+      "5000"
+    ],
+    "competition_ids": [
+      "igc"
+    ],
+    "country": "中国",
+    "country_code": "CN",
+    "editorial_evidence": [
+      {
+        "source_id": "src012",
+        "sheet": "报名表",
+        "cell": "B21:C21",
+        "basis": "explicit_region"
+      }
+    ],
+    "years": [
+      2022
+    ]
+  },
+  {
+    "player_id": "p101d1e8d9126",
+    "name": "叶玉",
+    "is_player": true,
+    "original_names": [
+      "叶玉",
+      "太极叶玉HIV",
+      "TAICHILEAFHIV",
+      "TAICHILAEF（葉玉）",
+      "TAICHILEAF",
+      "叶玉：",
+      "茄老师",
+      "叶玉HIV"
+    ],
+    "competition_ids": [
+      "autumn2023",
+      "celebration2021",
+      "celsius2022",
+      "daily2023",
+      "daily_series",
+      "gtc2",
+      "gtls3plus",
+      "gtls4",
+      "hope",
+      "igc",
+      "ivsc2026",
+      "labour2023",
+      "leaf",
+      "masters2021",
+      "masters2022",
+      "masters2024",
+      "masters2026",
+      "matching1",
+      "matching2",
+      "matching3",
+      "multistage2024",
+      "olympics2024",
+      "redmusic2023"
+    ],
+    "country": "中国",
+    "country_code": "CN",
+    "editorial_evidence": [
+      {
+        "source_id": "src012",
+        "sheet": "报名表",
+        "cell": "B30:C30",
+        "basis": "explicit_region"
+      }
+    ],
+    "years": [
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2026
+    ]
+  },
+  {
+    "player_id": "p10fc330c47c5",
+    "name": "Algt",
+    "is_player": true,
+    "original_names": [
+      "Algt",
+      "Algt_1",
+      "Algt_2",
+      "Algt_3",
+      "奥了个特",
+      "algt",
+      "莉莉白",
+      "ALGT",
+      "allt",
+      "ALLT",
+      "灭世炮王(PLGT)",
+      "algt小号"
+    ],
+    "competition_ids": [
+      "autumn2023",
+      "cgr2020",
+      "clown2020",
+      "daily_series",
+      "gtc1",
+      "gtc2",
+      "gtls2",
+      "gtls3",
+      "gtls3plus",
+      "hope",
+      "igc",
+      "jp202003",
+      "jp202004",
+      "large2021",
+      "leaf",
+      "masters2021",
+      "masters2022",
+      "matching0",
+      "matching1",
+      "matching2",
+      "matching3",
+      "spring2020"
+    ],
+    "country": "中国",
+    "country_code": "CN",
+    "editorial_evidence": [
+      {
+        "source_id": "src012",
+        "sheet": "报名表",
+        "cell": "B28:C28",
+        "basis": "explicit_region"
+      }
+    ],
+    "years": [
+      2020,
+      2021,
+      2022,
+      2023
+    ]
+  },
+  {
+    "player_id": "p13458fe4fd8a",
+    "name": "人机",
+    "is_player": false,
+    "original_names": [
+      "人机"
+    ],
+    "competition_ids": [
+      "matching0"
+    ],
+    "years": [
+      2020
+    ]
+  },
+  {
+    "player_id": "p144ef054fe07",
+    "name": "昏暗",
+    "is_player": true,
+    "original_names": [
+      "暗い光",
+      "昏暗",
+      "昏暗_1",
+      "昏暗_2",
+      "昏暗_3"
+    ],
+    "competition_ids": [
+      "cgr2020",
+      "gtc1",
+      "gtls3",
+      "jp202003",
+      "masters2020"
+    ],
+    "country": "中国",
+    "country_code": "CN",
+    "editorial_evidence": [
+      {
+        "source_id": "src001",
+        "sheet": "対戦表（投稿順）",
+        "cell": "E36",
+        "basis": "reviewed_common_identity"
+      },
+      {
+        "source_id": "src069",
+        "sheet": "対戦表（投稿順）",
+        "cell": "F38",
+        "basis": "reviewed_common_identity"
+      },
+      {
+        "source_id": "src006",
+        "sheet": "A组对战表",
+        "cell": "D15",
+        "basis": "reviewed_common_identity"
+      }
+    ],
+    "years": [
+      2020
+    ]
+  },
+  {
+    "player_id": "p176cca2c6fde",
+    "name": "三视奈璃",
+    "is_player": true,
+    "original_names": [
+      "奈璃",
+      "三视奈璃"
+    ],
+    "competition_ids": [
+      "masters2024"
+    ],
+    "country": "中国",
+    "country_code": "CN",
+    "editorial_evidence": [
+      {
+        "source_id": "src031",
+        "sheet": "盲选",
+        "cell": "A16",
+        "basis": "reviewed_common_identity"
+      },
+      {
+        "source_id": "src031",
+        "sheet": "内战-神秘玉战队",
+        "cell": "A18",
+        "basis": "reviewed_common_identity"
+      },
+      {
+        "source_id": "src031",
+        "sheet": "决赛",
+        "cell": "A21",
+        "basis": "reviewed_common_identity"
+      }
+    ],
+    "years": [
+      2024
+    ]
+  },
+  {
+    "player_id": "p19bb7eaabf71",
+    "name": "1kunpeng",
+    "is_player": true,
+    "original_names": [
+      "1kunpeng"
+    ],
+    "competition_ids": [
+      "autumn2023",
+      "gtls2",
+      "ivsc2026"
+    ],
+    "country": "中国",
+    "country_code": "CN",
+    "editorial_evidence": [
+      {
+        "source_id": "src007",
+        "sheet": "Sheet1",
+        "cell": "A16",
+        "basis": "reviewed_common_identity"
+      },
+      {
+        "source_id": "src007",
+        "sheet": "Sheet1 (2)",
+        "cell": "A16",
+        "basis": "reviewed_common_identity"
+      },
+      {
+        "source_id": "src037",
+        "sheet": "自作部門",
+        "cell": "E88",
+        "basis": "reviewed_common_identity"
+      }
+    ],
+    "years": [
+      2020,
+      2023,
+      2026
+    ]
+  },
+  {
+    "player_id": "p1d3c02231bf1",
+    "name": "匹配人机",
+    "is_player": false,
+    "original_names": [
+      "匹配人机"
+    ],
+    "competition_ids": [
+      "matching0"
+    ],
+    "years": [
+      2020
+    ]
+  },
+  {
+    "player_id": "p1f9140a4a32e",
+    "name": "TNT191",
+    "is_player": true,
+    "original_names": [
+      "TNT191"
+    ],
+    "competition_ids": [
+      "jp202003"
+    ],
+    "country": "中国",
+    "country_code": "CN",
+    "editorial_evidence": [
+      {
+        "source": "user",
+        "basis": "explicit_country_region_correction",
+        "date": "2026-10-05",
+        "file": "review/剩余选手国籍填写表.md",
+        "player_name": "TNT191",
+        "value": "中国",
+        "statement": "填好了 还有一些没填的就先没有国籍"
+      }
+    ],
+    "years": [
+      2020
+    ]
+  },
+  {
+    "player_id": "p20338353ef4d",
+    "name": "鸭先知",
+    "is_player": true,
+    "original_names": [
+      "先知",
+      "Seer"
+    ],
+    "competition_ids": [
+      "matching0",
+      "matching1"
+    ],
+    "country": "中国",
+    "country_code": "CN",
+    "editorial_evidence": [
+      {
+        "source": "user",
+        "basis": "explicit_country_region_correction",
+        "date": "2026-10-05",
+        "file": "review/剩余选手国籍填写表.md",
+        "player_name": "鸭先知",
+        "value": "中国",
+        "statement": "填好了 还有一些没填的就先没有国籍"
+      }
+    ],
+    "years": [
+      2020
+    ]
+  },
+  {
+    "player_id": "p2093145d7d96",
+    "name": "Panoptes,Infinite Mind",
+    "is_player": true,
+    "original_names": [
+      "Panoptes,Infinite Mind"
+    ],
+    "competition_ids": [
+      "large2021"
+    ],
+    "country": null,
+    "country_code": null,
+    "editorial_evidence": [
+      {
+        "source": "user",
+        "basis": "explicit_country_region_correction",
+        "date": "2026-10-05",
+        "file": "review/剩余选手国籍填写表.md",
+        "player_name": "Panoptes,Infinite Mind",
+        "value": null,
+        "statement": "填好了 还有一些没填的就先没有国籍"
+      }
+    ],
+    "years": [
+      2021
+    ]
+  },
+  {
+    "player_id": "p25735baaa5b4",
+    "name": "chord",
+    "is_player": true,
+    "original_names": [
+      "chord"
+    ],
+    "competition_ids": [
+      "multistage2024"
+    ],
+    "country": "日本",
+    "country_code": "JP",
+    "editorial_evidence": [
+      {
+        "source_id": "src023",
+        "sheet": "総当たり結果",
+        "cell": "E55",
+        "basis": "reviewed_common_identity"
+      },
+      {
+        "source_id": "src023",
+        "sheet": "参加要塞リスト",
+        "cell": "D21",
+        "basis": "reviewed_common_identity"
+      }
+    ],
+    "years": [
+      2024
+    ]
+  },
+  {
+    "player_id": "p25d786cc4d51",
+    "name": "なかやまにんに",
+    "is_player": true,
+    "original_names": [
+      "なかやまにんに"
+    ],
+    "competition_ids": [
+      "large2021"
+    ],
+    "country": "日本",
+    "country_code": "JP",
+    "editorial_evidence": [
+      {
+        "source_id": "src024",
+        "sheet": "対戦表（投稿順）",
+        "cell": "E19",
+        "basis": "reviewed_common_identity"
+      }
+    ],
+    "years": [
+      2021
+    ]
+  },
+  {
+    "player_id": "p2733f162ab3a",
+    "name": "あたち",
+    "is_player": true,
+    "original_names": [
+      "あたち"
+    ],
+    "competition_ids": [
+      "autumn2023"
+    ],
+    "country": "日本",
+    "country_code": "JP",
+    "editorial_evidence": [
+      {
+        "source_id": "src037",
+        "sheet": "エキシビションマッチ",
+        "cell": "E105",
+        "basis": "reviewed_common_identity"
+      }
+    ],
+    "years": [
+      2023
+    ]
+  },
+  {
+    "player_id": "p2782526eaa0c",
+    "name": "677",
+    "is_player": true,
+    "original_names": [
+      "677"
+    ],
+    "competition_ids": [
+      "gtls3plus",
+      "gtls4",
+      "igc",
+      "masters2021",
+      "masters2022",
+      "masters2026"
+    ],
+    "country": "中国",
+    "country_code": "CN",
+    "editorial_evidence": [
+      {
+        "source_id": "src012",
+        "sheet": "报名表",
+        "cell": "B22:C22",
+        "basis": "explicit_region"
+      }
+    ],
+    "years": [
+      2021,
+      2022,
+      2024,
+      2026
+    ]
+  },
+  {
+    "player_id": "p2a776a35b114",
+    "name": "淦生物",
+    "is_player": true,
+    "original_names": [
+      "淦生物"
+    ],
+    "competition_ids": [
+      "autumn2023",
+      "celsius2022",
+      "daily2023",
+      "daily_series",
+      "gtc2",
+      "gtls4",
+      "igc",
+      "ivsc2026",
+      "labour2023",
+      "masters2022",
+      "masters2024",
+      "masters2026",
+      "olympics2024"
+    ],
+    "country": "中国",
+    "country_code": "CN",
+    "editorial_evidence": [
+      {
+        "source_id": "src005",
+        "sheet": "A组对战表",
+        "cell": "C23",
+        "basis": "reviewed_common_identity"
+      },
+      {
+        "source_id": "src005",
+        "sheet": "B组对战表",
+        "cell": "C24",
+        "basis": "reviewed_common_identity"
+      },
+      {
+        "source_id": "src005",
+        "sheet": "C组对战表",
+        "cell": "C23",
+        "basis": "reviewed_common_identity"
+      }
+    ],
+    "years": [
+      2022,
+      2023,
+      2024,
+      2026
+    ]
+  },
+  {
+    "player_id": "p2c52066485a7",
+    "name": "彩可",
+    "is_player": true,
+    "original_names": [
+      "彩可"
+    ],
+    "competition_ids": [
+      "daily2023",
+      "daily_series",
+      "gtc2",
+      "gtls4",
+      "igc",
+      "labour2023"
+    ],
+    "country": "中国",
+    "country_code": "CN",
+    "editorial_evidence": [
+      {
+        "source_id": "src005",
+        "sheet": "A组对战表",
+        "cell": "C19",
+        "basis": "reviewed_common_identity"
+      },
+      {
+        "source_id": "src005",
+        "sheet": "B组对战表",
+        "cell": "C19",
+        "basis": "reviewed_common_identity"
+      },
+      {
+        "source_id": "src005",
+        "sheet": "C组对战表",
+        "cell": "C18",
+        "basis": "reviewed_common_identity"
+      }
+    ],
+    "years": [
+      2022,
+      2023,
+      2024
+    ]
+  },
+  {
+    "player_id": "p2e5a8d9483e4",
+    "name": "Raze Bond",
+    "is_player": true,
+    "original_names": [
+      "Raze Bond",
+      "RB",
+      "rb"
+    ],
+    "competition_ids": [
+      "ivsc2026",
+      "masters2026",
+      "olympics2024"
+    ],
+    "country": "中国",
+    "country_code": "CN",
+    "editorial_evidence": [
+      {
+        "source_id": "src029",
+        "sheet": "积分表",
+        "cell": "A2",
+        "basis": "reviewed_common_identity"
+      },
+      {
+        "source_id": "src029",
+        "sheet": "单人1v1",
+        "cell": "A15",
+        "basis": "reviewed_common_identity"
+      },
+      {
+        "source_id": "src029",
+        "sheet": "单人3v3（修正）",
+        "cell": "A7",
+        "basis": "reviewed_common_identity"
+      }
+    ],
+    "years": [
+      2024,
+      2026
+    ]
+  },
+  {
+    "player_id": "p2f569db4d14c",
+    "name": "BestCpt",
+    "is_player": false,
+    "original_names": [
+      "BestCpt"
+    ],
+    "competition_ids": [
+      "matching0"
+    ],
+    "years": [
+      2020
+    ]
+  },
+  {
+    "player_id": "p3080ca2ab1c0",
+    "name": "kodeik",
+    "is_player": true,
+    "original_names": [
+      "kodeik",
+      "kodeik_1",
+      "kodeik_2",
+      "kodeik_3",
+      "KDK",
+      "kodiek",
+      "Kodeik"
+    ],
+    "competition_ids": [
+      "celebration2021",
+      "gtc1",
+      "gtls3plus",
+      "masters2021",
+      "matching2"
+    ],
+    "country": "中国",
+    "country_code": "CN",
+    "editorial_evidence": [
+      {
+        "source_id": "src006",
+        "sheet": "A组对战表",
+        "cell": "D14",
+        "basis": "reviewed_common_identity"
+      },
+      {
+        "source_id": "src006",
+        "sheet": "B组对战表",
+        "cell": "D14",
+        "basis": "reviewed_common_identity"
+      },
+      {
+        "source_id": "src006",
+        "sheet": "C组对战表",
+        "cell": "D14",
+        "basis": "reviewed_common_identity"
+      }
+    ],
+    "years": [
+      2020,
+      2021
+    ]
+  },
+  {
+    "player_id": "p314905b0da87",
+    "name": "市長",
+    "is_player": true,
+    "original_names": [
+      "市長"
+    ],
+    "competition_ids": [
+      "celsius2022",
+      "jp202003",
+      "jp202004"
+    ],
+    "country": "日本",
+    "country_code": "JP",
+    "editorial_evidence": [
+      {
+        "source_id": "src001",
+        "sheet": "対戦表（投稿順）",
+        "cell": "E54",
+        "basis": "reviewed_common_identity"
+      },
+      {
+        "source_id": "src002",
+        "sheet": "対戦表（投稿順）",
+        "cell": "E25",
+        "basis": "reviewed_common_identity"
+      },
+      {
+        "source_id": "src020",
+        "sheet": "総当たり表",
+        "cell": "A111",
+        "basis": "reviewed_common_identity"
+      }
+    ],
+    "years": [
+      2020,
+      2022
+    ]
+  },
+  {
+    "player_id": "p319c3f39ae90",
+    "name": "神秘玉",
+    "is_player": true,
+    "original_names": [
+      "神秘玉",
+      "神秘"
+    ],
+    "competition_ids": [
+      "gtc2",
+      "ivsc2026",
+      "masters2024",
+      "masters2026",
+      "olympics2024"
+    ],
+    "country": "中国",
+    "country_code": "CN",
+    "editorial_evidence": [
+      {
+        "source_id": "src005",
+        "sheet": "A组对战表",
+        "cell": "C14",
+        "basis": "reviewed_common_identity"
+      },
+      {
+        "source_id": "src005",
+        "sheet": "B组对战表",
+        "cell": "C14",
+        "basis": "reviewed_common_identity"
+      },
+      {
+        "source_id": "src005",
+        "sheet": "决赛对战表",
+        "cell": "C18",
+        "basis": "reviewed_common_identity"
+      }
+    ],
+    "years": [
+      2023,
+      2024,
+      2026
+    ]
+  },
+  {
+    "player_id": "p3312d927c2e7",
+    "name": "审玉",
+    "is_player": true,
+    "original_names": [
+      "审玉",
+      "星幸型形"
+    ],
+    "competition_ids": [
+      "ivsc2026",
+      "masters2024",
+      "multistage2024",
+      "olympics2024",
+      "gtls4"
+    ],
+    "country": "中国",
+    "country_code": "CN",
+    "editorial_evidence": [
+      {
+        "source_id": "src023",
+        "sheet": "総当たり結果",
+        "cell": "E29",
+        "basis": "reviewed_common_identity"
+      },
+      {
+        "source_id": "src023",
+        "sheet": "参加要塞リスト",
+        "cell": "D8",
+        "basis": "reviewed_common_identity"
+      },
+      {
+        "source_id": "src029",
+        "sheet": "积分表",
+        "cell": "A20",
+        "basis": "reviewed_common_identity"
+      }
+    ],
+    "merged_player_uids": [
+      "pdc55b9cc861d"
+    ],
+    "years": [
+      2024
+    ]
+  },
+  {
+    "player_id": "p368a710acad3",
+    "name": "Hage",
+    "is_player": true,
+    "original_names": [
+      "Hage"
+    ],
+    "competition_ids": [
+      "autumn2023",
+      "jp202003"
+    ],
+    "country": "日本",
+    "country_code": "JP",
+    "editorial_evidence": [
+      {
+        "source_id": "src001",
+        "sheet": "対戦表（投稿順）",
+        "cell": "E43",
+        "basis": "reviewed_common_identity"
+      },
+      {
+        "source_id": "src037",
+        "sheet": "自作部門",
+        "cell": "E101",
+        "basis": "reviewed_common_identity"
+      },
+      {
+        "source_id": "src037",
+        "sheet": "エキシビションマッチ",
+        "cell": "E101",
+        "basis": "reviewed_common_identity"
+      }
+    ],
+    "years": [
+      2020,
+      2023
+    ]
+  },
+  {
+    "player_id": "p3ff4775885b8",
+    "name": "コニジ",
+    "is_player": true,
+    "original_names": [
+      "コニジ"
+    ],
+    "competition_ids": [
+      "large2021"
+    ],
+    "country": "日本",
+    "country_code": "JP",
+    "editorial_evidence": [
+      {
+        "source_id": "src024",
+        "sheet": "対戦表（投稿順）",
+        "cell": "E61",
+        "basis": "reviewed_common_identity"
+      }
+    ],
+    "years": [
+      2021
+    ]
+  },
+  {
+    "player_id": "p403a8d336762",
+    "name": "そは”",
+    "is_player": true,
+    "original_names": [
+      "そは”"
+    ],
+    "competition_ids": [
+      "multistage2024"
+    ],
+    "country": "日本",
+    "country_code": "JP",
+    "editorial_evidence": [
+      {
+        "source_id": "src023",
+        "sheet": "総当たり結果",
+        "cell": "E48",
+        "basis": "reviewed_common_identity"
+      },
+      {
+        "source_id": "src023",
+        "sheet": "参加要塞リスト",
+        "cell": "D39",
+        "basis": "reviewed_common_identity"
+      }
+    ],
+    "years": [
+      2024
+    ]
+  },
+  {
+    "player_id": "p4c319ba7b397",
+    "name": "NJ4ndXs",
+    "is_player": true,
+    "original_names": [
+      "NJandXs",
+      "NJ4ndXs",
+      "NJ4ndXs_1",
+      "NJ4ndXs_2",
+      "NJ4ndXs_3",
+      "njandxs",
+      "NJ",
+      "nj",
+      "ninja"
+    ],
+    "competition_ids": [
+      "cgr2020",
+      "gtc1",
+      "gtc2",
+      "gtls2",
+      "gtls3plus",
+      "hope",
+      "igc",
+      "ivsc2026",
+      "masters2020",
+      "masters2021",
+      "masters2022",
+      "masters2024",
+      "masters2026",
+      "matching0",
+      "matching1",
+      "matching2",
+      "matching3",
+      "olympics2024",
+      "spring2020"
+    ],
+    "country": "中国",
+    "country_code": "CN",
+    "editorial_evidence": [
+      {
+        "source_id": "src012",
+        "sheet": "报名表",
+        "cell": "B19:C19",
+        "basis": "explicit_region"
+      }
+    ],
+    "years": [
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2026
+    ]
+  },
+  {
+    "player_id": "p4ea551e4a612",
+    "name": "UnidentifiedFlyingObject",
+    "is_player": true,
+    "original_names": [
+      "UnidentifiedFlyingObject",
+      "UnidentifiedFlyingObject\n_1",
+      "UnidentifiedFlyingObject\n_2",
+      "UnidentifiedFlyingObject（UFO）",
+      "UFO"
+    ],
+    "competition_ids": [
+      "gtc1",
+      "gtls3plus"
+    ],
+    "country": "中国",
+    "country_code": "CN",
+    "editorial_evidence": [
+      {
+        "source_id": "src006",
+        "sheet": "A组对战表",
+        "cell": "D26",
+        "basis": "reviewed_common_identity"
+      },
+      {
+        "source_id": "src006",
+        "sheet": "C组对战表",
+        "cell": "D25",
+        "basis": "reviewed_common_identity"
+      },
+      {
+        "source_id": "src006",
+        "sheet": "决赛对战表",
+        "cell": "D10",
+        "basis": "reviewed_common_identity"
+      }
+    ],
+    "years": [
+      2020,
+      2021
+    ]
+  },
+  {
+    "player_id": "p500da1b592ab",
+    "name": "おれ",
+    "is_player": true,
+    "original_names": [
+      "おれ"
+    ],
+    "competition_ids": [
+      "autumn2023"
+    ],
+    "country": "日本",
+    "country_code": "JP",
+    "editorial_evidence": [
+      {
+        "source_id": "src037",
+        "sheet": "参加要塞リスト",
+        "cell": "E105",
+        "basis": "reviewed_common_identity"
+      }
+    ],
+    "years": []
+  },
+  {
+    "player_id": "p556dc34e5e96",
+    "name": "黒白",
+    "is_player": true,
+    "original_names": [
+      "黒白",
+      "黒白_1",
+      "黒白_2",
+      "黒白_3"
+    ],
+    "competition_ids": [
+      "gtc1",
+      "jp202003",
+      "jp202004",
+      "spring2020"
+    ],
+    "country": "日本",
+    "country_code": "JP",
+    "editorial_evidence": [
+      {
+        "type": "owner_instruction",
+        "date": "2026-10-05",
+        "text": "黒白是日本人"
+      }
+    ],
+    "years": [
+      2020
+    ]
+  },
+  {
+    "player_id": "p57c848e22d44",
+    "name": "即席要塞マン",
+    "is_player": true,
+    "original_names": [
+      "即席要塞マン"
+    ],
+    "competition_ids": [
+      "jp202003"
+    ],
+    "country": "日本",
+    "country_code": "JP",
+    "editorial_evidence": [
+      {
+        "source_id": "src001",
+        "sheet": "対戦表（投稿順）",
+        "cell": "E63",
+        "basis": "reviewed_common_identity"
+      }
+    ],
+    "years": [
+      2020
+    ]
+  },
+  {
+    "player_id": "p57dac6a8c07e",
+    "name": "极限EMK",
+    "is_player": true,
+    "original_names": [
+      "ExEMK",
+      "极限EMK",
+      "极限EMK_1",
+      "极限EMK_2",
+      "极限EMK_3",
+      "极起来",
+      "牢极想你了",
+      "极限哈姆K",
+      "极限",
+      "EMK",
+      "老鸡EMK",
+      "老极"
+    ],
+    "competition_ids": [
+      "celebration2021",
+      "cgr2020",
+      "clown2020",
+      "gtc1",
+      "gtc2",
+      "gtls2",
+      "gtls3",
+      "gtls3plus",
+      "gtls4",
+      "hope",
+      "igc",
+      "ivsc2026",
+      "jp202003",
+      "leaf",
+      "masters2020",
+      "masters2021",
+      "masters2022",
+      "masters2024",
+      "masters2026",
+      "matching0",
+      "matching1",
+      "olympics2024"
+    ],
+    "country": "中国",
+    "country_code": "CN",
+    "editorial_evidence": [
+      {
+        "source_id": "src012",
+        "sheet": "报名表",
+        "cell": "B16:C16",
+        "basis": "explicit_region"
+      }
+    ],
+    "years": [
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2026
+    ]
+  },
+  {
+    "player_id": "p5a9cc884751c",
+    "name": "幕府",
+    "is_player": true,
+    "original_names": [
+      "幕府の激突军团",
+      "幕府将军233",
+      "幕府の军团",
+      "幕府の军团_1",
+      "幕府の军团_2",
+      "幕府の军团_3",
+      "幕府",
+      "【正义】幕府带将军",
+      "幕府将军",
+      "幕府114514田所浩二和田正一asgdugoaigosfhoahfoiasfhiahs",
+      "幕府战队：",
+      "moof",
+      "莫老师",
+      "莫方",
+      "幕府整活"
+    ],
+    "competition_ids": [
+      "autumn2023",
+      "celebration2021",
+      "celsius2022",
+      "cgr2020",
+      "clown2020",
+      "daily2023",
+      "daily_series",
+      "gtc1",
+      "gtc2",
+      "gtls3",
+      "gtls3plus",
+      "gtls4",
+      "hope",
+      "igc",
+      "ivsc2026",
+      "jp202004",
+      "labour2023",
+      "large2021",
+      "leaf",
+      "masters2021",
+      "masters2022",
+      "masters2024",
+      "masters2026",
+      "matching0",
+      "matching1",
+      "matching2",
+      "matching3",
+      "olympics2024"
+    ],
+    "country": "中国",
+    "country_code": "CN",
+    "editorial_evidence": [
+      {
+        "source_id": "src012",
+        "sheet": "报名表",
+        "cell": "B11:C11",
+        "basis": "explicit_region"
+      }
+    ],
+    "years": [
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2026
+    ]
+  },
+  {
+    "player_id": "p5d3af5a8379f",
+    "name": "秀爷",
+    "is_player": false,
+    "original_names": [
+      "秀爷"
+    ],
+    "competition_ids": [
+      "matching2"
+    ],
+    "years": [
+      2021
+    ]
+  },
+  {
+    "player_id": "p5d847cf89347",
+    "name": "わい",
+    "is_player": true,
+    "original_names": [
+      "わい"
+    ],
+    "competition_ids": [
+      "autumn2023"
+    ],
+    "country": "日本",
+    "country_code": "JP",
+    "editorial_evidence": [
+      {
+        "source_id": "src037",
+        "sheet": "参加要塞リスト",
+        "cell": "E103",
+        "basis": "reviewed_common_identity"
+      }
+    ],
+    "years": []
+  },
+  {
+    "player_id": "p5df1bd9b36a7",
+    "name": "ok21",
+    "is_player": true,
+    "original_names": [
+      "ok21",
+      "ok21_1",
+      "ok21_2",
+      "ok21_3",
+      "OK21",
+      "ok22"
+    ],
+    "competition_ids": [
+      "autumn2023",
+      "celsius2022",
+      "clown2020",
+      "gtc1",
+      "gtls3plus",
+      "gtls4",
+      "igc",
+      "jp202003",
+      "jp202004",
+      "spring2020"
+    ],
+    "country": "日本",
+    "country_code": "JP",
+    "editorial_evidence": [
+      {
+        "source_id": "src012",
+        "sheet": "报名表",
+        "cell": "B26:C26",
+        "basis": "explicit_region"
+      }
+    ],
+    "years": [
+      2020,
+      2021,
+      2022,
+      2023,
+      2024
+    ]
+  },
+  {
+    "player_id": "p5f100eecc45f",
+    "name": "七海",
+    "is_player": true,
+    "original_names": [
+      "七海酱",
+      "墨染",
+      "墨染酱w",
+      "七海 千秋",
+      "七海喵w",
+      "七海",
+      "七海w",
+      "moran",
+      "404→墨染",
+      "墨老师",
+      "墨小染"
+    ],
+    "competition_ids": [
+      "celebration2021",
+      "daily2023",
+      "gtc2",
+      "gtls3",
+      "gtls3plus",
+      "igc",
+      "large2021",
+      "leaf",
+      "masters2022",
+      "masters2024",
+      "matching0",
+      "matching1",
+      "matching2",
+      "matching3",
+      "redmusic2023"
+    ],
+    "country": "中国",
+    "country_code": "CN",
+    "editorial_evidence": [
+      {
+        "source_id": "src012",
+        "sheet": "报名表",
+        "cell": "B29:C29",
+        "basis": "explicit_region"
+      }
+    ],
+    "years": [
+      2020,
+      2021,
+      2022,
+      2023,
+      2024
+    ]
+  },
+  {
+    "player_id": "p5f3fe80d1de9",
+    "name": "无殇",
+    "is_player": true,
+    "original_names": [
+      "无殇",
+      "發彁",
+      "殇老师"
+    ],
+    "competition_ids": [
+      "autumn2023",
+      "celebration2021",
+      "celsius2022",
+      "daily2023",
+      "daily_series",
+      "gtc2",
+      "gtls4",
+      "hope",
+      "igc",
+      "ivsc2026",
+      "labour2023",
+      "masters2022",
+      "masters2024",
+      "masters2026",
+      "matching3",
+      "multistage2024",
+      "olympics2024",
+      "redmusic2023"
+    ],
+    "country": "中国",
+    "country_code": "CN",
+    "editorial_evidence": [
+      {
+        "source_id": "src012",
+        "sheet": "报名表",
+        "cell": "B15:C15",
+        "basis": "explicit_region"
+      }
+    ],
+    "years": [
+      2021,
+      2022,
+      2023,
+      2024,
+      2026
+    ]
+  },
+  {
+    "player_id": "p601ebe0fb7ce",
+    "name": "ああああ",
+    "is_player": true,
+    "original_names": [
+      "あああああああああああああああああ",
+      "ああああ"
+    ],
+    "competition_ids": [
+      "autumn2023",
+      "spring2020"
+    ],
+    "country": "日本",
+    "country_code": "JP",
+    "editorial_evidence": [
+      {
+        "source_id": "src037",
+        "sheet": "参加要塞リスト",
+        "cell": "E106",
+        "basis": "reviewed_common_identity"
+      },
+      {
+        "source_id": "src039",
+        "sheet": "Sheet1",
+        "cell": "B30",
+        "basis": "reviewed_common_identity"
+      }
+    ],
+    "years": [
+      2020
+    ]
+  },
+  {
+    "player_id": "p6304ebdc73a6",
+    "name": "ギンツー",
+    "is_player": true,
+    "original_names": [
+      "ギンツー",
+      "ギンツー_1",
+      "ギンツー_2",
+      "ギンツー_3",
+      "ギンツー（银双/Ginntwo）",
+      "银双"
+    ],
+    "competition_ids": [
+      "autumn2023",
+      "clown2020",
+      "gtc1",
+      "gtc2",
+      "gtls3plus",
+      "igc",
+      "jp202003",
+      "jp202004",
+      "large2021",
+      "spring2020"
+    ],
+    "country": "日本",
+    "country_code": "JP",
+    "editorial_evidence": [
+      {
+        "source_id": "src012",
+        "sheet": "报名表",
+        "cell": "B24:C24",
+        "basis": "explicit_region"
+      }
+    ],
+    "years": [
+      2020,
+      2021,
+      2022,
+      2023
+    ]
+  },
+  {
+    "player_id": "p655fc0a6efc5",
+    "name": "playstyle",
+    "is_player": true,
+    "original_names": [
+      "playstyle",
+      "PS"
+    ],
+    "competition_ids": [
+      "autumn2023",
+      "celsius2022",
+      "gtc2",
+      "gtls4",
+      "igc",
+      "ivsc2026",
+      "jp202003",
+      "jp202004",
+      "large2021",
+      "multistage2024",
+      "olympics2024",
+      "spring2020"
+    ],
+    "country": "日本",
+    "country_code": "JP",
+    "editorial_evidence": [
+      {
+        "source_id": "src012",
+        "sheet": "报名表",
+        "cell": "B18:C18",
+        "basis": "explicit_region"
+      }
+    ],
+    "years": [
+      2020,
+      2021,
+      2022,
+      2023,
+      2024
+    ]
+  },
+  {
+    "player_id": "p67cf1c5327c5",
+    "name": "Atomic (2069的做阵Bot)",
+    "is_player": true,
+    "original_names": [
+      "Atomic (2069的做阵Bot)"
+    ],
+    "competition_ids": [
+      "olympics2024"
+    ],
+    "country": "中国",
+    "country_code": "CN",
+    "editorial_evidence": [
+      {
+        "source": "user",
+        "basis": "explicit_country_region_correction",
+        "date": "2026-10-05",
+        "file": "review/剩余选手国籍填写表.md",
+        "player_name": "Atomic (2069的做阵Bot)",
+        "value": "中国",
+        "statement": "填好了 还有一些没填的就先没有国籍"
+      }
+    ],
+    "years": [
+      2024
+    ]
+  },
+  {
+    "player_id": "p6b3c238ebcf1",
+    "name": "404",
+    "is_player": true,
+    "original_names": [
+      "404",
+      "404_1",
+      "404_2",
+      "404_3",
+      "MaGiga404",
+      "40466626",
+      "光翼魔虎404",
+      "354的老攻",
+      "Magiger404",
+      "张老师"
+    ],
+    "competition_ids": [
+      "autumn2023",
+      "celebration2021",
+      "cgr2020",
+      "clown2020",
+      "daily2023",
+      "daily_series",
+      "gtc1",
+      "gtc2",
+      "gtls2",
+      "gtls3",
+      "gtls4",
+      "hope",
+      "igc",
+      "jp202004",
+      "labour2023",
+      "large2021",
+      "leaf",
+      "masters2021",
+      "masters2022",
+      "masters2024",
+      "masters2026",
+      "matching2",
+      "matching3",
+      "multistage2024",
+      "olympics2024",
+      "redmusic2023",
+      "spring2020"
+    ],
+    "country": "中国",
+    "country_code": "CN",
+    "editorial_evidence": [
+      {
+        "source_id": "src012",
+        "sheet": "报名表",
+        "cell": "B10:C10",
+        "basis": "explicit_region"
+      }
+    ],
+    "years": [
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2026
+    ]
+  },
+  {
+    "player_id": "p6b619c594f1c",
+    "name": "二货",
+    "is_player": true,
+    "original_names": [
+      "erhuo",
+      "erhuo_1",
+      "erhuo_2",
+      "erhuo_3",
+      "二货639",
+      "二货",
+      "電玉（二货）",
+      "erhuo-でざいんなの",
+      "衣之妖妖(erhuo)",
+      "error",
+      "是yigeerhuoaaa"
+    ],
+    "competition_ids": [
+      "autumn2023",
+      "celebration2021",
+      "cgr2020",
+      "clown2020",
+      "gtc1",
+      "gtls2",
+      "gtls3",
+      "gtls3plus",
+      "igc",
+      "masters2020",
+      "masters2021",
+      "masters2022",
+      "matching1",
+      "matching2",
+      "matching3"
+    ],
+    "country": "中国",
+    "country_code": "CN",
+    "editorial_evidence": [
+      {
+        "source_id": "src012",
+        "sheet": "报名表",
+        "cell": "B27:C27",
+        "basis": "explicit_region"
+      }
+    ],
+    "years": [
+      2020,
+      2021,
+      2022,
+      2023
+    ]
+  },
+  {
+    "player_id": "p6dbd0ac70f7b",
+    "name": "ましど",
+    "is_player": true,
+    "original_names": [
+      "ましど"
+    ],
+    "competition_ids": [
+      "celsius2022"
+    ],
+    "country": "日本",
+    "country_code": "JP",
+    "editorial_evidence": [
+      {
+        "source_id": "src020",
+        "sheet": "総当たり表",
+        "cell": "A2",
+        "basis": "reviewed_common_identity"
+      }
+    ],
+    "years": [
+      2022
+    ]
+  },
+  {
+    "player_id": "p716c6fd2fb11",
+    "name": "画鸡",
+    "is_player": true,
+    "original_names": [
+      "画鸡"
+    ],
+    "competition_ids": [
+      "masters2026"
+    ],
+    "country": "中国",
+    "country_code": "CN",
+    "editorial_evidence": [
+      {
+        "source_id": "src025",
+        "sheet": "原始数据",
+        "cell": "A26",
+        "basis": "reviewed_common_identity"
+      },
+      {
+        "source_id": "src025",
+        "sheet": "决战",
+        "cell": "A2",
+        "basis": "reviewed_common_identity"
+      }
+    ],
+    "years": [
+      2026
+    ]
+  },
+  {
+    "player_id": "p7295130e10d7",
+    "name": "↓奠↓",
+    "is_player": false,
+    "original_names": [
+      "↓奠↓"
+    ],
+    "competition_ids": [
+      "matching0",
+      "matching1"
+    ],
+    "years": []
+  },
+  {
+    "player_id": "p73841de86c7a",
+    "name": "天玉",
+    "is_player": true,
+    "original_names": [
+      "天玉",
+      "天玉_1",
+      "天玉_2",
+      "天玉_3",
+      "天玉233",
+      "sky",
+      "天老师"
+    ],
+    "competition_ids": [
+      "celebration2021",
+      "cgr2020",
+      "daily_series",
+      "gtc1",
+      "gtc2",
+      "gtls2",
+      "gtls3plus",
+      "gtls4",
+      "hope",
+      "igc",
+      "ivsc2026",
+      "jp202003",
+      "labour2023",
+      "large2021",
+      "leaf",
+      "masters2021",
+      "masters2022",
+      "masters2024",
+      "matching0",
+      "matching1",
+      "matching2",
+      "matching3",
+      "multistage2024",
+      "olympics2024",
+      "redmusic2023"
+    ],
+    "country": "中国",
+    "country_code": "CN",
+    "editorial_evidence": [
+      {
+        "source_id": "src012",
+        "sheet": "报名表",
+        "cell": "B3:C3",
+        "basis": "explicit_region"
+      }
+    ],
+    "years": [
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2026
+    ]
+  },
+  {
+    "player_id": "p74186051b94e",
+    "name": "みかんこぉ＾～(気さくな挨拶)",
+    "is_player": true,
+    "original_names": [
+      "みかんこぉ＾～(気さくな挨拶)"
+    ],
+    "competition_ids": [
+      "autumn2023"
+    ],
+    "country": "日本",
+    "country_code": "JP",
+    "editorial_evidence": [
+      {
+        "source_id": "src037",
+        "sheet": "参加要塞リスト",
+        "cell": "E102",
+        "basis": "reviewed_common_identity"
+      }
+    ],
+    "years": []
+  },
+  {
+    "player_id": "p741eb4bedb55",
+    "name": "七海直升lbwnb战队",
+    "is_player": false,
+    "original_names": [
+      "七海直升lbwnb战队"
+    ],
+    "competition_ids": [
+      "masters2024"
+    ],
+    "years": []
+  },
+  {
+    "player_id": "p77803747967e",
+    "name": "しろっと",
+    "is_player": true,
+    "original_names": [
+      "しろっと"
+    ],
+    "competition_ids": [
+      "jp202004"
+    ],
+    "country": "日本",
+    "country_code": "JP",
+    "editorial_evidence": [
+      {
+        "source_id": "src002",
+        "sheet": "対戦表（投稿順）",
+        "cell": "E19",
+        "basis": "reviewed_common_identity"
+      }
+    ],
+    "years": [
+      2020
+    ]
+  },
+  {
+    "player_id": "p7a31db1152b2",
+    "name": "デザイン",
+    "is_player": true,
+    "original_names": [
+      "デザイン"
+    ],
+    "competition_ids": [
+      "large2021"
+    ],
+    "country": "日本",
+    "country_code": "JP",
+    "editorial_evidence": [
+      {
+        "source_id": "src024",
+        "sheet": "対戦表（投稿順）",
+        "cell": "E34",
+        "basis": "reviewed_common_identity"
+      }
+    ],
+    "years": [
+      2021
+    ]
+  },
+  {
+    "player_id": "p7b1a1e984939",
+    "name": "LX07",
+    "is_player": true,
+    "original_names": [
+      "LX07"
+    ],
+    "competition_ids": [
+      "gtls3plus",
+      "masters2020"
+    ],
+    "country": "中国",
+    "country_code": "CN",
+    "editorial_evidence": [
+      {
+        "source_id": "src008",
+        "sheet": "预赛总表",
+        "cell": "B32",
+        "basis": "reviewed_common_identity"
+      },
+      {
+        "source_id": "src008",
+        "sheet": "预赛对战表",
+        "cell": "A3",
+        "basis": "reviewed_common_identity"
+      },
+      {
+        "source_id": "src021",
+        "sheet": "WMD",
+        "cell": "A6",
+        "basis": "reviewed_common_identity"
+      }
+    ],
+    "years": [
+      2020,
+      2021
+    ]
+  },
+  {
+    "player_id": "p7fe44a10709c",
+    "name": "csol逆天",
+    "is_player": true,
+    "original_names": [
+      "萌新",
+      "逆天",
+      "萌新_1",
+      "萌新_2",
+      "萌新_3",
+      "csol逆天",
+      "天藤诚（逆天）",
+      "(ಡωಡ)",
+      "csol",
+      "魅老师",
+      "李晓红"
+    ],
+    "competition_ids": [
+      "cgr2020",
+      "daily_series",
+      "gtc1",
+      "gtc2",
+      "gtls2",
+      "gtls3plus",
+      "igc",
+      "ivsc2026",
+      "jp202003",
+      "large2021",
+      "leaf",
+      "masters2020",
+      "masters2021",
+      "masters2022",
+      "matching0",
+      "matching1",
+      "matching2",
+      "matching3"
+    ],
+    "country": "中国",
+    "country_code": "CN",
+    "editorial_evidence": [
+      {
+        "source_id": "src001",
+        "sheet": "対戦表（投稿順）",
+        "cell": "E26",
+        "basis": "reviewed_common_identity"
+      },
+      {
+        "source_id": "src069",
+        "sheet": "対戦表（投稿順）",
+        "cell": "F42",
+        "basis": "reviewed_common_identity"
+      },
+      {
+        "source_id": "src006",
+        "sheet": "A组对战表",
+        "cell": "D25",
+        "basis": "reviewed_common_identity"
+      }
+    ],
+    "years": [
+      2020,
+      2021,
+      2022,
+      2023,
+      2026
+    ]
+  },
+  {
+    "player_id": "p82f476ac3727",
+    "name": "big_yaju",
+    "is_player": true,
+    "original_names": [
+      "big_yaju"
+    ],
+    "competition_ids": [
+      "jp202004"
+    ],
+    "country": "日本",
+    "country_code": "JP",
+    "editorial_evidence": [
+      {
+        "source_id": "src002",
+        "sheet": "対戦表（投稿順）",
+        "cell": "E22",
+        "basis": "reviewed_common_identity"
+      }
+    ],
+    "years": [
+      2020
+    ]
+  },
+  {
+    "player_id": "p831761abd0d1",
+    "name": "1qazwsxe9",
+    "is_player": true,
+    "original_names": [
+      "1qazwsxe9",
+      "1qazwsxe9_1",
+      "1qazwsxe9_2",
+      "1qazwsxe9_3",
+      "1q",
+      "1Q"
+    ],
+    "competition_ids": [
+      "cgr2020",
+      "gtc1",
+      "gtc2",
+      "gtls2",
+      "gtls3",
+      "gtls3plus",
+      "gtls4",
+      "igc",
+      "ivsc2026",
+      "jp202003",
+      "labour2023",
+      "masters2020",
+      "masters2022",
+      "masters2024",
+      "masters2026",
+      "matching0",
+      "matching1",
+      "matching3",
+      "olympics2024",
+      "spring2020"
+    ],
+    "country": "中国",
+    "country_code": "CN",
+    "editorial_evidence": [
+      {
+        "source_id": "src012",
+        "sheet": "报名表",
+        "cell": "B6:C6",
+        "basis": "explicit_region"
+      }
+    ],
+    "years": [
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2026
+    ]
+  },
+  {
+    "player_id": "p86187b352414",
+    "name": "沈默",
+    "is_player": true,
+    "original_names": [
+      "沈默(QQ group robot)",
+      "沈默"
+    ],
+    "competition_ids": [
+      "celebration2021",
+      "daily2023",
+      "ivsc2026",
+      "labour2023",
+      "large2021",
+      "masters2021",
+      "masters2022",
+      "matching3"
+    ],
+    "country": "中国",
+    "country_code": "CN",
+    "editorial_evidence": [
+      {
+        "source_id": "src024",
+        "sheet": "対戦表（投稿順）",
+        "cell": "E45",
+        "basis": "reviewed_common_identity"
+      },
+      {
+        "source_id": "src044",
+        "sheet": "Sheet1",
+        "cell": "B13",
+        "basis": "reviewed_common_identity"
+      },
+      {
+        "source_id": "src017",
+        "sheet": "原始数据",
+        "cell": "B15",
+        "basis": "reviewed_common_identity"
+      }
+    ],
+    "years": [
+      2021,
+      2022,
+      2023,
+      2026
+    ]
+  },
+  {
+    "player_id": "p86be9a55762d",
+    "name": "K",
+    "is_player": true,
+    "original_names": [
+      "K",
+      "K_1",
+      "K_2"
+    ],
+    "competition_ids": [
+      "cgr2020",
+      "gtc1",
+      "jp202003",
+      "jp202004",
+      "matching0",
+      "matching1",
+      "spring2020"
+    ],
+    "country": "日本",
+    "country_code": "JP",
+    "editorial_evidence": [
+      {
+        "source": "user",
+        "basis": "explicit_country_region_correction",
+        "date": "2026-10-05",
+        "file": "review/剩余选手国籍填写表.md",
+        "player_name": "K",
+        "value": "日本",
+        "statement": "填好了 还有一些没填的就先没有国籍"
+      }
+    ],
+    "years": [
+      2020
+    ]
+  },
+  {
+    "player_id": "p8a8facf6096f",
+    "name": "啥比",
+    "is_player": false,
+    "original_names": [
+      "啥比"
+    ],
+    "competition_ids": [
+      "matching0",
+      "matching1"
+    ],
+    "years": [
+      2020
+    ]
+  },
+  {
+    "player_id": "p8bd9c0d45353",
+    "name": "303",
+    "is_player": true,
+    "original_names": [
+      "303妹"
+    ],
+    "competition_ids": [
+      "gtls2"
+    ],
+    "country": "中国",
+    "country_code": "CN",
+    "editorial_evidence": [
+      {
+        "source_id": "src007",
+        "sheet": "Sheet1",
+        "cell": "A19",
+        "basis": "reviewed_common_identity"
+      },
+      {
+        "source_id": "src007",
+        "sheet": "Sheet1 (2)",
+        "cell": "A19",
+        "basis": "reviewed_common_identity"
+      },
+      {
+        "source_id": "src091",
+        "sheet": "record.txt",
+        "cell": "line:10",
+        "basis": "reviewed_common_identity"
+      }
+    ],
+    "years": [
+      2020
+    ]
+  },
+  {
+    "player_id": "p8c07e2b0582b",
+    "name": "katu(ore)",
+    "is_player": true,
+    "original_names": [
+      "katu(ore)"
+    ],
+    "competition_ids": [
+      "jp202004"
+    ],
+    "country": "日本",
+    "country_code": "JP",
+    "editorial_evidence": [
+      {
+        "source_id": "src002",
+        "sheet": "対戦表（投稿順）",
+        "cell": "E23",
+        "basis": "reviewed_common_identity"
+      }
+    ],
+    "years": [
+      2020
+    ]
+  },
+  {
+    "player_id": "p92a90570ff8c",
+    "name": "猫玉",
+    "is_player": true,
+    "original_names": [
+      "猫玉",
+      "猫玉-Kalsa",
+      "kalsa",
+      "两倍忧郁开始",
+      "卡尔萨",
+      "焚风猫玉"
+    ],
+    "competition_ids": [
+      "daily_series",
+      "gtls3plus",
+      "hope",
+      "igc",
+      "large2021",
+      "masters2021",
+      "masters2022",
+      "masters2026",
+      "matching0",
+      "matching1",
+      "matching2",
+      "matching3",
+      "redmusic2023"
+    ],
+    "country": "中国",
+    "country_code": "CN",
+    "editorial_evidence": [
+      {
+        "source_id": "src012",
+        "sheet": "报名表",
+        "cell": "B2:C2",
+        "basis": "explicit_region"
+      }
+    ],
+    "years": [
+      2020,
+      2021,
+      2022,
+      2023,
+      2026
+    ]
+  },
+  {
+    "player_id": "p92b1cb3400b9",
+    "name": "MKTL",
+    "is_player": true,
+    "original_names": [
+      "MKTL",
+      "MkTl",
+      "末空天洛(MKTL)",
+      "末(MKTL)",
+      "神·欧米茄·卢卡尔·伯恩斯坦",
+      "mktl",
+      "末空天洛",
+      "MKTL战队：",
+      "MKTL末",
+      "MK",
+      "麦老师",
+      "麦可塔拉"
+    ],
+    "competition_ids": [
+      "autumn2023",
+      "celebration2021",
+      "gtc2",
+      "gtls3",
+      "gtls3plus",
+      "gtls4",
+      "hope",
+      "igc",
+      "ivsc2026",
+      "large2021",
+      "leaf",
+      "masters2021",
+      "masters2022",
+      "masters2024",
+      "masters2026",
+      "matching0",
+      "matching1",
+      "matching2",
+      "matching3",
+      "multistage2024",
+      "olympics2024",
+      "redmusic2023"
+    ],
+    "country": "中国",
+    "country_code": "CN",
+    "editorial_evidence": [
+      {
+        "source_id": "src012",
+        "sheet": "报名表",
+        "cell": "B7:C7",
+        "basis": "explicit_region"
+      }
+    ],
+    "years": [
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2026
+    ]
+  },
+  {
+    "player_id": "p935cfb35b57c",
+    "name": "TASmasa",
+    "is_player": true,
+    "original_names": [
+      "TASmasa",
+      "たすまさ"
+    ],
+    "competition_ids": [
+      "autumn2023",
+      "gtls3plus",
+      "igc",
+      "large2021",
+      "multistage2024"
+    ],
+    "country": "日本",
+    "country_code": "JP",
+    "editorial_evidence": [
+      {
+        "source_id": "src008",
+        "sheet": "预赛总表",
+        "cell": "B27",
+        "basis": "reviewed_common_identity"
+      },
+      {
+        "source_id": "src008",
+        "sheet": "决赛总表",
+        "cell": "B4",
+        "basis": "reviewed_common_identity"
+      },
+      {
+        "source_id": "src008",
+        "sheet": "预赛对战表",
+        "cell": "A7",
+        "basis": "reviewed_common_identity"
+      }
+    ],
+    "years": [
+      2021,
+      2022,
+      2023,
+      2024
+    ]
+  },
+  {
+    "player_id": "p9400f1b21cb5",
+    "name": "19",
+    "is_player": true,
+    "original_names": [
+      "nineteen",
+      "19",
+      "19_1",
+      "19_2"
+    ],
+    "competition_ids": [
+      "gtc1",
+      "gtls3",
+      "jp202003",
+      "masters2020",
+      "spring2020"
+    ],
+    "country": "中国",
+    "country_code": "CN",
+    "editorial_evidence": [
+      {
+        "source": "user",
+        "basis": "explicit_country_region_correction",
+        "date": "2026-10-05",
+        "file": "review/剩余选手国籍填写表.md",
+        "player_name": "19",
+        "value": "中国",
+        "statement": "填好了 还有一些没填的就先没有国籍"
+      }
+    ],
+    "years": [
+      2020
+    ]
+  },
+  {
+    "player_id": "p9552186d84ad",
+    "name": "2069",
+    "is_player": true,
+    "original_names": [
+      "206919202",
+      "206919202_1",
+      "206919202_2",
+      "206919202_3",
+      "2069",
+      "是2069捏",
+      "Kauix",
+      "0⃣",
+      "陈伯",
+      "3188",
+      "Mr.Chen",
+      "Dr.Chen"
+    ],
+    "competition_ids": [
+      "autumn2023",
+      "celebration2021",
+      "celsius2022",
+      "cgr2020",
+      "daily2023",
+      "daily_series",
+      "gtc1",
+      "gtc2",
+      "gtls2",
+      "gtls3",
+      "gtls3plus",
+      "gtls4",
+      "hope",
+      "igc",
+      "ivsc2026",
+      "jp202004",
+      "labour2023",
+      "large2021",
+      "leaf",
+      "masters2020",
+      "masters2021",
+      "masters2022",
+      "masters2024",
+      "masters2026",
+      "matching0",
+      "matching1",
+      "matching3",
+      "multistage2024",
+      "olympics2024",
+      "spring2020"
+    ],
+    "country": "中国",
+    "country_code": "CN",
+    "editorial_evidence": [
+      {
+        "source_id": "src012",
+        "sheet": "报名表",
+        "cell": "B5:C5",
+        "basis": "explicit_region"
+      }
+    ],
+    "years": [
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2026
+    ]
+  },
+  {
+    "player_id": "p96ea08b0953d",
+    "name": "三代",
+    "is_player": true,
+    "original_names": [
+      "三代Matt",
+      "绯海·三代",
+      "三代&&仲野爱",
+      "FreeSea",
+      "三代",
+      "Matt"
+    ],
+    "competition_ids": [
+      "gtls2",
+      "gtls3",
+      "gtls3plus",
+      "igc",
+      "masters2020",
+      "masters2022",
+      "matching0",
+      "matching1"
+    ],
+    "country": "中国",
+    "country_code": "CN",
+    "editorial_evidence": [
+      {
+        "source_id": "src007",
+        "sheet": "Sheet1",
+        "cell": "A22",
+        "basis": "reviewed_common_identity"
+      },
+      {
+        "source_id": "src007",
+        "sheet": "Sheet1 (2)",
+        "cell": "A22",
+        "basis": "reviewed_common_identity"
+      },
+      {
+        "source_id": "src009",
+        "sheet": "对战表",
+        "cell": "D11",
+        "basis": "reviewed_common_identity"
+      }
+    ],
+    "years": [
+      2020,
+      2021,
+      2022
+    ]
+  },
+  {
+    "player_id": "p98a621cdb383",
+    "name": "lbwnb",
+    "is_player": true,
+    "original_names": [
+      "lbwnb",
+      "lbw",
+      "卢本伟"
+    ],
+    "competition_ids": [
+      "autumn2023",
+      "gtls4",
+      "ivsc2026",
+      "masters2024",
+      "masters2026",
+      "olympics2024"
+    ],
+    "country": "中国",
+    "country_code": "CN",
+    "editorial_evidence": [
+      {
+        "source_id": "src011",
+        "sheet": "总表",
+        "cell": "B6",
+        "basis": "reviewed_common_identity"
+      },
+      {
+        "source_id": "src037",
+        "sheet": "自作部門",
+        "cell": "E67",
+        "basis": "reviewed_common_identity"
+      },
+      {
+        "source_id": "src037",
+        "sheet": "エキシビションマッチ",
+        "cell": "E67",
+        "basis": "reviewed_common_identity"
+      }
+    ],
+    "years": [
+      2023,
+      2024,
+      2026
+    ]
+  },
+  {
+    "player_id": "p9a2a9f7196fe",
+    "name": "CupSky",
+    "is_player": true,
+    "original_names": [
+      "Cupsky",
+      "CupSky",
+      "cupsky"
+    ],
+    "competition_ids": [
+      "gtls2",
+      "gtls3",
+      "gtls3plus"
+    ],
+    "country": "中国",
+    "country_code": "CN",
+    "editorial_evidence": [
+      {
+        "source_id": "src007",
+        "sheet": "Sheet1",
+        "cell": "A17",
+        "basis": "reviewed_common_identity"
+      },
+      {
+        "source_id": "src007",
+        "sheet": "Sheet1 (2)",
+        "cell": "A17",
+        "basis": "reviewed_common_identity"
+      },
+      {
+        "source_id": "src009",
+        "sheet": "对战表",
+        "cell": "D18",
+        "basis": "reviewed_common_identity"
+      }
+    ],
+    "years": [
+      2020,
+      2021
+    ]
+  },
+  {
+    "player_id": "p9b240e196eb9",
+    "name": "2epblk_（wff）",
+    "is_player": true,
+    "original_names": [
+      "2epblk_（wff）",
+      "wff",
+      "2epblk_#Null#Vein",
+      "2epblk_或wff:3"
+    ],
+    "competition_ids": [
+      "gtls3plus",
+      "masters2022",
+      "matching2"
+    ],
+    "country": "中国",
+    "country_code": "CN",
+    "editorial_evidence": [
+      {
+        "source_id": "src008",
+        "sheet": "预赛总表",
+        "cell": "B20",
+        "basis": "reviewed_common_identity"
+      },
+      {
+        "source_id": "src008",
+        "sheet": "预赛对战表",
+        "cell": "A32",
+        "basis": "reviewed_common_identity"
+      },
+      {
+        "source_id": "src077",
+        "sheet": "第四轮（个人赛）",
+        "cell": "A6",
+        "basis": "reviewed_common_identity"
+      }
+    ],
+    "years": [
+      2021,
+      2022
+    ]
+  },
+  {
+    "player_id": "p9cd1d6d9faea",
+    "name": "列王",
+    "is_player": true,
+    "original_names": [
+      "Daltanya",
+      "Datanya",
+      "冽玉",
+      "慢慢愈合的列王",
+      "慢慢愈合的列王_1",
+      "列王",
+      "列王-波叶布冯",
+      "KingL"
+    ],
+    "competition_ids": [
+      "cgr2020",
+      "gtc1",
+      "gtls3",
+      "gtls3plus",
+      "igc",
+      "jp202003",
+      "jp202004",
+      "masters2020",
+      "masters2021",
+      "matching0",
+      "matching1",
+      "matching2",
+      "matching3",
+      "spring2020"
+    ],
+    "country": "中国",
+    "country_code": "CN",
+    "editorial_evidence": [
+      {
+        "source_id": "src012",
+        "sheet": "报名表",
+        "cell": "B14:C14",
+        "basis": "explicit_region"
+      }
+    ],
+    "years": [
+      2020,
+      2021,
+      2022
+    ]
+  },
+  {
+    "player_id": "p9edb5f72ccb7",
+    "name": "青茶",
+    "is_player": true,
+    "original_names": [
+      "青茶",
+      "蟹茶"
+    ],
+    "competition_ids": [
+      "autumn2023",
+      "celsius2022",
+      "gtc2",
+      "ivsc2026",
+      "jp202003",
+      "jp202004",
+      "multistage2024",
+      "spring2020"
+    ],
+    "country": "日本",
+    "country_code": "JP",
+    "editorial_evidence": [
+      {
+        "source": "user",
+        "date": "2026-10-05",
+        "basis": "explicit_country_region_correction",
+        "statement": "青茶是日本人 调一下国籍"
+      },
+      {
+        "source_id": "src001",
+        "sheet": "対戦表（投稿順）",
+        "cell": "E7",
+        "basis": "reviewed_common_identity"
+      },
+      {
+        "source_id": "src002",
+        "sheet": "対戦表（投稿順）",
+        "cell": "E7",
+        "basis": "reviewed_common_identity"
+      },
+      {
+        "source_id": "src005",
+        "sheet": "A组对战表",
+        "cell": "C27",
+        "basis": "reviewed_common_identity"
+      }
+    ],
+    "years": [
+      2020,
+      2022,
+      2023,
+      2024,
+      2026
+    ]
+  },
+  {
+    "player_id": "pa055ad985aff",
+    "name": "NO.3 Canon",
+    "is_player": true,
+    "original_names": [
+      "NO.3 Canon",
+      "NO3. Canon"
+    ],
+    "competition_ids": [
+      "spring2020"
+    ],
+    "country": "日本",
+    "country_code": "JP",
+    "editorial_evidence": [
+      {
+        "source": "user",
+        "basis": "explicit_country_region_correction",
+        "date": "2026-10-05",
+        "file": "review/剩余选手国籍填写表.md",
+        "player_name": "NO.3 Canon",
+        "value": "日本",
+        "statement": "填好了 还有一些没填的就先没有国籍"
+      }
+    ],
+    "merged_player_uids": [
+      "pcf236471d7c4"
+    ],
+    "years": [
+      2020
+    ]
+  },
+  {
+    "player_id": "pa48c2f57fdd6",
+    "name": "exb",
+    "is_player": true,
+    "original_names": [
+      "exb"
+    ],
+    "competition_ids": [
+      "masters2020"
+    ],
+    "country": "中国",
+    "country_code": "CN",
+    "editorial_evidence": [
+      {
+        "source": "user",
+        "basis": "explicit_country_region_correction",
+        "date": "2026-10-05",
+        "file": "review/剩余选手国籍填写表.md",
+        "player_name": "exb",
+        "value": "中国",
+        "statement": "填好了 还有一些没填的就先没有国籍"
+      }
+    ],
+    "years": [
+      2020
+    ]
+  },
+  {
+    "player_id": "pa567591bb96f",
+    "name": "wjlgz",
+    "is_player": true,
+    "original_names": [
+      "wjlgz",
+      "gz"
+    ],
+    "competition_ids": [
+      "gtc2",
+      "gtls2",
+      "gtls3",
+      "gtls3plus",
+      "hope",
+      "igc",
+      "jp202003",
+      "masters2020",
+      "matching0",
+      "matching1"
+    ],
+    "country": "中国",
+    "country_code": "CN",
+    "editorial_evidence": [
+      {
+        "source_id": "src012",
+        "sheet": "报名表",
+        "cell": "B31:C31",
+        "basis": "explicit_region"
+      }
+    ],
+    "years": [
+      2020,
+      2021,
+      2022,
+      2023
+    ]
+  },
+  {
+    "player_id": "pa64a92c86530",
+    "name": "土豆",
+    "is_player": true,
+    "original_names": [
+      "土豆",
+      "potato"
+    ],
+    "competition_ids": [
+      "igc",
+      "ivsc2026",
+      "olympics2024"
+    ],
+    "country": "中国",
+    "country_code": "CN",
+    "editorial_evidence": [
+      {
+        "source_id": "src012",
+        "sheet": "报名表",
+        "cell": "B9:C9",
+        "basis": "explicit_region"
+      }
+    ],
+    "years": [
+      2022,
+      2024,
+      2026
+    ]
+  },
+  {
+    "player_id": "pa662dda22653",
+    "name": "みー",
+    "is_player": true,
+    "original_names": [
+      "みー"
+    ],
+    "competition_ids": [
+      "autumn2023"
+    ],
+    "country": "日本",
+    "country_code": "JP",
+    "editorial_evidence": [
+      {
+        "source_id": "src037",
+        "sheet": "エキシビションマッチ",
+        "cell": "E106",
+        "basis": "reviewed_common_identity"
+      }
+    ],
+    "years": [
+      2023
+    ]
+  },
+  {
+    "player_id": "pa7dbc110c61b",
+    "name": "そば",
+    "is_player": true,
+    "original_names": [
+      "そば"
+    ],
+    "competition_ids": [
+      "autumn2023"
+    ],
+    "country": "日本",
+    "country_code": "JP",
+    "editorial_evidence": [
+      {
+        "source_id": "src037",
+        "sheet": "自作部門",
+        "cell": "E11",
+        "basis": "reviewed_common_identity"
+      },
+      {
+        "source_id": "src037",
+        "sheet": "エキシビションマッチ",
+        "cell": "E11",
+        "basis": "reviewed_common_identity"
+      },
+      {
+        "source_id": "src037",
+        "sheet": "参加要塞リスト",
+        "cell": "E56",
+        "basis": "reviewed_common_identity"
+      }
+    ],
+    "years": [
+      2023
+    ]
+  },
+  {
+    "player_id": "paa45055bedd9",
+    "name": "zear",
+    "is_player": true,
+    "original_names": [
+      "zear"
+    ],
+    "competition_ids": [
+      "multistage2024"
+    ],
+    "country": null,
+    "country_code": null,
+    "editorial_evidence": [
+      {
+        "source": "user",
+        "basis": "explicit_country_region_correction",
+        "date": "2026-10-05",
+        "file": "review/剩余选手国籍填写表.md",
+        "player_name": "zear",
+        "value": null,
+        "statement": "填好了 还有一些没填的就先没有国籍"
+      }
+    ],
+    "years": [
+      2024
+    ]
+  },
+  {
+    "player_id": "pacc71e90765c",
+    "name": "愣生物",
+    "is_player": true,
+    "original_names": [
+      "愣生物"
+    ],
+    "competition_ids": [
+      "masters2024",
+      "olympics2024"
+    ],
+    "country": "中国",
+    "country_code": "CN",
+    "editorial_evidence": [
+      {
+        "source_id": "src029",
+        "sheet": "积分表",
+        "cell": "A14",
+        "basis": "reviewed_common_identity"
+      },
+      {
+        "source_id": "src029",
+        "sheet": "单人1v1",
+        "cell": "A2",
+        "basis": "reviewed_common_identity"
+      },
+      {
+        "source_id": "src029",
+        "sheet": "单人3v3（修正）",
+        "cell": "A21",
+        "basis": "reviewed_common_identity"
+      }
+    ],
+    "years": [
+      2024
+    ]
+  },
+  {
+    "player_id": "padd0cc611d2f",
+    "name": "みぎあーと",
+    "is_player": true,
+    "original_names": [
+      "みぎあーと"
+    ],
+    "competition_ids": [
+      "celsius2022"
+    ],
+    "country": "日本",
+    "country_code": "JP",
+    "editorial_evidence": [
+      {
+        "source_id": "src020",
+        "sheet": "総当たり表",
+        "cell": "A48",
+        "basis": "reviewed_common_identity"
+      }
+    ],
+    "years": [
+      2022
+    ]
+  },
+  {
+    "player_id": "pb0f72c92b775",
+    "name": "aaaatest",
+    "is_player": true,
+    "original_names": [
+      "aaaatest"
+    ],
+    "competition_ids": [
+      "large2021"
+    ],
+    "country": null,
+    "country_code": null,
+    "editorial_evidence": [
+      {
+        "source": "user",
+        "basis": "explicit_country_region_correction",
+        "date": "2026-10-05",
+        "file": "review/剩余选手国籍填写表.md",
+        "player_name": "aaaatest",
+        "value": null,
+        "statement": "填好了 还有一些没填的就先没有国籍"
+      }
+    ],
+    "years": [
+      2021
+    ]
+  },
+  {
+    "player_id": "pb167c4f4be75",
+    "name": "o2o",
+    "is_player": true,
+    "original_names": [
+      "o2o",
+      "o2o_1",
+      "o2o_2",
+      "o2o_3",
+      "oo2222oo",
+      "o2o-おうつ王くん",
+      "杯貝的天使(o2o)",
+      "22oooo22"
+    ],
+    "competition_ids": [
+      "autumn2023",
+      "cgr2020",
+      "gtc1",
+      "gtc2",
+      "gtls2",
+      "gtls3",
+      "gtls3plus",
+      "igc",
+      "jp202003",
+      "jp202004",
+      "large2021",
+      "masters2026",
+      "olympics2024",
+      "spring2020"
+    ],
+    "country": "中国澳门",
+    "country_code": "MO",
+    "editorial_evidence": [
+      {
+        "source_id": "src012",
+        "sheet": "报名表",
+        "cell": "B20:C20",
+        "basis": "explicit_region"
+      },
+      {
+        "source": "user",
+        "date": "2026-10-05",
+        "basis": "explicit_country_region_correction"
+      }
+    ],
+    "years": [
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2026
+    ]
+  },
+  {
+    "player_id": "pb3011d8e6397",
+    "name": "弱い生き物",
+    "is_player": true,
+    "original_names": [
+      "弱い生き物"
+    ],
+    "competition_ids": [
+      "autumn2023"
+    ],
+    "country": "日本",
+    "country_code": "JP",
+    "editorial_evidence": [
+      {
+        "source_id": "src037",
+        "sheet": "自作部門",
+        "cell": "E97",
+        "basis": "reviewed_common_identity"
+      },
+      {
+        "source_id": "src037",
+        "sheet": "エキシビションマッチ",
+        "cell": "E97",
+        "basis": "reviewed_common_identity"
+      },
+      {
+        "source_id": "src037",
+        "sheet": "参加要塞リスト",
+        "cell": "E32",
+        "basis": "reviewed_common_identity"
+      }
+    ],
+    "years": [
+      2023
+    ]
+  },
+  {
+    "player_id": "pb447e5c1854f",
+    "name": "サボテン",
+    "is_player": true,
+    "original_names": [
+      "サボテン"
+    ],
+    "competition_ids": [
+      "jp202003",
+      "jp202004",
+      "spring2020"
+    ],
+    "country": "日本",
+    "country_code": "JP",
+    "editorial_evidence": [
+      {
+        "source_id": "src001",
+        "sheet": "対戦表（投稿順）",
+        "cell": "E19",
+        "basis": "reviewed_common_identity"
+      },
+      {
+        "source_id": "src002",
+        "sheet": "対戦表（投稿順）",
+        "cell": "E21",
+        "basis": "reviewed_common_identity"
+      },
+      {
+        "source_id": "src039",
+        "sheet": "Sheet1",
+        "cell": "B45",
+        "basis": "reviewed_common_identity"
+      }
+    ],
+    "years": [
+      2020
+    ]
+  },
+  {
+    "player_id": "pb4bdfc46ae09",
+    "name": "最强人机",
+    "is_player": false,
+    "original_names": [
+      "最强人机"
+    ],
+    "competition_ids": [
+      "matching0",
+      "matching1"
+    ],
+    "years": [
+      2020
+    ]
+  },
+  {
+    "player_id": "pb674f1ea592f",
+    "name": "HGH",
+    "is_player": true,
+    "original_names": [
+      "hgh",
+      "hgh22251（HGH）",
+      "114514hgh",
+      "HGH",
+      "[emoji=484748]",
+      "15222hgh",
+      "电磁加速炮",
+      "1919810hgh"
+    ],
+    "competition_ids": [
+      "celebration2021",
+      "gtls3",
+      "gtls3plus",
+      "igc",
+      "large2021",
+      "leaf",
+      "masters2022",
+      "matching2",
+      "matching3",
+      "multistage2024"
+    ],
+    "country": "中国",
+    "country_code": "CN",
+    "editorial_evidence": [
+      {
+        "source_id": "src009",
+        "sheet": "对战表",
+        "cell": "D17",
+        "basis": "reviewed_common_identity"
+      },
+      {
+        "source_id": "src008",
+        "sheet": "预赛总表",
+        "cell": "B31",
+        "basis": "reviewed_common_identity"
+      },
+      {
+        "source_id": "src008",
+        "sheet": "决赛总表",
+        "cell": "B13",
+        "basis": "reviewed_common_identity"
+      }
+    ],
+    "years": [
+      2020,
+      2021,
+      2022,
+      2024
+    ]
+  },
+  {
+    "player_id": "pb6c50c924ffb",
+    "name": "神翎",
+    "is_player": true,
+    "original_names": [
+      "MORX（神翎）",
+      "MORX",
+      "神翎"
+    ],
+    "competition_ids": [
+      "autumn2023",
+      "gtc2",
+      "olympics2024"
+    ],
+    "country": "中国",
+    "country_code": "CN",
+    "editorial_evidence": [
+      {
+        "source_id": "src005",
+        "sheet": "A组对战表",
+        "cell": "C21",
+        "basis": "reviewed_common_identity"
+      },
+      {
+        "source_id": "src005",
+        "sheet": "B组对战表",
+        "cell": "C21",
+        "basis": "reviewed_common_identity"
+      },
+      {
+        "source_id": "src005",
+        "sheet": "C组对战表",
+        "cell": "C21",
+        "basis": "reviewed_common_identity"
+      }
+    ],
+    "years": [
+      2023,
+      2024
+    ]
+  },
+  {
+    "player_id": "pb83d05ed1d85",
+    "name": "zsy-cpu",
+    "is_player": true,
+    "original_names": [
+      "zsy-cpu"
+    ],
+    "competition_ids": [
+      "masters2021"
+    ],
+    "country": "中国",
+    "country_code": "CN",
+    "editorial_evidence": [
+      {
+        "source": "user",
+        "basis": "explicit_country_region_correction",
+        "date": "2026-10-05",
+        "file": "review/剩余选手国籍填写表.md",
+        "player_name": "zsy-cpu",
+        "value": "中国",
+        "statement": "填好了 还有一些没填的就先没有国籍"
+      }
+    ],
+    "years": []
+  },
+  {
+    "player_id": "pba367012203e",
+    "name": "ゆきと",
+    "is_player": true,
+    "original_names": [
+      "ゆきと"
+    ],
+    "competition_ids": [
+      "celsius2022"
+    ],
+    "country": "日本",
+    "country_code": "JP",
+    "editorial_evidence": [
+      {
+        "source_id": "src020",
+        "sheet": "総当たり表",
+        "cell": "A9",
+        "basis": "reviewed_common_identity"
+      }
+    ],
+    "years": [
+      2022
+    ]
+  },
+  {
+    "player_id": "pbe40a29da183",
+    "name": "Qoo",
+    "is_player": true,
+    "original_names": [
+      "Qoo"
+    ],
+    "competition_ids": [
+      "jp202003",
+      "spring2020"
+    ],
+    "country": "日本",
+    "country_code": "JP",
+    "editorial_evidence": [
+      {
+        "source_id": "src001",
+        "sheet": "対戦表（投稿順）",
+        "cell": "E74",
+        "basis": "reviewed_common_identity"
+      },
+      {
+        "source_id": "src039",
+        "sheet": "Sheet1",
+        "cell": "B55",
+        "basis": "reviewed_common_identity"
+      }
+    ],
+    "years": [
+      2020
+    ]
+  },
+  {
+    "player_id": "pbea599e33da6",
+    "name": "희망의 끝 요그사론",
+    "is_player": true,
+    "original_names": [
+      "희망의 끝 요그사론"
+    ],
+    "competition_ids": [
+      "jp202004"
+    ],
+    "country": "韩国",
+    "country_code": "KR",
+    "editorial_evidence": [
+      {
+        "source": "user",
+        "basis": "explicit_country_region_correction",
+        "date": "2026-10-05",
+        "file": "review/剩余选手国籍填写表.md",
+        "player_name": "희망의 끝 요그사론",
+        "value": "韩国",
+        "statement": "填好了 还有一些没填的就先没有国籍"
+      }
+    ],
+    "years": [
+      2020
+    ]
+  },
+  {
+    "player_id": "pbf5ebae70994",
+    "name": "ヤ・ジウ",
+    "is_player": true,
+    "original_names": [
+      "ヤ・ジウ"
+    ],
+    "competition_ids": [
+      "spring2020"
+    ],
+    "country": "日本",
+    "country_code": "JP",
+    "editorial_evidence": [
+      {
+        "source_id": "src039",
+        "sheet": "Sheet1",
+        "cell": "B62",
+        "basis": "reviewed_common_identity"
+      }
+    ],
+    "years": [
+      2020
+    ]
+  },
+  {
+    "player_id": "pc24ea109a7b8",
+    "name": "蜂巢",
+    "is_player": true,
+    "original_names": [
+      "蜂捏巢",
+      "熔岩蜂巢"
+    ],
+    "competition_ids": [
+      "daily_series",
+      "gtc2"
+    ],
+    "country": "中国",
+    "country_code": "CN",
+    "editorial_evidence": [
+      {
+        "source_id": "src005",
+        "sheet": "A组对战表",
+        "cell": "C32",
+        "basis": "reviewed_common_identity"
+      },
+      {
+        "source_id": "src005",
+        "sheet": "B组对战表",
+        "cell": "C32",
+        "basis": "reviewed_common_identity"
+      },
+      {
+        "source_id": "src005",
+        "sheet": "C组对战表",
+        "cell": "C32",
+        "basis": "reviewed_common_identity"
+      }
+    ],
+    "years": [
+      2023
+    ]
+  },
+  {
+    "player_id": "pc2978930e62e",
+    "name": "Z#（404 BOT）",
+    "is_player": true,
+    "original_names": [
+      "404随机器"
+    ],
+    "competition_ids": [
+      "olympics2024"
+    ],
+    "country": "中国",
+    "country_code": "CN",
+    "editorial_evidence": [
+      {
+        "source": "user",
+        "basis": "explicit_country_region_correction",
+        "date": "2026-10-05",
+        "file": "review/剩余选手国籍填写表.md",
+        "player_name": "Z#（404 BOT）",
+        "value": "中国",
+        "statement": "填好了 还有一些没填的就先没有国籍"
+      }
+    ],
+    "years": [
+      2024
+    ]
+  },
+  {
+    "player_id": "pc76f3a173770",
+    "name": "农场",
+    "is_player": false,
+    "original_names": [
+      "农场",
+      "Farm"
+    ],
+    "competition_ids": [
+      "matching0",
+      "matching1"
+    ],
+    "years": [
+      2020
+    ]
+  },
+  {
+    "player_id": "pc82f4a039575",
+    "name": "かりふぁ",
+    "is_player": true,
+    "original_names": [
+      "かりふぁ",
+      "かりふぁ_1",
+      "かりふぁ_2",
+      "かりふぁ_3"
+    ],
+    "competition_ids": [
+      "gtc1",
+      "jp202003",
+      "spring2020"
+    ],
+    "country": "日本",
+    "country_code": "JP",
+    "editorial_evidence": [
+      {
+        "source_id": "src001",
+        "sheet": "対戦表（投稿順）",
+        "cell": "E69",
+        "basis": "reviewed_common_identity"
+      },
+      {
+        "source_id": "src006",
+        "sheet": "A组对战表",
+        "cell": "D22",
+        "basis": "reviewed_common_identity"
+      },
+      {
+        "source_id": "src006",
+        "sheet": "B组对战表",
+        "cell": "D22",
+        "basis": "reviewed_common_identity"
+      }
+    ],
+    "years": [
+      2020
+    ]
+  },
+  {
+    "player_id": "pca077f875628",
+    "name": "二阶人机",
+    "is_player": false,
+    "original_names": [
+      "二阶人机"
+    ],
+    "competition_ids": [
+      "matching0",
+      "matching1"
+    ],
+    "years": [
+      2020
+    ]
+  },
+  {
+    "player_id": "pca7869a7af18",
+    "name": "静候欣晨",
+    "is_player": true,
+    "original_names": [
+      "静候欣晨",
+      "欣晨",
+      "晨",
+      "欣玉"
+    ],
+    "competition_ids": [
+      "autumn2023",
+      "celsius2022",
+      "daily2023",
+      "daily_series",
+      "gtc2",
+      "gtls4",
+      "labour2023",
+      "masters2022"
+    ],
+    "country": "中国",
+    "country_code": "CN",
+    "editorial_evidence": [
+      {
+        "source_id": "src005",
+        "sheet": "A组对战表",
+        "cell": "C30",
+        "basis": "reviewed_common_identity"
+      },
+      {
+        "source_id": "src005",
+        "sheet": "B组对战表",
+        "cell": "C30",
+        "basis": "reviewed_common_identity"
+      },
+      {
+        "source_id": "src005",
+        "sheet": "C组对战表",
+        "cell": "C30",
+        "basis": "reviewed_common_identity"
+      }
+    ],
+    "years": [
+      2022,
+      2023,
+      2024
+    ]
+  },
+  {
+    "player_id": "pce450d730581",
+    "name": "℃",
+    "is_player": true,
+    "original_names": [
+      "℃"
+    ],
+    "competition_ids": [
+      "igc"
+    ],
+    "country": "日本",
+    "country_code": "JP",
+    "editorial_evidence": [
+      {
+        "source_id": "src012",
+        "sheet": "报名表",
+        "cell": "B12:C12",
+        "basis": "explicit_region"
+      }
+    ],
+    "years": [
+      2022
+    ]
+  },
+  {
+    "player_id": "pd54225855ff8",
+    "name": "一阶人机",
+    "is_player": false,
+    "original_names": [
+      "一阶人机"
+    ],
+    "competition_ids": [
+      "matching0",
+      "matching1"
+    ],
+    "editorial_evidence": [
+      {
+        "type": "user_confirmation",
+        "date": "2026-10-04",
+        "statement": "不是选手的不要放进来，比如一阶人机"
+      }
+    ],
+    "years": [
+      2020
+    ]
+  },
+  {
+    "player_id": "pd8816dfefa54",
+    "name": "橘子",
+    "is_player": true,
+    "original_names": [
+      "橘子-梅闌逐橘",
+      "橘子"
+    ],
+    "competition_ids": [
+      "gtls3plus",
+      "igc",
+      "matching3"
+    ],
+    "country": "中国",
+    "country_code": "CN",
+    "editorial_evidence": [
+      {
+        "source_id": "src012",
+        "sheet": "报名表",
+        "cell": "B17:C17",
+        "basis": "explicit_region"
+      }
+    ],
+    "years": [
+      2021,
+      2022
+    ]
+  },
+  {
+    "player_id": "pd9a571266b22",
+    "name": "れいし",
+    "is_player": true,
+    "original_names": [
+      "れいし"
+    ],
+    "competition_ids": [
+      "jp202003"
+    ],
+    "country": "日本",
+    "country_code": "JP",
+    "editorial_evidence": [
+      {
+        "source_id": "src001",
+        "sheet": "対戦表（投稿順）",
+        "cell": "E77",
+        "basis": "reviewed_common_identity"
+      }
+    ],
+    "years": [
+      2020
+    ]
+  },
+  {
+    "player_id": "pda12b4a6e0d9",
+    "name": "ゆっくり",
+    "is_player": true,
+    "original_names": [
+      "ゆっくり"
+    ],
+    "competition_ids": [
+      "large2021"
+    ],
+    "country": "日本",
+    "country_code": "JP",
+    "editorial_evidence": [
+      {
+        "source_id": "src024",
+        "sheet": "対戦表（投稿順）",
+        "cell": "E20",
+        "basis": "reviewed_common_identity"
+      }
+    ],
+    "years": [
+      2021
+    ]
+  },
+  {
+    "player_id": "pdb77fd01af95",
+    "name": "r2",
+    "is_player": true,
+    "original_names": [
+      "2R",
+      "让（输入法输入r2）",
+      "r2"
+    ],
+    "competition_ids": [
+      "gtls3plus",
+      "hope",
+      "masters2022"
+    ],
+    "country": "中国",
+    "country_code": "CN",
+    "editorial_evidence": [
+      {
+        "source_id": "src085",
+        "sheet": "初赛",
+        "cell": "B4",
+        "basis": "reviewed_common_identity"
+      },
+      {
+        "source_id": "src085",
+        "sheet": "复活赛",
+        "cell": "B4",
+        "basis": "reviewed_common_identity"
+      },
+      {
+        "source_id": "src077",
+        "sheet": "盲选",
+        "cell": "B11",
+        "basis": "reviewed_common_identity"
+      }
+    ],
+    "years": [
+      2021,
+      2022
+    ]
+  },
+  {
+    "player_id": "pdf4065d630e7",
+    "name": "導乗り核先",
+    "is_player": true,
+    "original_names": [
+      "導乗り核先"
+    ],
+    "competition_ids": [
+      "jp202004"
+    ],
+    "country": "日本",
+    "country_code": "JP",
+    "editorial_evidence": [
+      {
+        "source_id": "src002",
+        "sheet": "対戦表（投稿順）",
+        "cell": "E27",
+        "basis": "reviewed_common_identity"
+      }
+    ],
+    "years": [
+      2020
+    ]
+  },
+  {
+    "player_id": "pe2e50433002c",
+    "name": "Yogg-Saron",
+    "is_player": true,
+    "original_names": [
+      "Yogg-Saron",
+      "尤格萨隆"
+    ],
+    "competition_ids": [
+      "jp202003",
+      "spring2020"
+    ],
+    "country": "中国",
+    "country_code": "CN",
+    "editorial_evidence": [
+      {
+        "source_id": "src001",
+        "sheet": "対戦表（投稿順）",
+        "cell": "E52",
+        "basis": "reviewed_common_identity"
+      },
+      {
+        "source_id": "src039",
+        "sheet": "Sheet1",
+        "cell": "B56",
+        "basis": "reviewed_common_identity"
+      }
+    ],
+    "years": [
+      2020
+    ]
+  },
+  {
+    "player_id": "pe6505435e32d",
+    "name": "德芙",
+    "is_player": true,
+    "original_names": [
+      "一方通行（王德芙）",
+      "德芙"
+    ],
+    "competition_ids": [
+      "gtc2",
+      "labour2023"
+    ],
+    "country": "中国",
+    "country_code": "CN",
+    "editorial_evidence": [
+      {
+        "source_id": "src005",
+        "sheet": "A组对战表",
+        "cell": "C15",
+        "basis": "reviewed_common_identity"
+      },
+      {
+        "source_id": "src005",
+        "sheet": "B组对战表",
+        "cell": "C15",
+        "basis": "reviewed_common_identity"
+      },
+      {
+        "source_id": "src005",
+        "sheet": "C组对战表",
+        "cell": "C14",
+        "basis": "reviewed_common_identity"
+      }
+    ],
+    "years": [
+      2023
+    ]
+  },
+  {
+    "player_id": "pe6aa8af9b649",
+    "name": "神天馬騎士",
+    "is_player": true,
+    "original_names": [
+      "神天馬騎士",
+      "神天馬騎士_1",
+      "神天馬騎士_2",
+      "神天馬騎士_3",
+      "神天马骑士"
+    ],
+    "competition_ids": [
+      "autumn2023",
+      "celsius2022",
+      "clown2020",
+      "gtc1",
+      "gtc2",
+      "gtls3plus",
+      "gtls4",
+      "igc",
+      "ivsc2026",
+      "jp202003",
+      "large2021",
+      "multistage2024",
+      "olympics2024"
+    ],
+    "country": "日本",
+    "country_code": "JP",
+    "editorial_evidence": [
+      {
+        "source_id": "src012",
+        "sheet": "报名表",
+        "cell": "B23:C23",
+        "basis": "explicit_region"
+      }
+    ],
+    "years": [
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2026
+    ]
+  },
+  {
+    "player_id": "pe6f5b9cd0689",
+    "name": "Nightvision65",
+    "is_player": true,
+    "original_names": [
+      "Nightvision65",
+      "6583208",
+      "6583208_1",
+      "6583208_2",
+      "6583208_3",
+      "65小姐姐",
+      "65",
+      "65中姐姐",
+      "NightVison65",
+      "NightVision65",
+      "加拿大鹅",
+      "王老师",
+      "整活65"
+    ],
+    "competition_ids": [
+      "autumn2023",
+      "celebration2021",
+      "celsius2022",
+      "cgr2020",
+      "clown2020",
+      "daily2023",
+      "daily_series",
+      "gtc1",
+      "gtc2",
+      "gtls2",
+      "gtls3",
+      "gtls3plus",
+      "gtls4",
+      "hope",
+      "ivsc2026",
+      "jp202003",
+      "jp202004",
+      "labour2023",
+      "large2021",
+      "leaf",
+      "masters2020",
+      "masters2021",
+      "masters2022",
+      "masters2024",
+      "masters2026",
+      "matching0",
+      "matching1",
+      "matching2",
+      "matching3",
+      "multistage2024",
+      "olympics2024",
+      "redmusic2023",
+      "spring2020"
+    ],
+    "country": "中国",
+    "country_code": "CN",
+    "editorial_evidence": [
+      {
+        "source_id": "src012",
+        "sheet": "报名表",
+        "cell": "B32:C32",
+        "basis": "explicit_region"
+      }
+    ],
+    "years": [
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2026
+    ]
+  },
+  {
+    "player_id": "pe80fb65ac703",
+    "name": "a10",
+    "is_player": true,
+    "original_names": [
+      "a10",
+      "a10_1",
+      "a10_2",
+      "a10_3",
+      "a10a010"
+    ],
+    "competition_ids": [
+      "cgr2020",
+      "gtc1",
+      "gtls2",
+      "masters2020"
+    ],
+    "country": "中国",
+    "country_code": "CN",
+    "editorial_evidence": [
+      {
+        "source": "user",
+        "basis": "explicit_country_region_correction",
+        "date": "2026-10-05",
+        "file": "review/剩余选手国籍填写表.md",
+        "player_name": "a10",
+        "value": "中国",
+        "statement": "填好了 还有一些没填的就先没有国籍"
+      }
+    ],
+    "years": [
+      2020
+    ]
+  },
+  {
+    "player_id": "pea201efc5dfc",
+    "name": "ninni.",
+    "is_player": true,
+    "original_names": [
+      "ninni."
+    ],
+    "competition_ids": [
+      "celsius2022"
+    ],
+    "country": "日本",
+    "country_code": "JP",
+    "editorial_evidence": [
+      {
+        "source_id": "src020",
+        "sheet": "総当たり表",
+        "cell": "A11",
+        "basis": "reviewed_common_identity"
+      }
+    ],
+    "years": [
+      2022
+    ]
+  },
+  {
+    "player_id": "pec789099031a",
+    "name": "ナル猫",
+    "is_player": true,
+    "original_names": [
+      "ナル猫",
+      "ナル猫717"
+    ],
+    "competition_ids": [
+      "autumn2023",
+      "gtls4",
+      "multistage2024"
+    ],
+    "country": "日本",
+    "country_code": "JP",
+    "editorial_evidence": [
+      {
+        "source_id": "src051",
+        "sheet": "对战",
+        "cell": "A19",
+        "basis": "reviewed_common_identity"
+      },
+      {
+        "source_id": "src011",
+        "sheet": "总表",
+        "cell": "B34",
+        "basis": "reviewed_common_identity"
+      },
+      {
+        "source_id": "src023",
+        "sheet": "総当たり結果",
+        "cell": "E22",
+        "basis": "reviewed_common_identity"
+      }
+    ],
+    "years": [
+      2023,
+      2024
+    ]
+  },
+  {
+    "player_id": "pecc76c19c9f3",
+    "name": "XX",
+    "is_player": true,
+    "original_names": [
+      "x²",
+      "XX",
+      "xx",
+      "小鸟游六花",
+      "老招",
+      "XX战队：",
+      "無糖",
+      "查查",
+      "赵香雪",
+      "XX整活"
+    ],
+    "competition_ids": [
+      "autumn2023",
+      "celebration2021",
+      "celsius2022",
+      "daily2023",
+      "daily_series",
+      "gtc2",
+      "gtls3plus",
+      "gtls4",
+      "hope",
+      "igc",
+      "ivsc2026",
+      "labour2023",
+      "large2021",
+      "leaf",
+      "masters2021",
+      "masters2022",
+      "masters2024",
+      "masters2026",
+      "matching0",
+      "matching1",
+      "matching2",
+      "matching3",
+      "olympics2024"
+    ],
+    "country": "中国",
+    "country_code": "CN",
+    "editorial_evidence": [
+      {
+        "source_id": "src012",
+        "sheet": "报名表",
+        "cell": "B13:C13",
+        "basis": "explicit_region"
+      }
+    ],
+    "years": [
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2026
+    ]
+  },
+  {
+    "player_id": "pef2836a3e4a3",
+    "name": "Brony牧玉",
+    "is_player": true,
+    "original_names": [
+      "Brony牧玉",
+      "A green hand Brony",
+      "牧玉",
+      "brony",
+      "brony牧玉",
+      "BRONY",
+      "Brony",
+      "孟老师",
+      "布朗尼"
+    ],
+    "competition_ids": [
+      "autumn2023",
+      "daily2023",
+      "daily_series",
+      "gtc2",
+      "gtls4",
+      "igc",
+      "ivsc2026",
+      "labour2023",
+      "large2021",
+      "masters2022",
+      "masters2024",
+      "masters2026",
+      "matching3",
+      "multistage2024",
+      "olympics2024"
+    ],
+    "country": "中国",
+    "country_code": "CN",
+    "editorial_evidence": [
+      {
+        "source_id": "src012",
+        "sheet": "报名表",
+        "cell": "B4:C4",
+        "basis": "explicit_region"
+      }
+    ],
+    "years": [
+      2021,
+      2022,
+      2023,
+      2024,
+      2026
+    ]
+  },
+  {
+    "player_id": "pef90d9c1ec76",
+    "name": "yy",
+    "is_player": true,
+    "original_names": [
+      "yy",
+      "yy601718370",
+      "YY",
+      "yy601718370（yy）",
+      "焊接",
+      "歪老师",
+      "小歪歪"
+    ],
+    "competition_ids": [
+      "autumn2023",
+      "celebration2021",
+      "daily2023",
+      "daily_series",
+      "gtc2",
+      "gtls4",
+      "hope",
+      "igc",
+      "ivsc2026",
+      "labour2023",
+      "large2021",
+      "leaf",
+      "masters2021",
+      "masters2022",
+      "masters2024",
+      "masters2026",
+      "matching3",
+      "olympics2024",
+      "redmusic2023"
+    ],
+    "country": "中国",
+    "country_code": "CN",
+    "editorial_evidence": [
+      {
+        "source_id": "src012",
+        "sheet": "报名表",
+        "cell": "B8:C8",
+        "basis": "explicit_region"
+      }
+    ],
+    "years": [
+      2021,
+      2022,
+      2023,
+      2024,
+      2026
+    ]
+  },
+  {
+    "player_id": "pf30746b7692b",
+    "name": "WMD",
+    "is_player": true,
+    "original_names": [
+      "WMD"
+    ],
+    "competition_ids": [
+      "masters2020"
+    ],
+    "country": "中国",
+    "country_code": "CN",
+    "editorial_evidence": [
+      {
+        "source": "user",
+        "basis": "explicit_country_region_correction",
+        "date": "2026-10-05",
+        "file": "review/剩余选手国籍填写表.md",
+        "player_name": "WMD",
+        "value": "中国",
+        "statement": "填好了 还有一些没填的就先没有国籍"
+      }
+    ],
+    "years": [
+      2020
+    ]
+  },
+  {
+    "player_id": "pfa4aafd973bd",
+    "name": "とうふごはん",
+    "is_player": true,
+    "original_names": [
+      "とうふごはん"
+    ],
+    "competition_ids": [
+      "multistage2024"
+    ],
+    "country": "日本",
+    "country_code": "JP",
+    "editorial_evidence": [
+      {
+        "source_id": "src023",
+        "sheet": "総当たり結果",
+        "cell": "E52",
+        "basis": "reviewed_common_identity"
+      },
+      {
+        "source_id": "src023",
+        "sheet": "参加要塞リスト",
+        "cell": "D38",
+        "basis": "reviewed_common_identity"
+      }
+    ],
+    "years": [
+      2024
+    ]
+  },
+  {
+    "player_id": "pfa64644e1ff5",
+    "name": "猪弟",
+    "is_player": true,
+    "original_names": [
+      "猪弟",
+      "一只没有生活欲望的猪"
+    ],
+    "competition_ids": [
+      "masters2024",
+      "olympics2024"
+    ],
+    "country": "中国",
+    "country_code": "CN",
+    "editorial_evidence": [
+      {
+        "source_id": "src029",
+        "sheet": "积分表",
+        "cell": "A10",
+        "basis": "reviewed_common_identity"
+      },
+      {
+        "source_id": "src029",
+        "sheet": "单人1v1",
+        "cell": "A21",
+        "basis": "reviewed_common_identity"
+      },
+      {
+        "source_id": "src029",
+        "sheet": "单人3v3（修正）",
+        "cell": "A3",
+        "basis": "reviewed_common_identity"
+      }
+    ],
+    "years": [
+      2024
+    ]
+  },
+  {
+    "player_id": "pfa88313d4ab4",
+    "name": "あたし",
+    "is_player": true,
+    "original_names": [
+      "あたし"
+    ],
+    "competition_ids": [
+      "autumn2023"
+    ],
+    "country": "日本",
+    "country_code": "JP",
+    "editorial_evidence": [
+      {
+        "source_id": "src037",
+        "sheet": "参加要塞リスト",
+        "cell": "E104",
+        "basis": "reviewed_common_identity"
+      }
+    ],
+    "years": []
+  },
+  {
+    "player_id": "pfc88a51677d8",
+    "name": "NOID",
+    "is_player": true,
+    "original_names": [
+      "NOID",
+      "NOID_1",
+      "NOID_2",
+      "NOID_3",
+      "无ID",
+      "noid",
+      "吴艾迪"
+    ],
+    "competition_ids": [
+      "cgr2020",
+      "gtc1",
+      "gtls2",
+      "gtls3",
+      "gtls3plus",
+      "jp202003",
+      "large2021",
+      "leaf",
+      "masters2020",
+      "masters2021",
+      "matching0",
+      "matching1",
+      "matching2",
+      "matching3",
+      "spring2020"
+    ],
+    "country": "中国",
+    "country_code": "CN",
+    "editorial_evidence": [
+      {
+        "source_id": "src001",
+        "sheet": "対戦表（投稿順）",
+        "cell": "E29",
+        "basis": "reviewed_common_identity"
+      },
+      {
+        "source_id": "src069",
+        "sheet": "対戦表（投稿順）",
+        "cell": "F26",
+        "basis": "reviewed_common_identity"
+      },
+      {
+        "source_id": "src006",
+        "sheet": "A组对战表",
+        "cell": "D9",
+        "basis": "reviewed_common_identity"
+      }
+    ],
+    "years": [
+      2020,
+      2021
+    ]
+  },
+  {
+    "player_id": "pfe5f6f3ecff7",
+    "name": "わんわんお",
+    "is_player": true,
+    "original_names": [
+      "わんわんお"
+    ],
+    "competition_ids": [
+      "autumn2023"
+    ],
+    "country": "日本",
+    "country_code": "JP",
+    "editorial_evidence": [
+      {
+        "source_id": "src037",
+        "sheet": "自作部門",
+        "cell": "E31",
+        "basis": "reviewed_common_identity"
+      },
+      {
+        "source_id": "src037",
+        "sheet": "エキシビションマッチ",
+        "cell": "E31",
+        "basis": "reviewed_common_identity"
+      },
+      {
+        "source_id": "src037",
+        "sheet": "参加要塞リスト",
+        "cell": "E9",
+        "basis": "reviewed_common_identity"
+      }
+    ],
+    "years": [
+      2023
+    ]
+  }
+]
