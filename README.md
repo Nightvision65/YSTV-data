@@ -4,7 +4,7 @@
 身份合并、赛事排除、等级与阵容补充已经应用，直接读取即可使用。
 仓库不保存历史核验轮次、合并进度、提取临时文件或审核过程报告。
 
-最新数据保存在 `main` 分支。修改数据后，校验并提交到此分支即可。
+已确认的数据保存在 `main` 分支。推荐协作者在自己的分支修改，确认无误后再合并到 `main`。
 
 ## 目录
 
@@ -80,9 +80,22 @@ print([p['name'] for p in players if p['is_player']])
 申请加入仓库协作者。获得写入权限后，即可在此仓库提交和推送修改。
 仅获取、读取或在自己的项目中使用数据，无需加入协作者。
 
+推荐每次修改都从最新 `main` 新建自己的分支。分支名可包含协作者名称和修改主题，
+例如 `data/your-name-fix-event`（请替换为自己的名称和主题）：
+
+```powershell
+git switch main
+git pull --ff-only origin main
+git switch -c data/your-name-fix-event
+```
+
+在此分支完成编辑、校验和提交后，推送自己的分支，并向本仓库的 `main` 提交 Pull Request。
+说明修改范围、受影响 ID、证据及校验结果；经维护者核对，确认数据与关联无误后再合并到 `main`。
+GitHub 网页编辑器或 GitHub Desktop 同样推荐先创建并切换到自己的分支，再提交修改。
+
 ## 少量文件直接修改
 
-国籍、姓名或赛事等级等小改动，可直接编辑仓库的 JSON，校验后提交并推送。
+国籍、姓名或赛事等级等小改动，可在自己的分支直接编辑仓库的 JSON，校验后提交并推送该分支。
 可以使用 GitHub 网页编辑器或 GitHub Desktop。**只修改 `players.json` 时，不必另外修改
 `dataset.json`，也不用重新导出其他数据。**
 
@@ -104,11 +117,12 @@ python tools/dataset.py verify
 git diff --stat
 git add data dataset.json
 git commit -m '更正赛事数据：说明受影响 ID 与依据'
-git push origin main
+git push --set-upstream origin HEAD
 ```
 
-`sync` 校验并重新压缩大文件，仅更新内容有变化的文件。编辑前先拉取最新 `main`；不要把过期
-编辑目录整套同步回已更新的仓库，覆盖别人的修订。
+`sync` 校验并重新压缩大文件，仅更新内容有变化的文件。上述推送发布当前分支；随后提交
+Pull Request，确认无误后合并到 `main`。新建分支前先拉取最新 `main`；不要把过期编辑目录
+整套同步回已更新的仓库，覆盖别人的修订。若审核期间 `main` 有更新，先合入最新修改，处理冲突并重新校验。
 
 - 赛果：`outcome` 仅用 `a_win`、`b_win`、`draw` 或 `null`。未知赛果不编造。
 - 身份合并：把所有引用改到保留 ID，合并别名，把旧 ID 写入 `merged_player_uids`，再删除被合并者记录。
