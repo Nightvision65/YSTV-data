@@ -109500,5 +109500,1397 @@
     "formation_ids": [],
     "seed_number": 16,
     "source_real_name": "七海"
+  },
+  {
+    "entrant_id": "ivsc2026-final-group-a-5v5:p101d1e8d9126",
+    "competition_id": "ivsc2026",
+    "stage_id": "ivsc2026-final-group-a-5v5",
+    "label": "叶玉",
+    "player_id": "p101d1e8d9126",
+    "real_name": "叶玉",
+    "kind": "player",
+    "name_basis": "existing_confirmed_identity",
+    "source": {
+      "source_id": "rank-export-20261009",
+      "sheet": "encounters",
+      "cell": "/encounters/150/b_label",
+      "json_pointer": "/encounters/150/b_label"
+    },
+    "formation_ids": []
+  },
+  {
+    "entrant_id": "ivsc2026-final-group-a-5v5:p2a776a35b114",
+    "competition_id": "ivsc2026",
+    "stage_id": "ivsc2026-final-group-a-5v5",
+    "label": "淦生物",
+    "player_id": "p2a776a35b114",
+    "real_name": "淦生物",
+    "kind": "player",
+    "name_basis": "existing_confirmed_identity",
+    "source": {
+      "source_id": "rank-export-20261009",
+      "sheet": "encounters",
+      "cell": "/encounters/150/a_label",
+      "json_pointer": "/encounters/150/a_label"
+    },
+    "formation_ids": []
+  },
+  {
+    "entrant_id": "ivsc2026-final-group-a-5v5:p92b1cb3400b9",
+    "competition_id": "ivsc2026",
+    "stage_id": "ivsc2026-final-group-a-5v5",
+    "label": "MKTL",
+    "player_id": "p92b1cb3400b9",
+    "real_name": "MKTL",
+    "kind": "player",
+    "name_basis": "existing_confirmed_identity",
+    "source": {
+      "source_id": "rank-export-20261009",
+      "sheet": "encounters",
+      "cell": "/encounters/151/b_label",
+      "json_pointer": "/encounters/151/b_label"
+    },
+    "formation_ids": []
+  },
+  {
+    "entrant_id": "ivsc2026-final-group-a-5v5:pa64a92c86530",
+    "competition_id": "ivsc2026",
+    "stage_id": "ivsc2026-final-group-a-5v5",
+    "label": "土豆",
+    "player_id": "pa64a92c86530",
+    "real_name": "土豆",
+    "kind": "player",
+    "name_basis": "existing_confirmed_identity",
+    "source": {
+      "source_id": "rank-export-20261009",
+      "sheet": "encounters",
+      "cell": "/encounters/152/b_label",
+      "json_pointer": "/encounters/152/b_label"
+    },
+    "formation_ids": []
+  },
+  {
+    "entrant_id": "ivsc2026-final-group-b-5v5:p3312d927c2e7",
+    "competition_id": "ivsc2026",
+    "stage_id": "ivsc2026-final-group-b-5v5",
+    "label": "审玉",
+    "player_id": "p3312d927c2e7",
+    "real_name": "审玉",
+    "kind": "player",
+    "name_basis": "existing_confirmed_identity",
+    "source": {
+      "source_id": "rank-export-20261009",
+      "sheet": "encounters",
+      "cell": "/encounters/157/b_label",
+      "json_pointer": "/encounters/157/b_label"
+    },
+    "formation_ids": []
+  },
+  {
+    "entrant_id": "ivsc2026-final-group-b-5v5:p655fc0a6efc5",
+    "competition_id": "ivsc2026",
+    "stage_id": "ivsc2026-final-group-b-5v5",
+    "label": "playstyle",
+    "player_id": "p655fc0a6efc5",
+    "real_name": "playstyle",
+    "kind": "player",
+    "name_basis": "existing_confirmed_identity",
+    "source": {
+      "source_id": "rank-export-20261009",
+      "sheet": "encounters",
+      "cell": "/encounters/158/b_label",
+      "json_pointer": "/encounters/158/b_label"
+    },
+    "formation_ids": []
+  },
+  {
+    "entrant_id": "ivsc2026-final-group-b-5v5:p9552186d84ad",
+    "competition_id": "ivsc2026",
+    "stage_id": "ivsc2026-final-group-b-5v5",
+    "label": "2069",
+    "player_id": "p9552186d84ad",
+    "real_name": "2069",
+    "kind": "player",
+    "name_basis": "existing_confirmed_identity",
+    "source": {
+      "source_id": "rank-export-20261009",
+      "sheet": "encounters",
+      "cell": "/encounters/156/b_label",
+      "json_pointer": "/encounters/156/b_label"
+    },
+    "formation_ids": []
+  },
+  {
+    "entrant_id": "ivsc2026-final-group-b-5v5:pef2836a3e4a3",
+    "competition_id": "ivsc2026",
+    "stage_id": "ivsc2026-final-group-b-5v5",
+    "label": "Brony牧玉",
+    "player_id": "pef2836a3e4a3",
+    "real_name": "Brony牧玉",
+    "kind": "player",
+    "name_basis": "existing_confirmed_identity",
+    "source": {
+      "source_id": "rank-export-20261009",
+      "sheet": "encounters",
+      "cell": "/encounters/156/a_label",
+      "json_pointer": "/encounters/156/a_label"
+    },
+    "formation_ids": []
+  },
+  {
+    "entrant_id": "ivsc2026-final-group-c-5v5:p0b9e7ab8fed6",
+    "competition_id": "ivsc2026",
+    "stage_id": "ivsc2026-final-group-c-5v5",
+    "label": "猪神",
+    "player_id": "p0b9e7ab8fed6",
+    "real_name": "猪神",
+    "kind": "player",
+    "name_basis": "existing_confirmed_identity",
+    "source": {
+      "source_id": "rank-export-20261009",
+      "sheet": "encounters",
+      "cell": "/encounters/162/a_label",
+      "json_pointer": "/encounters/162/a_label"
+    },
+    "formation_ids": []
+  },
+  {
+    "entrant_id": "ivsc2026-final-group-c-5v5:p5f3fe80d1de9",
+    "competition_id": "ivsc2026",
+    "stage_id": "ivsc2026-final-group-c-5v5",
+    "label": "无殇",
+    "player_id": "p5f3fe80d1de9",
+    "real_name": "无殇",
+    "kind": "player",
+    "name_basis": "existing_confirmed_identity",
+    "source": {
+      "source_id": "rank-export-20261009",
+      "sheet": "encounters",
+      "cell": "/encounters/162/b_label",
+      "json_pointer": "/encounters/162/b_label"
+    },
+    "formation_ids": []
+  },
+  {
+    "entrant_id": "ivsc2026-final-group-c-5v5:pe6aa8af9b649",
+    "competition_id": "ivsc2026",
+    "stage_id": "ivsc2026-final-group-c-5v5",
+    "label": "神天馬騎士",
+    "player_id": "pe6aa8af9b649",
+    "real_name": "神天馬騎士",
+    "kind": "player",
+    "name_basis": "existing_confirmed_identity",
+    "source": {
+      "source_id": "rank-export-20261009",
+      "sheet": "encounters",
+      "cell": "/encounters/163/b_label",
+      "json_pointer": "/encounters/163/b_label"
+    },
+    "formation_ids": []
+  },
+  {
+    "entrant_id": "ivsc2026-final-group-c-5v5:pecc76c19c9f3",
+    "competition_id": "ivsc2026",
+    "stage_id": "ivsc2026-final-group-c-5v5",
+    "label": "XX",
+    "player_id": "pecc76c19c9f3",
+    "real_name": "XX",
+    "kind": "player",
+    "name_basis": "existing_confirmed_identity",
+    "source": {
+      "source_id": "rank-export-20261009",
+      "sheet": "encounters",
+      "cell": "/encounters/164/b_label",
+      "json_pointer": "/encounters/164/b_label"
+    },
+    "formation_ids": []
+  },
+  {
+    "entrant_id": "ivsc2026-final-group-d-5v5:p0ebdc3317b75",
+    "competition_id": "ivsc2026",
+    "stage_id": "ivsc2026-final-group-d-5v5",
+    "label": "hell",
+    "player_id": "p0ebdc3317b75",
+    "real_name": "hell",
+    "kind": "player",
+    "name_basis": "existing_confirmed_identity",
+    "source": {
+      "source_id": "rank-export-20261009",
+      "sheet": "encounters",
+      "cell": "/encounters/170/b_label",
+      "json_pointer": "/encounters/170/b_label"
+    },
+    "formation_ids": []
+  },
+  {
+    "entrant_id": "ivsc2026-final-group-d-5v5:p57dac6a8c07e",
+    "competition_id": "ivsc2026",
+    "stage_id": "ivsc2026-final-group-d-5v5",
+    "label": "极限EMK",
+    "player_id": "p57dac6a8c07e",
+    "real_name": "极限EMK",
+    "kind": "player",
+    "name_basis": "existing_confirmed_identity",
+    "source": {
+      "source_id": "rank-export-20261009",
+      "sheet": "encounters",
+      "cell": "/encounters/169/b_label",
+      "json_pointer": "/encounters/169/b_label"
+    },
+    "formation_ids": []
+  },
+  {
+    "entrant_id": "ivsc2026-final-group-d-5v5:p5a9cc884751c",
+    "competition_id": "ivsc2026",
+    "stage_id": "ivsc2026-final-group-d-5v5",
+    "label": "幕府",
+    "player_id": "p5a9cc884751c",
+    "real_name": "幕府",
+    "kind": "player",
+    "name_basis": "existing_confirmed_identity",
+    "source": {
+      "source_id": "rank-export-20261009",
+      "sheet": "encounters",
+      "cell": "/encounters/168/a_label",
+      "json_pointer": "/encounters/168/a_label"
+    },
+    "formation_ids": []
+  },
+  {
+    "entrant_id": "ivsc2026-final-group-d-5v5:pe6f5b9cd0689",
+    "competition_id": "ivsc2026",
+    "stage_id": "ivsc2026-final-group-d-5v5",
+    "label": "Nightvision65",
+    "player_id": "pe6f5b9cd0689",
+    "real_name": "Nightvision65",
+    "kind": "player",
+    "name_basis": "existing_confirmed_identity",
+    "source": {
+      "source_id": "rank-export-20261009",
+      "sheet": "encounters",
+      "cell": "/encounters/168/b_label",
+      "json_pointer": "/encounters/168/b_label"
+    },
+    "formation_ids": []
+  },
+  {
+    "entrant_id": "ivsc2026-final-group-a-1v1:p101d1e8d9126",
+    "competition_id": "ivsc2026",
+    "stage_id": "ivsc2026-final-group-a-1v1",
+    "label": "叶玉",
+    "player_id": "p101d1e8d9126",
+    "real_name": "叶玉",
+    "kind": "player",
+    "name_basis": "existing_confirmed_identity",
+    "source": {
+      "source_id": "rank-export-20261009",
+      "sheet": "encounters",
+      "cell": "/encounters/174/b_label",
+      "json_pointer": "/encounters/174/b_label"
+    },
+    "formation_ids": []
+  },
+  {
+    "entrant_id": "ivsc2026-final-group-a-1v1:p2a776a35b114",
+    "competition_id": "ivsc2026",
+    "stage_id": "ivsc2026-final-group-a-1v1",
+    "label": "淦生物",
+    "player_id": "p2a776a35b114",
+    "real_name": "淦生物",
+    "kind": "player",
+    "name_basis": "existing_confirmed_identity",
+    "source": {
+      "source_id": "rank-export-20261009",
+      "sheet": "encounters",
+      "cell": "/encounters/174/a_label",
+      "json_pointer": "/encounters/174/a_label"
+    },
+    "formation_ids": []
+  },
+  {
+    "entrant_id": "ivsc2026-final-group-a-1v1:p92b1cb3400b9",
+    "competition_id": "ivsc2026",
+    "stage_id": "ivsc2026-final-group-a-1v1",
+    "label": "MKTL",
+    "player_id": "p92b1cb3400b9",
+    "real_name": "MKTL",
+    "kind": "player",
+    "name_basis": "existing_confirmed_identity",
+    "source": {
+      "source_id": "rank-export-20261009",
+      "sheet": "encounters",
+      "cell": "/encounters/175/b_label",
+      "json_pointer": "/encounters/175/b_label"
+    },
+    "formation_ids": []
+  },
+  {
+    "entrant_id": "ivsc2026-final-group-a-1v1:pa64a92c86530",
+    "competition_id": "ivsc2026",
+    "stage_id": "ivsc2026-final-group-a-1v1",
+    "label": "土豆",
+    "player_id": "pa64a92c86530",
+    "real_name": "土豆",
+    "kind": "player",
+    "name_basis": "existing_confirmed_identity",
+    "source": {
+      "source_id": "rank-export-20261009",
+      "sheet": "encounters",
+      "cell": "/encounters/176/b_label",
+      "json_pointer": "/encounters/176/b_label"
+    },
+    "formation_ids": []
+  },
+  {
+    "entrant_id": "ivsc2026-final-group-b-1v1:p3312d927c2e7",
+    "competition_id": "ivsc2026",
+    "stage_id": "ivsc2026-final-group-b-1v1",
+    "label": "审玉",
+    "player_id": "p3312d927c2e7",
+    "real_name": "审玉",
+    "kind": "player",
+    "name_basis": "existing_confirmed_identity",
+    "source": {
+      "source_id": "rank-export-20261009",
+      "sheet": "encounters",
+      "cell": "/encounters/181/b_label",
+      "json_pointer": "/encounters/181/b_label"
+    },
+    "formation_ids": []
+  },
+  {
+    "entrant_id": "ivsc2026-final-group-b-1v1:p655fc0a6efc5",
+    "competition_id": "ivsc2026",
+    "stage_id": "ivsc2026-final-group-b-1v1",
+    "label": "playstyle",
+    "player_id": "p655fc0a6efc5",
+    "real_name": "playstyle",
+    "kind": "player",
+    "name_basis": "existing_confirmed_identity",
+    "source": {
+      "source_id": "rank-export-20261009",
+      "sheet": "encounters",
+      "cell": "/encounters/182/b_label",
+      "json_pointer": "/encounters/182/b_label"
+    },
+    "formation_ids": []
+  },
+  {
+    "entrant_id": "ivsc2026-final-group-b-1v1:p9552186d84ad",
+    "competition_id": "ivsc2026",
+    "stage_id": "ivsc2026-final-group-b-1v1",
+    "label": "2069",
+    "player_id": "p9552186d84ad",
+    "real_name": "2069",
+    "kind": "player",
+    "name_basis": "existing_confirmed_identity",
+    "source": {
+      "source_id": "rank-export-20261009",
+      "sheet": "encounters",
+      "cell": "/encounters/180/b_label",
+      "json_pointer": "/encounters/180/b_label"
+    },
+    "formation_ids": []
+  },
+  {
+    "entrant_id": "ivsc2026-final-group-b-1v1:pef2836a3e4a3",
+    "competition_id": "ivsc2026",
+    "stage_id": "ivsc2026-final-group-b-1v1",
+    "label": "Brony牧玉",
+    "player_id": "pef2836a3e4a3",
+    "real_name": "Brony牧玉",
+    "kind": "player",
+    "name_basis": "existing_confirmed_identity",
+    "source": {
+      "source_id": "rank-export-20261009",
+      "sheet": "encounters",
+      "cell": "/encounters/180/a_label",
+      "json_pointer": "/encounters/180/a_label"
+    },
+    "formation_ids": []
+  },
+  {
+    "entrant_id": "ivsc2026-final-group-c-1v1:p0b9e7ab8fed6",
+    "competition_id": "ivsc2026",
+    "stage_id": "ivsc2026-final-group-c-1v1",
+    "label": "猪神",
+    "player_id": "p0b9e7ab8fed6",
+    "real_name": "猪神",
+    "kind": "player",
+    "name_basis": "existing_confirmed_identity",
+    "source": {
+      "source_id": "rank-export-20261009",
+      "sheet": "encounters",
+      "cell": "/encounters/186/a_label",
+      "json_pointer": "/encounters/186/a_label"
+    },
+    "formation_ids": []
+  },
+  {
+    "entrant_id": "ivsc2026-final-group-c-1v1:p5f3fe80d1de9",
+    "competition_id": "ivsc2026",
+    "stage_id": "ivsc2026-final-group-c-1v1",
+    "label": "无殇",
+    "player_id": "p5f3fe80d1de9",
+    "real_name": "无殇",
+    "kind": "player",
+    "name_basis": "existing_confirmed_identity",
+    "source": {
+      "source_id": "rank-export-20261009",
+      "sheet": "encounters",
+      "cell": "/encounters/186/b_label",
+      "json_pointer": "/encounters/186/b_label"
+    },
+    "formation_ids": []
+  },
+  {
+    "entrant_id": "ivsc2026-final-group-c-1v1:pe6aa8af9b649",
+    "competition_id": "ivsc2026",
+    "stage_id": "ivsc2026-final-group-c-1v1",
+    "label": "神天馬騎士",
+    "player_id": "pe6aa8af9b649",
+    "real_name": "神天馬騎士",
+    "kind": "player",
+    "name_basis": "existing_confirmed_identity",
+    "source": {
+      "source_id": "rank-export-20261009",
+      "sheet": "encounters",
+      "cell": "/encounters/187/b_label",
+      "json_pointer": "/encounters/187/b_label"
+    },
+    "formation_ids": []
+  },
+  {
+    "entrant_id": "ivsc2026-final-group-c-1v1:pecc76c19c9f3",
+    "competition_id": "ivsc2026",
+    "stage_id": "ivsc2026-final-group-c-1v1",
+    "label": "XX",
+    "player_id": "pecc76c19c9f3",
+    "real_name": "XX",
+    "kind": "player",
+    "name_basis": "existing_confirmed_identity",
+    "source": {
+      "source_id": "rank-export-20261009",
+      "sheet": "encounters",
+      "cell": "/encounters/188/b_label",
+      "json_pointer": "/encounters/188/b_label"
+    },
+    "formation_ids": []
+  },
+  {
+    "entrant_id": "ivsc2026-final-group-d-1v1:p0ebdc3317b75",
+    "competition_id": "ivsc2026",
+    "stage_id": "ivsc2026-final-group-d-1v1",
+    "label": "hell",
+    "player_id": "p0ebdc3317b75",
+    "real_name": "hell",
+    "kind": "player",
+    "name_basis": "existing_confirmed_identity",
+    "source": {
+      "source_id": "rank-export-20261009",
+      "sheet": "encounters",
+      "cell": "/encounters/194/b_label",
+      "json_pointer": "/encounters/194/b_label"
+    },
+    "formation_ids": []
+  },
+  {
+    "entrant_id": "ivsc2026-final-group-d-1v1:p57dac6a8c07e",
+    "competition_id": "ivsc2026",
+    "stage_id": "ivsc2026-final-group-d-1v1",
+    "label": "极限EMK",
+    "player_id": "p57dac6a8c07e",
+    "real_name": "极限EMK",
+    "kind": "player",
+    "name_basis": "existing_confirmed_identity",
+    "source": {
+      "source_id": "rank-export-20261009",
+      "sheet": "encounters",
+      "cell": "/encounters/193/b_label",
+      "json_pointer": "/encounters/193/b_label"
+    },
+    "formation_ids": []
+  },
+  {
+    "entrant_id": "ivsc2026-final-group-d-1v1:p5a9cc884751c",
+    "competition_id": "ivsc2026",
+    "stage_id": "ivsc2026-final-group-d-1v1",
+    "label": "幕府",
+    "player_id": "p5a9cc884751c",
+    "real_name": "幕府",
+    "kind": "player",
+    "name_basis": "existing_confirmed_identity",
+    "source": {
+      "source_id": "rank-export-20261009",
+      "sheet": "encounters",
+      "cell": "/encounters/192/a_label",
+      "json_pointer": "/encounters/192/a_label"
+    },
+    "formation_ids": []
+  },
+  {
+    "entrant_id": "ivsc2026-final-group-d-1v1:pe6f5b9cd0689",
+    "competition_id": "ivsc2026",
+    "stage_id": "ivsc2026-final-group-d-1v1",
+    "label": "Nightvision65",
+    "player_id": "pe6f5b9cd0689",
+    "real_name": "Nightvision65",
+    "kind": "player",
+    "name_basis": "existing_confirmed_identity",
+    "source": {
+      "source_id": "rank-export-20261009",
+      "sheet": "encounters",
+      "cell": "/encounters/192/b_label",
+      "json_pointer": "/encounters/192/b_label"
+    },
+    "formation_ids": []
+  },
+  {
+    "entrant_id": "ivsc2026-final-knockout-5v5:p0b9e7ab8fed6",
+    "competition_id": "ivsc2026",
+    "stage_id": "ivsc2026-final-knockout-5v5",
+    "label": "猪神",
+    "player_id": "p0b9e7ab8fed6",
+    "real_name": "猪神",
+    "kind": "player",
+    "name_basis": "existing_confirmed_identity",
+    "source": {
+      "source_id": "rank-export-20261009",
+      "sheet": "encounters",
+      "cell": "/encounters/202/a_label",
+      "json_pointer": "/encounters/202/a_label"
+    },
+    "formation_ids": []
+  },
+  {
+    "entrant_id": "ivsc2026-final-knockout-5v5:p101d1e8d9126",
+    "competition_id": "ivsc2026",
+    "stage_id": "ivsc2026-final-knockout-5v5",
+    "label": "叶玉",
+    "player_id": "p101d1e8d9126",
+    "real_name": "叶玉",
+    "kind": "player",
+    "name_basis": "existing_confirmed_identity",
+    "source": {
+      "source_id": "rank-export-20261009",
+      "sheet": "encounters",
+      "cell": "/encounters/205/a_label",
+      "json_pointer": "/encounters/205/a_label"
+    },
+    "formation_ids": []
+  },
+  {
+    "entrant_id": "ivsc2026-final-knockout-5v5:p2a776a35b114",
+    "competition_id": "ivsc2026",
+    "stage_id": "ivsc2026-final-knockout-5v5",
+    "label": "淦生物",
+    "player_id": "p2a776a35b114",
+    "real_name": "淦生物",
+    "kind": "player",
+    "name_basis": "existing_confirmed_identity",
+    "source": {
+      "source_id": "rank-export-20261009",
+      "sheet": "encounters",
+      "cell": "/encounters/198/b_label",
+      "json_pointer": "/encounters/198/b_label"
+    },
+    "formation_ids": []
+  },
+  {
+    "entrant_id": "ivsc2026-final-knockout-5v5:p3312d927c2e7",
+    "competition_id": "ivsc2026",
+    "stage_id": "ivsc2026-final-knockout-5v5",
+    "label": "审玉",
+    "player_id": "p3312d927c2e7",
+    "real_name": "审玉",
+    "kind": "player",
+    "name_basis": "existing_confirmed_identity",
+    "source": {
+      "source_id": "rank-export-20261009",
+      "sheet": "encounters",
+      "cell": "/encounters/198/a_label",
+      "json_pointer": "/encounters/198/a_label"
+    },
+    "formation_ids": []
+  },
+  {
+    "entrant_id": "ivsc2026-final-knockout-5v5:p57dac6a8c07e",
+    "competition_id": "ivsc2026",
+    "stage_id": "ivsc2026-final-knockout-5v5",
+    "label": "极限EMK",
+    "player_id": "p57dac6a8c07e",
+    "real_name": "极限EMK",
+    "kind": "player",
+    "name_basis": "existing_confirmed_identity",
+    "source": {
+      "source_id": "rank-export-20261009",
+      "sheet": "encounters",
+      "cell": "/encounters/203/a_label",
+      "json_pointer": "/encounters/203/a_label"
+    },
+    "formation_ids": []
+  },
+  {
+    "entrant_id": "ivsc2026-final-knockout-5v5:p5a9cc884751c",
+    "competition_id": "ivsc2026",
+    "stage_id": "ivsc2026-final-knockout-5v5",
+    "label": "幕府",
+    "player_id": "p5a9cc884751c",
+    "real_name": "幕府",
+    "kind": "player",
+    "name_basis": "existing_confirmed_identity",
+    "source": {
+      "source_id": "rank-export-20261009",
+      "sheet": "encounters",
+      "cell": "/encounters/201/b_label",
+      "json_pointer": "/encounters/201/b_label"
+    },
+    "formation_ids": []
+  },
+  {
+    "entrant_id": "ivsc2026-final-knockout-5v5:p5f3fe80d1de9",
+    "competition_id": "ivsc2026",
+    "stage_id": "ivsc2026-final-knockout-5v5",
+    "label": "无殇",
+    "player_id": "p5f3fe80d1de9",
+    "real_name": "无殇",
+    "kind": "player",
+    "name_basis": "existing_confirmed_identity",
+    "source": {
+      "source_id": "rank-export-20261009",
+      "sheet": "encounters",
+      "cell": "/encounters/199/a_label",
+      "json_pointer": "/encounters/199/a_label"
+    },
+    "formation_ids": []
+  },
+  {
+    "entrant_id": "ivsc2026-final-knockout-5v5:p655fc0a6efc5",
+    "competition_id": "ivsc2026",
+    "stage_id": "ivsc2026-final-knockout-5v5",
+    "label": "playstyle",
+    "player_id": "p655fc0a6efc5",
+    "real_name": "playstyle",
+    "kind": "player",
+    "name_basis": "existing_confirmed_identity",
+    "source": {
+      "source_id": "rank-export-20261009",
+      "sheet": "encounters",
+      "cell": "/encounters/201/a_label",
+      "json_pointer": "/encounters/201/a_label"
+    },
+    "formation_ids": []
+  },
+  {
+    "entrant_id": "ivsc2026-final-knockout-5v5:p9552186d84ad",
+    "competition_id": "ivsc2026",
+    "stage_id": "ivsc2026-final-knockout-5v5",
+    "label": "2069",
+    "player_id": "p9552186d84ad",
+    "real_name": "2069",
+    "kind": "player",
+    "name_basis": "existing_confirmed_identity",
+    "source": {
+      "source_id": "rank-export-20261009",
+      "sheet": "encounters",
+      "cell": "/encounters/204/a_label",
+      "json_pointer": "/encounters/204/a_label"
+    },
+    "formation_ids": []
+  },
+  {
+    "entrant_id": "ivsc2026-final-knockout-5v5:pa64a92c86530",
+    "competition_id": "ivsc2026",
+    "stage_id": "ivsc2026-final-knockout-5v5",
+    "label": "土豆",
+    "player_id": "pa64a92c86530",
+    "real_name": "土豆",
+    "kind": "player",
+    "name_basis": "existing_confirmed_identity",
+    "source": {
+      "source_id": "rank-export-20261009",
+      "sheet": "encounters",
+      "cell": "/encounters/199/b_label",
+      "json_pointer": "/encounters/199/b_label"
+    },
+    "formation_ids": []
+  },
+  {
+    "entrant_id": "ivsc2026-final-knockout-5v5:pe6f5b9cd0689",
+    "competition_id": "ivsc2026",
+    "stage_id": "ivsc2026-final-knockout-5v5",
+    "label": "Nightvision65",
+    "player_id": "pe6f5b9cd0689",
+    "real_name": "Nightvision65",
+    "kind": "player",
+    "name_basis": "existing_confirmed_identity",
+    "source": {
+      "source_id": "rank-export-20261009",
+      "sheet": "encounters",
+      "cell": "/encounters/200/a_label",
+      "json_pointer": "/encounters/200/a_label"
+    },
+    "formation_ids": []
+  },
+  {
+    "entrant_id": "ivsc2026-final-knockout-5v5:pecc76c19c9f3",
+    "competition_id": "ivsc2026",
+    "stage_id": "ivsc2026-final-knockout-5v5",
+    "label": "XX",
+    "player_id": "pecc76c19c9f3",
+    "real_name": "XX",
+    "kind": "player",
+    "name_basis": "existing_confirmed_identity",
+    "source": {
+      "source_id": "rank-export-20261009",
+      "sheet": "encounters",
+      "cell": "/encounters/200/b_label",
+      "json_pointer": "/encounters/200/b_label"
+    },
+    "formation_ids": []
+  },
+  {
+    "entrant_id": "ivsc2026-final-knockout-1v1:p0b9e7ab8fed6",
+    "competition_id": "ivsc2026",
+    "stage_id": "ivsc2026-final-knockout-1v1",
+    "label": "猪神",
+    "player_id": "p0b9e7ab8fed6",
+    "real_name": "猪神",
+    "kind": "player",
+    "name_basis": "existing_confirmed_identity",
+    "source": {
+      "source_id": "rank-export-20261009",
+      "sheet": "encounters",
+      "cell": "/encounters/216/a_label",
+      "json_pointer": "/encounters/216/a_label"
+    },
+    "formation_ids": []
+  },
+  {
+    "entrant_id": "ivsc2026-final-knockout-1v1:p101d1e8d9126",
+    "competition_id": "ivsc2026",
+    "stage_id": "ivsc2026-final-knockout-1v1",
+    "label": "叶玉",
+    "player_id": "p101d1e8d9126",
+    "real_name": "叶玉",
+    "kind": "player",
+    "name_basis": "existing_confirmed_identity",
+    "source": {
+      "source_id": "rank-export-20261009",
+      "sheet": "encounters",
+      "cell": "/encounters/221/a_label",
+      "json_pointer": "/encounters/221/a_label"
+    },
+    "formation_ids": []
+  },
+  {
+    "entrant_id": "ivsc2026-final-knockout-1v1:p2a776a35b114",
+    "competition_id": "ivsc2026",
+    "stage_id": "ivsc2026-final-knockout-1v1",
+    "label": "淦生物",
+    "player_id": "p2a776a35b114",
+    "real_name": "淦生物",
+    "kind": "player",
+    "name_basis": "existing_confirmed_identity",
+    "source": {
+      "source_id": "rank-export-20261009",
+      "sheet": "encounters",
+      "cell": "/encounters/210/b_label",
+      "json_pointer": "/encounters/210/b_label"
+    },
+    "formation_ids": []
+  },
+  {
+    "entrant_id": "ivsc2026-final-knockout-1v1:p3312d927c2e7",
+    "competition_id": "ivsc2026",
+    "stage_id": "ivsc2026-final-knockout-1v1",
+    "label": "审玉",
+    "player_id": "p3312d927c2e7",
+    "real_name": "审玉",
+    "kind": "player",
+    "name_basis": "existing_confirmed_identity",
+    "source": {
+      "source_id": "rank-export-20261009",
+      "sheet": "encounters",
+      "cell": "/encounters/210/a_label",
+      "json_pointer": "/encounters/210/a_label"
+    },
+    "formation_ids": []
+  },
+  {
+    "entrant_id": "ivsc2026-final-knockout-1v1:p57dac6a8c07e",
+    "competition_id": "ivsc2026",
+    "stage_id": "ivsc2026-final-knockout-1v1",
+    "label": "极限EMK",
+    "player_id": "p57dac6a8c07e",
+    "real_name": "极限EMK",
+    "kind": "player",
+    "name_basis": "existing_confirmed_identity",
+    "source": {
+      "source_id": "rank-export-20261009",
+      "sheet": "encounters",
+      "cell": "/encounters/217/a_label",
+      "json_pointer": "/encounters/217/a_label"
+    },
+    "formation_ids": []
+  },
+  {
+    "entrant_id": "ivsc2026-final-knockout-1v1:p5a9cc884751c",
+    "competition_id": "ivsc2026",
+    "stage_id": "ivsc2026-final-knockout-1v1",
+    "label": "幕府",
+    "player_id": "p5a9cc884751c",
+    "real_name": "幕府",
+    "kind": "player",
+    "name_basis": "existing_confirmed_identity",
+    "source": {
+      "source_id": "rank-export-20261009",
+      "sheet": "encounters",
+      "cell": "/encounters/215/b_label",
+      "json_pointer": "/encounters/215/b_label"
+    },
+    "formation_ids": []
+  },
+  {
+    "entrant_id": "ivsc2026-final-knockout-1v1:p5f3fe80d1de9",
+    "competition_id": "ivsc2026",
+    "stage_id": "ivsc2026-final-knockout-1v1",
+    "label": "无殇",
+    "player_id": "p5f3fe80d1de9",
+    "real_name": "无殇",
+    "kind": "player",
+    "name_basis": "existing_confirmed_identity",
+    "source": {
+      "source_id": "rank-export-20261009",
+      "sheet": "encounters",
+      "cell": "/encounters/212/a_label",
+      "json_pointer": "/encounters/212/a_label"
+    },
+    "formation_ids": []
+  },
+  {
+    "entrant_id": "ivsc2026-final-knockout-1v1:p655fc0a6efc5",
+    "competition_id": "ivsc2026",
+    "stage_id": "ivsc2026-final-knockout-1v1",
+    "label": "playstyle",
+    "player_id": "p655fc0a6efc5",
+    "real_name": "playstyle",
+    "kind": "player",
+    "name_basis": "existing_confirmed_identity",
+    "source": {
+      "source_id": "rank-export-20261009",
+      "sheet": "encounters",
+      "cell": "/encounters/215/a_label",
+      "json_pointer": "/encounters/215/a_label"
+    },
+    "formation_ids": []
+  },
+  {
+    "entrant_id": "ivsc2026-final-knockout-1v1:p9552186d84ad",
+    "competition_id": "ivsc2026",
+    "stage_id": "ivsc2026-final-knockout-1v1",
+    "label": "2069",
+    "player_id": "p9552186d84ad",
+    "real_name": "2069",
+    "kind": "player",
+    "name_basis": "existing_confirmed_identity",
+    "source": {
+      "source_id": "rank-export-20261009",
+      "sheet": "encounters",
+      "cell": "/encounters/219/a_label",
+      "json_pointer": "/encounters/219/a_label"
+    },
+    "formation_ids": []
+  },
+  {
+    "entrant_id": "ivsc2026-final-knockout-1v1:pa64a92c86530",
+    "competition_id": "ivsc2026",
+    "stage_id": "ivsc2026-final-knockout-1v1",
+    "label": "土豆",
+    "player_id": "pa64a92c86530",
+    "real_name": "土豆",
+    "kind": "player",
+    "name_basis": "existing_confirmed_identity",
+    "source": {
+      "source_id": "rank-export-20261009",
+      "sheet": "encounters",
+      "cell": "/encounters/212/b_label",
+      "json_pointer": "/encounters/212/b_label"
+    },
+    "formation_ids": []
+  },
+  {
+    "entrant_id": "ivsc2026-final-knockout-1v1:pe6f5b9cd0689",
+    "competition_id": "ivsc2026",
+    "stage_id": "ivsc2026-final-knockout-1v1",
+    "label": "Nightvision65",
+    "player_id": "pe6f5b9cd0689",
+    "real_name": "Nightvision65",
+    "kind": "player",
+    "name_basis": "existing_confirmed_identity",
+    "source": {
+      "source_id": "rank-export-20261009",
+      "sheet": "encounters",
+      "cell": "/encounters/214/a_label",
+      "json_pointer": "/encounters/214/a_label"
+    },
+    "formation_ids": []
+  },
+  {
+    "entrant_id": "ivsc2026-final-knockout-1v1:pecc76c19c9f3",
+    "competition_id": "ivsc2026",
+    "stage_id": "ivsc2026-final-knockout-1v1",
+    "label": "XX",
+    "player_id": "pecc76c19c9f3",
+    "real_name": "XX",
+    "kind": "player",
+    "name_basis": "existing_confirmed_identity",
+    "source": {
+      "source_id": "rank-export-20261009",
+      "sheet": "encounters",
+      "cell": "/encounters/214/b_label",
+      "json_pointer": "/encounters/214/b_label"
+    },
+    "formation_ids": []
+  },
+  {
+    "entrant_id": "gtls4-final-rank-27:p0b9e7ab8fed6",
+    "competition_id": "gtls4",
+    "stage_id": "gtls4-final-rank-27",
+    "label": "猪神",
+    "player_id": "p0b9e7ab8fed6",
+    "real_name": "猪神",
+    "kind": "player",
+    "name_basis": "existing_confirmed_identity",
+    "source": {
+      "source_id": "rank-export-20261009",
+      "sheet": "encounters",
+      "cell": "/encounters/8/b_label",
+      "json_pointer": "/encounters/8/b_label"
+    },
+    "formation_ids": [
+      "rank-27-lineup:p0b9e7ab8fed6"
+    ],
+    "roster_formation_ids": [
+      "rank-27-lineup:p0b9e7ab8fed6"
+    ]
+  },
+  {
+    "entrant_id": "gtls4-final-rank-27:p0ebdc3317b75",
+    "competition_id": "gtls4",
+    "stage_id": "gtls4-final-rank-27",
+    "label": "hell",
+    "player_id": "p0ebdc3317b75",
+    "real_name": "hell",
+    "kind": "player",
+    "name_basis": "existing_confirmed_identity",
+    "source": {
+      "source_id": "rank-export-20261009",
+      "sheet": "encounters",
+      "cell": "/encounters/14/b_label",
+      "json_pointer": "/encounters/14/b_label"
+    },
+    "formation_ids": [
+      "rank-27-lineup:p0ebdc3317b75"
+    ],
+    "roster_formation_ids": [
+      "rank-27-lineup:p0ebdc3317b75"
+    ]
+  },
+  {
+    "entrant_id": "gtls4-final-rank-27:p101d1e8d9126",
+    "competition_id": "gtls4",
+    "stage_id": "gtls4-final-rank-27",
+    "label": "叶玉",
+    "player_id": "p101d1e8d9126",
+    "real_name": "叶玉",
+    "kind": "player",
+    "name_basis": "existing_confirmed_identity",
+    "source": {
+      "source_id": "rank-export-20261009",
+      "sheet": "encounters",
+      "cell": "/encounters/2/b_label",
+      "json_pointer": "/encounters/2/b_label"
+    },
+    "formation_ids": [
+      "rank-27-lineup:p101d1e8d9126"
+    ],
+    "roster_formation_ids": [
+      "rank-27-lineup:p101d1e8d9126"
+    ]
+  },
+  {
+    "entrant_id": "gtls4-final-rank-27:p2a776a35b114",
+    "competition_id": "gtls4",
+    "stage_id": "gtls4-final-rank-27",
+    "label": "淦生物",
+    "player_id": "p2a776a35b114",
+    "real_name": "淦生物",
+    "kind": "player",
+    "name_basis": "existing_confirmed_identity",
+    "source": {
+      "source_id": "rank-export-20261009",
+      "sheet": "encounters",
+      "cell": "/encounters/3/b_label",
+      "json_pointer": "/encounters/3/b_label"
+    },
+    "formation_ids": [
+      "rank-27-lineup:p2a776a35b114"
+    ],
+    "roster_formation_ids": [
+      "rank-27-lineup:p2a776a35b114"
+    ]
+  },
+  {
+    "entrant_id": "gtls4-final-rank-27:p2e5a8d9483e4",
+    "competition_id": "gtls4",
+    "stage_id": "gtls4-final-rank-27",
+    "label": "Raze Bond",
+    "player_id": "p2e5a8d9483e4",
+    "real_name": "Raze Bond",
+    "kind": "player",
+    "name_basis": "existing_confirmed_identity",
+    "source": {
+      "source_id": "rank-export-20261009",
+      "sheet": "encounters",
+      "cell": "/encounters/0/b_label",
+      "json_pointer": "/encounters/0/b_label"
+    },
+    "formation_ids": [
+      "rank-27-lineup:p2e5a8d9483e4"
+    ],
+    "roster_formation_ids": [
+      "rank-27-lineup:p2e5a8d9483e4"
+    ]
+  },
+  {
+    "entrant_id": "gtls4-final-rank-27:p3312d927c2e7",
+    "competition_id": "gtls4",
+    "stage_id": "gtls4-final-rank-27",
+    "label": "审玉",
+    "player_id": "p3312d927c2e7",
+    "real_name": "审玉",
+    "kind": "player",
+    "name_basis": "existing_confirmed_identity",
+    "source": {
+      "source_id": "rank-export-20261009",
+      "sheet": "encounters",
+      "cell": "/encounters/115/b_label",
+      "json_pointer": "/encounters/115/b_label"
+    },
+    "formation_ids": [
+      "rank-27-lineup:p3312d927c2e7"
+    ],
+    "roster_formation_ids": [
+      "rank-27-lineup:p3312d927c2e7"
+    ]
+  },
+  {
+    "entrant_id": "gtls4-final-rank-27:p57dac6a8c07e",
+    "competition_id": "gtls4",
+    "stage_id": "gtls4-final-rank-27",
+    "label": "极限EMK",
+    "player_id": "p57dac6a8c07e",
+    "real_name": "极限EMK",
+    "kind": "player",
+    "name_basis": "existing_confirmed_identity",
+    "source": {
+      "source_id": "rank-export-20261009",
+      "sheet": "encounters",
+      "cell": "/encounters/0/a_label",
+      "json_pointer": "/encounters/0/a_label"
+    },
+    "formation_ids": [
+      "rank-27-lineup:p57dac6a8c07e"
+    ],
+    "roster_formation_ids": [
+      "rank-27-lineup:p57dac6a8c07e"
+    ]
+  },
+  {
+    "entrant_id": "gtls4-final-rank-27:p5a9cc884751c",
+    "competition_id": "gtls4",
+    "stage_id": "gtls4-final-rank-27",
+    "label": "幕府",
+    "player_id": "p5a9cc884751c",
+    "real_name": "幕府",
+    "kind": "player",
+    "name_basis": "existing_confirmed_identity",
+    "source": {
+      "source_id": "rank-export-20261009",
+      "sheet": "encounters",
+      "cell": "/encounters/12/b_label",
+      "json_pointer": "/encounters/12/b_label"
+    },
+    "formation_ids": [
+      "rank-27-lineup:p5a9cc884751c"
+    ],
+    "roster_formation_ids": [
+      "rank-27-lineup:p5a9cc884751c"
+    ]
+  },
+  {
+    "entrant_id": "gtls4-final-rank-27:p5f3fe80d1de9",
+    "competition_id": "gtls4",
+    "stage_id": "gtls4-final-rank-27",
+    "label": "无殇",
+    "player_id": "p5f3fe80d1de9",
+    "real_name": "无殇",
+    "kind": "player",
+    "name_basis": "existing_confirmed_identity",
+    "source": {
+      "source_id": "rank-export-20261009",
+      "sheet": "encounters",
+      "cell": "/encounters/10/b_label",
+      "json_pointer": "/encounters/10/b_label"
+    },
+    "formation_ids": [
+      "rank-27-lineup:p5f3fe80d1de9"
+    ],
+    "roster_formation_ids": [
+      "rank-27-lineup:p5f3fe80d1de9"
+    ]
+  },
+  {
+    "entrant_id": "gtls4-final-rank-27:p6b3c238ebcf1",
+    "competition_id": "gtls4",
+    "stage_id": "gtls4-final-rank-27",
+    "label": "404",
+    "player_id": "p6b3c238ebcf1",
+    "real_name": "404",
+    "kind": "player",
+    "name_basis": "existing_confirmed_identity",
+    "source": {
+      "source_id": "rank-export-20261009",
+      "sheet": "encounters",
+      "cell": "/encounters/1/b_label",
+      "json_pointer": "/encounters/1/b_label"
+    },
+    "formation_ids": [
+      "rank-27-lineup:p6b3c238ebcf1"
+    ],
+    "roster_formation_ids": [
+      "rank-27-lineup:p6b3c238ebcf1"
+    ]
+  },
+  {
+    "entrant_id": "gtls4-final-rank-27:p73841de86c7a",
+    "competition_id": "gtls4",
+    "stage_id": "gtls4-final-rank-27",
+    "label": "天玉",
+    "player_id": "p73841de86c7a",
+    "real_name": "天玉",
+    "kind": "player",
+    "name_basis": "existing_confirmed_identity",
+    "source": {
+      "source_id": "rank-export-20261009",
+      "sheet": "encounters",
+      "cell": "/encounters/4/b_label",
+      "json_pointer": "/encounters/4/b_label"
+    },
+    "formation_ids": [
+      "rank-27-lineup:p73841de86c7a"
+    ],
+    "roster_formation_ids": [
+      "rank-27-lineup:p73841de86c7a"
+    ]
+  },
+  {
+    "entrant_id": "gtls4-final-rank-27:p92b1cb3400b9",
+    "competition_id": "gtls4",
+    "stage_id": "gtls4-final-rank-27",
+    "label": "MKTL",
+    "player_id": "p92b1cb3400b9",
+    "real_name": "MKTL",
+    "kind": "player",
+    "name_basis": "existing_confirmed_identity",
+    "source": {
+      "source_id": "rank-export-20261009",
+      "sheet": "encounters",
+      "cell": "/encounters/7/b_label",
+      "json_pointer": "/encounters/7/b_label"
+    },
+    "formation_ids": [
+      "rank-27-lineup:p92b1cb3400b9"
+    ],
+    "roster_formation_ids": [
+      "rank-27-lineup:p92b1cb3400b9"
+    ]
+  },
+  {
+    "entrant_id": "gtls4-final-rank-27:p9552186d84ad",
+    "competition_id": "gtls4",
+    "stage_id": "gtls4-final-rank-27",
+    "label": "2069",
+    "player_id": "p9552186d84ad",
+    "real_name": "2069",
+    "kind": "player",
+    "name_basis": "existing_confirmed_identity",
+    "source": {
+      "source_id": "rank-export-20261009",
+      "sheet": "encounters",
+      "cell": "/encounters/116/b_label",
+      "json_pointer": "/encounters/116/b_label"
+    },
+    "formation_ids": [
+      "rank-27-lineup:p9552186d84ad"
+    ],
+    "roster_formation_ids": [
+      "rank-27-lineup:p9552186d84ad"
+    ]
+  },
+  {
+    "entrant_id": "gtls4-final-rank-27:p98a621cdb383",
+    "competition_id": "gtls4",
+    "stage_id": "gtls4-final-rank-27",
+    "label": "lbwnb",
+    "player_id": "p98a621cdb383",
+    "real_name": "lbwnb",
+    "kind": "player",
+    "name_basis": "existing_confirmed_identity",
+    "source": {
+      "source_id": "rank-export-20261009",
+      "sheet": "encounters",
+      "cell": "/encounters/13/b_label",
+      "json_pointer": "/encounters/13/b_label"
+    },
+    "formation_ids": [
+      "rank-27-lineup:p98a621cdb383"
+    ],
+    "roster_formation_ids": [
+      "rank-27-lineup:p98a621cdb383"
+    ]
+  },
+  {
+    "entrant_id": "gtls4-final-rank-27:pa64a92c86530",
+    "competition_id": "gtls4",
+    "stage_id": "gtls4-final-rank-27",
+    "label": "土豆",
+    "player_id": "pa64a92c86530",
+    "real_name": "土豆",
+    "kind": "player",
+    "name_basis": "existing_confirmed_identity",
+    "source": {
+      "source_id": "rank-export-20261009",
+      "sheet": "encounters",
+      "cell": "/encounters/6/b_label",
+      "json_pointer": "/encounters/6/b_label"
+    },
+    "formation_ids": [
+      "rank-27-lineup:pa64a92c86530"
+    ],
+    "roster_formation_ids": [
+      "rank-27-lineup:pa64a92c86530"
+    ]
+  },
+  {
+    "entrant_id": "gtls4-final-rank-27:pacc71e90765c",
+    "competition_id": "gtls4",
+    "stage_id": "gtls4-final-rank-27",
+    "label": "愣生物",
+    "player_id": "pacc71e90765c",
+    "real_name": "愣生物",
+    "kind": "player",
+    "name_basis": "existing_confirmed_identity",
+    "source": {
+      "source_id": "rank-export-20261009",
+      "sheet": "encounters",
+      "cell": "/encounters/15/b_label",
+      "json_pointer": "/encounters/15/b_label"
+    },
+    "formation_ids": [
+      "rank-27-lineup:pacc71e90765c"
+    ],
+    "roster_formation_ids": [
+      "rank-27-lineup:pacc71e90765c"
+    ]
+  },
+  {
+    "entrant_id": "gtls4-final-rank-27:pe6f5b9cd0689",
+    "competition_id": "gtls4",
+    "stage_id": "gtls4-final-rank-27",
+    "label": "Nightvision65",
+    "player_id": "pe6f5b9cd0689",
+    "real_name": "Nightvision65",
+    "kind": "player",
+    "name_basis": "existing_confirmed_identity",
+    "source": {
+      "source_id": "rank-export-20261009",
+      "sheet": "encounters",
+      "cell": "/encounters/5/b_label",
+      "json_pointer": "/encounters/5/b_label"
+    },
+    "formation_ids": [
+      "rank-27-lineup:pe6f5b9cd0689"
+    ],
+    "roster_formation_ids": [
+      "rank-27-lineup:pe6f5b9cd0689"
+    ]
+  },
+  {
+    "entrant_id": "gtls4-final-rank-27:pecc76c19c9f3",
+    "competition_id": "gtls4",
+    "stage_id": "gtls4-final-rank-27",
+    "label": "XX",
+    "player_id": "pecc76c19c9f3",
+    "real_name": "XX",
+    "kind": "player",
+    "name_basis": "existing_confirmed_identity",
+    "source": {
+      "source_id": "rank-export-20261009",
+      "sheet": "encounters",
+      "cell": "/encounters/9/b_label",
+      "json_pointer": "/encounters/9/b_label"
+    },
+    "formation_ids": [
+      "rank-27-lineup:pecc76c19c9f3"
+    ],
+    "roster_formation_ids": [
+      "rank-27-lineup:pecc76c19c9f3"
+    ]
+  },
+  {
+    "entrant_id": "gtls4-final-rank-27:pef2836a3e4a3",
+    "competition_id": "gtls4",
+    "stage_id": "gtls4-final-rank-27",
+    "label": "Brony牧玉",
+    "player_id": "pef2836a3e4a3",
+    "real_name": "Brony牧玉",
+    "kind": "player",
+    "name_basis": "existing_confirmed_identity",
+    "source": {
+      "source_id": "rank-export-20261009",
+      "sheet": "encounters",
+      "cell": "/encounters/11/b_label",
+      "json_pointer": "/encounters/11/b_label"
+    },
+    "formation_ids": [
+      "rank-27-lineup:pef2836a3e4a3"
+    ],
+    "roster_formation_ids": [
+      "rank-27-lineup:pef2836a3e4a3"
+    ]
+  },
+  {
+    "entrant_id": "gtls4-final-rank-27:pef90d9c1ec76",
+    "competition_id": "gtls4",
+    "stage_id": "gtls4-final-rank-27",
+    "label": "yy",
+    "player_id": "pef90d9c1ec76",
+    "real_name": "yy",
+    "kind": "player",
+    "name_basis": "existing_confirmed_identity",
+    "source": {
+      "source_id": "rank-export-20261009",
+      "sheet": "encounters",
+      "cell": "/encounters/16/b_label",
+      "json_pointer": "/encounters/16/b_label"
+    },
+    "formation_ids": [
+      "rank-27-lineup:pef90d9c1ec76"
+    ],
+    "roster_formation_ids": [
+      "rank-27-lineup:pef90d9c1ec76"
+    ]
   }
 ]

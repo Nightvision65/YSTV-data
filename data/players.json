@@ -224,6 +224,7 @@
       "gtls2",
       "gtls3",
       "gtls3plus",
+      "gtls4",
       "hope",
       "igc",
       "ivsc2026",
@@ -912,6 +913,7 @@
       "rb"
     ],
     "competition_ids": [
+      "gtls4",
       "ivsc2026",
       "masters2026",
       "olympics2024"
@@ -1095,11 +1097,11 @@
       "星幸型形"
     ],
     "competition_ids": [
+      "gtls4",
       "ivsc2026",
       "masters2024",
       "multistage2024",
-      "olympics2024",
-      "gtls4"
+      "olympics2024"
     ],
     "country": "中国",
     "country_code": "CN",
@@ -3139,6 +3141,7 @@
       "potato"
     ],
     "competition_ids": [
+      "gtls4",
       "igc",
       "ivsc2026",
       "olympics2024"
@@ -3254,6 +3257,7 @@
       "愣生物"
     ],
     "competition_ids": [
+      "gtls4",
       "masters2024",
       "olympics2024"
     ],

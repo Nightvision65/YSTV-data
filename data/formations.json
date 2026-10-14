@@ -121693,5 +121693,385 @@
     "record_kind": "single_fortress",
     "slot": null,
     "work_key": null
+  },
+  {
+    "formation_id": "rank-27-lineup:p57dac6a8c07e",
+    "competition_id": "gtls4",
+    "stage_id": "gtls4-final-rank-27",
+    "entrant_id": "gtls4-final-rank-27:p57dac6a8c07e",
+    "player_id": "p57dac6a8c07e",
+    "name": "皇城巨刺球们",
+    "slot": "lineup",
+    "code": "皇城巨刺球&000e1Gt009bMt009bMy005pGFjuThsp00vuwp00vKlp00CYNr00FVhjpyQBkj1IYLgj0DTR2j2O5djj1J304j3Tdll/皇城巨刺球&000e1Gt009bMt009bMy005pGFjuThsp00vuwp00vKlp00CYNr00FVhjpyQBkj1IYLgj0DTR2j2O5djj1J304j3Tdll/皇城巨刺球&000e1Gt009bMt009bMy005pGFjuThsp00vuwp00vKlp00CYNr00FVhjpyQBkj1IYLgj0DTR2j2O5djj1J304j3Tdll/皇城巨刺球&000e1Gt009bMt009bMy005pGFjuThsp00vuwp00vKlp00CYNr00FVhjpyQBkj1IYLgj0DTR2j2O5djj1J304j3Tdll/皇城巨刺球&000e1Gt009bMt009bMy005pGFjuThsp00vuwp00vKlp00CYNr00FVhjpyQBkj1IYLgj0DTR2j2O5djj1J304j3Tdll",
+    "raw_code": "皇城巨刺球&000e1Gt009bMt009bMy005pGFjuThsp00vuwp00vKlp00CYNr00FVhjpyQBkj1IYLgj0DTR2j2O5djj1J304j3Tdll/皇城巨刺球&000e1Gt009bMt009bMy005pGFjuThsp00vuwp00vKlp00CYNr00FVhjpyQBkj1IYLgj0DTR2j2O5djj1J304j3Tdll/皇城巨刺球&000e1Gt009bMt009bMy005pGFjuThsp00vuwp00vKlp00CYNr00FVhjpyQBkj1IYLgj0DTR2j2O5djj1J304j3Tdll/皇城巨刺球&000e1Gt009bMt009bMy005pGFjuThsp00vuwp00vKlp00CYNr00FVhjpyQBkj1IYLgj0DTR2j2O5djj1J304j3Tdll/皇城巨刺球&000e1Gt009bMt009bMy005pGFjuThsp00vuwp00vKlp00CYNr00FVhjpyQBkj1IYLgj0DTR2j2O5djj1J304j3Tdll",
+    "tactic": null,
+    "record_kind": "lineup_container",
+    "work_key": "e193e367de306ba4d0e516f565a3709274e8ac88c12810cbf9c6e59d41f65585",
+    "source": {
+      "source_id": "rank-export-20261009",
+      "sheet": "formation_pool",
+      "cell": "/formation_pool/gtls4_final/极限"
+    }
+  },
+  {
+    "formation_id": "rank-27-lineup:p2e5a8d9483e4",
+    "competition_id": "gtls4",
+    "stage_id": "gtls4-final-rank-27",
+    "entrant_id": "gtls4-final-rank-27:p2e5a8d9483e4",
+    "player_id": "p2e5a8d9483e4",
+    "name": "往昔余辉",
+    "slot": "lineup",
+    "code": "Stucker（塔克）&000P6RU004iCU00nUlp01phdo01px4o01aQ6p01ohLa01axpU00FnUU00XEFU01dY6U00vdfa004iCa006YyalF3fYalF5VUantuGAantxnwa1O5Fna1O8mjapibTPapieALakW9f4akWbV0a0nzQTa0nCxPU018nKamKS9SamKUPOa017Qtt00yYRt00zw6U018VAG015WFa01AUgT01APa8d1zL9/反气球&001hhXp01AUgX015cPO012vmO013QkO015ciO016xgO017Sej0nlpVN0a3mSp00Xcqp01gssp01q8Na01ATIa01ydMp01A5SamLnxWamLkR1p00V4sae60YgajvKrhajvN8dajvPO9801ATIp015qPp01rt94pEtQ0/鸟铳&001ikmp01ARBa01AS5a01yrwa01ysxa01AR4p01ASCt01cpXadJbjEadJ8mkt01cWEt01gYMt01ePFt01cX0t01h01t01iB4t01lP8t015r8d01uGEdozqfyd1sBk7p01AQvp01rYpp01j7pp01afpajvT1OajvOIsajvJC4p01rdIp01cb5a4lwkja4lA5O/夜的传说&001hOKp01AUgp01AT0GlFNO4j01rLua01ATIa01ydMp01gJ2p01pB0ajvKILajvNpFajvQ6CamLnxSamLkQWintOVOp00QLat0105Op00YNSaerXFz7oVl257oVjG77oVil97oVh0b7oVfEd7odhzE7odgeG7odeSI7oddxK7odccMg01o1ng01lkrg01iDvg01fWzg01dgDe016h1/Steric（艾瑞克）&000dYpX008kwOjV1TMOjd19iOiu0nNOhKYCjwgo9p6wg291QwfF8DBwfj8gmweW7S7weA7uRwee77Cj1rn1M400pxvp00vY9a00tP0a00wvVU00BTjanPwpNanPtIRp00wgQ",
+    "raw_code": "Stucker（塔克）&000P6RU004iCU00nUlp01phdo01px4o01aQ6p01ohLa01axpU00FnUU00XEFU01dY6U00vdfa004iCa006YyalF3fYalF5VUantuGAantxnwa1O5Fna1O8mjapibTPapieALakW9f4akWbV0a0nzQTa0nCxPU018nKamKS9SamKUPOa017Qtt00yYRt00zw6U018VAG015WFa01AUgT01APa8d1zL9/反气球&001hhXp01AUgX015cPO012vmO013QkO015ciO016xgO017Sej0nlpVN0a3mSp00Xcqp01gssp01q8Na01ATIa01ydMp01A5SamLnxWamLkR1p00V4sae60YgajvKrhajvN8dajvPO9801ATIp015qPp01rt94pEtQ0/鸟铳&001ikmp01ARBa01AS5a01yrwa01ysxa01AR4p01ASCt01cpXadJbjEadJ8mkt01cWEt01gYMt01ePFt01cX0t01h01t01iB4t01lP8t015r8d01uGEdozqfyd1sBk7p01AQvp01rYpp01j7pp01afpajvT1OajvOIsajvJC4p01rdIp01cb5a4lwkja4lA5O/夜的传说&001hOKp01AUgp01AT0GlFNO4j01rLua01ATIa01ydMp01gJ2p01pB0ajvKILajvNpFajvQ6CamLnxSamLkQWintOVOp00QLat0105Op00YNSaerXFz7oVl257oVjG77oVil97oVh0b7oVfEd7odhzE7odgeG7odeSI7oddxK7odccMg01o1ng01lkrg01iDvg01fWzg01dgDe016h1/Steric（艾瑞克）&000dYpX008kwOjV1TMOjd19iOiu0nNOhKYCjwgo9p6wg291QwfF8DBwfj8gmweW7S7weA7uRwee77Cj1rn1M400pxvp00vY9a00tP0a00wvVU00BTjanPwpNanPtIRp00wgQ",
+    "tactic": null,
+    "record_kind": "lineup_container",
+    "work_key": "a1bc5d6c199d0279b34b38f955e8827f21f66ab2dd702ef71ab2e6af82cf6fc0",
+    "source": {
+      "source_id": "rank-export-20261009",
+      "sheet": "formation_pool",
+      "cell": "/formation_pool/gtls4_final/RB"
+    }
+  },
+  {
+    "formation_id": "rank-27-lineup:p6b3c238ebcf1",
+    "competition_id": "gtls4",
+    "stage_id": "gtls4-final-rank-27",
+    "entrant_id": "gtls4-final-rank-27:p6b3c238ebcf1",
+    "player_id": "p6b3c238ebcf1",
+    "name": "无垠宇宙中间忘了化为尘埃",
+    "slot": "lineup",
+    "code": "小鸟游六花&000odBp01qlcooVqjeo1inkwU005oFa0I96Wa0IbwuT00ogB8nPdFAU00wMkU01yVMa0JEgXajw5h7U01adAajvGCua0JbvR9eJX9dajv37Ea3fOc0U00JGda3g0tw7ef7V7a3fWMAgleOpOdjuAs4djv5xcU00UbT9g3h5Xr004EHajvpr7a0IYqXdjvpr7goVas1g00S2dr01AR0r01ATV/无森林鹿&000e2hykRiEdF00qEYt00b56t00b56t00b56t00b56t00aNHt00aNHt00aNHt00aNHt00axjp00B9oan2ukca00Bpfa00E6bakr6Wir018DLGjuMzxE00mCY/银双鱼座&001lyip01ypQonURpmo1x02xr004lTt01gslt01gslt01gslt01gslt01gslt01gslt01gslt01gslt01gslt01gslt01gslt01gslt01gsl/芙芙朵露&000g8yjoUcRfj0MLh8p00pxep00pxIt00fAHt00fAFt00fkit006bTanbDsXamx2rUy00jSrFkraVqImoclFN1NgGcp00yF6p01ATKE3BtBy/夏白给给&000i4NiogmFJN0qzpfX00gtoO00cXJO00eQuO00gJfO00iC0O00kuKj264t1S04CfXan7f2Wan7hIPa1w0NYp00RgYp00zgTp01AR0p00ReS",
+    "raw_code": "小鸟游六花&000odBp01qlcooVqjeo1inkwU005oFa0I96Wa0IbwuT00ogB8nPdFAU00wMkU01yVMa0JEgXajw5h7U01adAajvGCua0JbvR9eJX9dajv37Ea3fOc0U00JGda3g0tw7ef7V7a3fWMAgleOpOdjuAs4djv5xcU00UbT9g3h5Xr004EHajvpr7a0IYqXdjvpr7goVas1g00S2dr01AR0r01ATV/无森林鹿&000e2hykRiEdF00qEYt00b56t00b56t00b56t00b56t00aNHt00aNHt00aNHt00aNHt00axjp00B9oan2ukca00Bpfa00E6bakr6Wir018DLGjuMzxE00mCY/银双鱼座&001lyip01ypQonURpmo1x02xr004lTt01gslt01gslt01gslt01gslt01gslt01gslt01gslt01gslt01gslt01gslt01gslt01gslt01gsl/芙芙朵露&000g8yjoUcRfj0MLh8p00pxep00pxIt00fAHt00fAFt00fkit006bTanbDsXamx2rUy00jSrFkraVqImoclFN1NgGcp00yF6p01ATKE3BtBy/夏白给给&000i4NiogmFJN0qzpfX00gtoO00cXJO00eQuO00gJfO00iC0O00kuKj264t1S04CfXan7f2Wan7hIPa1w0NYp00RgYp00zgTp01AR0p00ReS",
+    "tactic": null,
+    "record_kind": "lineup_container",
+    "work_key": "15edb23b8b7c1d6630443fd847c698f3b615e81e8903aade5456f9c3b4a12f3d",
+    "source": {
+      "source_id": "rank-export-20261009",
+      "sheet": "formation_pool",
+      "cell": "/formation_pool/gtls4_final/404"
+    }
+  },
+  {
+    "formation_id": "rank-27-lineup:p101d1e8d9126",
+    "competition_id": "gtls4",
+    "stage_id": "gtls4-final-rank-27",
+    "entrant_id": "gtls4-final-rank-27:p101d1e8d9126",
+    "player_id": "p101d1e8d9126",
+    "name": "折叶之光",
+    "slot": "lineup",
+    "code": "牛车Ⅳ11-战术冲击者 Tactical impactor&000jFqjol0TBu00p17p00dJbGeNjFRp00yGzajv6mkq00HPjp00H2Hp00FqSa0my2la0mvlnt005GQt00iRgt00iRgt00iRgt00iRgt00iRgt00iRgr00jGian2MCfEpQpiyp00Qq9r01ARyp0115Aajv3Fo/時空Ⅵ-移动军火库 Mobile arsenal&001dwoinPShoN0etbTp00O4PaggkJnOpEeNl7nu1L87nu6Bd7oHWQc7oI2Gh9nufsJ9npHoy9npzB99oQW5m9oQGeBa6vglCgpRtE2p01ATYan8mB9an8pi5p01blJp01syfp01ku6p01ASIajvM4EajvNWrajvPPap01ATer01xphjmCkz3Gjvwtya2bKbX/时空Ⅷ1-裂变射线 Fission radiation&000j9pin6SySl9JXMJj0DWzc60dlClN0zpvu4ogJw1a4tFvma4tCOnamoe13amogH1p00t5Op00ESw7kieXT7kdPLe7kmG8Q7kvwvu7kr9DO9o7PDo9o7Hje9obXbMajuCDkt006vN/魅影Ⅸ1B-赫仑共振 Hertz resonance&000ikEimOfLmj10YhPt007jqt00gbpt00gbpNpHyFn9kVY3a9kVPrA9kVHnU9oUi1v9oU9pV9oU1mgamKenJamKh4Ea2aFjDp00CIS7kr3bN7kifv67kr6pv7kiklbp00qV61mFrNk1mFv237ppWem/魅影Ⅴ1-同温层壁垒 Stratospheric barrier&000lvHimnRK87p8xCG7oUhXO7p8sMC7oUd8N7krbcU7kikiu7kr6mQ7kifst9kVJdJ9kVST39kW3PBp00uE0a2aGBTamx7i0amx4B4j15nYCp005nA9oU2Ei9oU5S19oU9n89oPNEL9oPQSp9oPUnw9oPYptT01g8la6vOVJp01g8Vp00yoXa6vHFXa6vJyIa6vLrt",
+    "raw_code": "牛车Ⅳ11-战术冲击者 Tactical impactor&000jFqjol0TBu00p17p00dJbGeNjFRp00yGzajv6mkq00HPjp00H2Hp00FqSa0my2la0mvlnt005GQt00iRgt00iRgt00iRgt00iRgt00iRgt00iRgr00jGian2MCfEpQpiyp00Qq9r01ARyp0115Aajv3Fo/時空Ⅵ-移动军火库 Mobile arsenal&001dwoinPShoN0etbTp00O4PaggkJnOpEeNl7nu1L87nu6Bd7oHWQc7oI2Gh9nufsJ9npHoy9npzB99oQW5m9oQGeBa6vglCgpRtE2p01ATYan8mB9an8pi5p01blJp01syfp01ku6p01ASIajvM4EajvNWrajvPPap01ATer01xphjmCkz3Gjvwtya2bKbX/时空Ⅷ1-裂变射线 Fission radiation&000j9pin6SySl9JXMJj0DWzc60dlClN0zpvu4ogJw1a4tFvma4tCOnamoe13amogH1p00t5Op00ESw7kieXT7kdPLe7kmG8Q7kvwvu7kr9DO9o7PDo9o7Hje9obXbMajuCDkt006vN/魅影Ⅸ1B-赫仑共振 Hertz resonance&000ikEimOfLmj10YhPt007jqt00gbpt00gbpNpHyFn9kVY3a9kVPrA9kVHnU9oUi1v9oU9pV9oU1mgamKenJamKh4Ea2aFjDp00CIS7kr3bN7kifv67kr6pv7kiklbp00qV61mFrNk1mFv237ppWem/魅影Ⅴ1-同温层壁垒 Stratospheric barrier&000lvHimnRK87p8xCG7oUhXO7p8sMC7oUd8N7krbcU7kikiu7kr6mQ7kifst9kVJdJ9kVST39kW3PBp00uE0a2aGBTamx7i0amx4B4j15nYCp005nA9oU2Ei9oU5S19oU9n89oPNEL9oPQSp9oPUnw9oPYptT01g8la6vOVJp01g8Vp00yoXa6vHFXa6vJyIa6vLrt",
+    "tactic": null,
+    "record_kind": "lineup_container",
+    "work_key": "8aace73ff805aec57658156ead021ec19383e67a79182b9294efed7b4b5d9465",
+    "source": {
+      "source_id": "rank-export-20261009",
+      "sheet": "formation_pool",
+      "cell": "/formation_pool/gtls4_final/叶玉"
+    }
+  },
+  {
+    "formation_id": "rank-27-lineup:p2a776a35b114",
+    "competition_id": "gtls4",
+    "stage_id": "gtls4-final-rank-27",
+    "entrant_id": "gtls4-final-rank-27:p2a776a35b114",
+    "player_id": "p2a776a35b114",
+    "name": "GOODGAN",
+    "slot": "lineup",
+    "code": "良幸-GOODFORTUNE&000hfgin6RJfi3fjQd6pLWAht00f5Yt00f5Yp00Hhpp00u91a1rBQra1rzaqamKi8zantiSTSoYuophnP0dtj0Imifp00f58alnlsmalniLqp00AzvzcpVU9zcq0W4zcq4XW/良锤-GOODTEK&000OgSilFlOip00YsQp00Yubp00Ytya2bdQO9kJ1CG9kEJoW9kERcht00O0lt00O05t00JXgt00EAHj1rWemantSBBantPUF9pqo3s9puRSW9puXgQ9pv36V7k9XdF7ka0mO7k9U027k9Wpur00LRea00Motvd0Boo7pMtgM7pMpLF/良界-GOODWORLD&001jTnigYCmpinPXj1h3gqxWh3gqOhjoI6n4j0Se0da4lUJ9T01AOxaaQnPfa3gPiHa16G0ba2bItSa5r1GMa5qY0Qa5qWYer01yGzp01w1Or01tm4p01zuap01xmcp01uGrt01iPI8e6H5QakAWhtGjvILDakATAxr0171nad14BoO01b22E0w1w0p01jmh/良怒-GOODRAGE&000dYpj15l2bjoUd8Dt00dHWt00dHWt00dHWt00dHWt00dHWy00aK4F00hJiS0m76B7kifsj7kqWL97kmzTs7kr1wE7kieUw/良视(?)-opia&000j9wimOgjRa5pX0ta5Hxict00vM440mxL8Eoph4NO00aOq7kifvN7kmG8X7kdTwP7kmBPJ7kieY1amFUioan2Tkvp00JbHp00ECWzdME6X9puhoF9oUb329ogFd0NpLYedj10YyUleiyl8",
+    "raw_code": "良幸-GOODFORTUNE&000hfgin6RJfi3fjQd6pLWAht00f5Yt00f5Yp00Hhpp00u91a1rBQra1rzaqamKi8zantiSTSoYuophnP0dtj0Imifp00f58alnlsmalniLqp00AzvzcpVU9zcq0W4zcq4XW/良锤-GOODTEK&000OgSilFlOip00YsQp00Yubp00Ytya2bdQO9kJ1CG9kEJoW9kERcht00O0lt00O05t00JXgt00EAHj1rWemantSBBantPUF9pqo3s9puRSW9puXgQ9pv36V7k9XdF7ka0mO7k9U027k9Wpur00LRea00Motvd0Boo7pMtgM7pMpLF/良界-GOODWORLD&001jTnigYCmpinPXj1h3gqxWh3gqOhjoI6n4j0Se0da4lUJ9T01AOxaaQnPfa3gPiHa16G0ba2bItSa5r1GMa5qY0Qa5qWYer01yGzp01w1Or01tm4p01zuap01xmcp01uGrt01iPI8e6H5QakAWhtGjvILDakATAxr0171nad14BoO01b22E0w1w0p01jmh/良怒-GOODRAGE&000dYpj15l2bjoUd8Dt00dHWt00dHWt00dHWt00dHWt00dHWy00aK4F00hJiS0m76B7kifsj7kqWL97kmzTs7kr1wE7kieUw/良视(?)-opia&000j9wimOgjRa5pX0ta5Hxict00vM440mxL8Eoph4NO00aOq7kifvN7kmG8X7kdTwP7kmBPJ7kieY1amFUioan2Tkvp00JbHp00ECWzdME6X9puhoF9oUb329ogFd0NpLYedj10YyUleiyl8",
+    "tactic": null,
+    "record_kind": "lineup_container",
+    "work_key": "61790bda51d4ec66cd304c568bc958426de3860b38137bbeae76c0569699b08b",
+    "source": {
+      "source_id": "rank-export-20261009",
+      "sheet": "formation_pool",
+      "cell": "/formation_pool/gtls4_final/淦生物"
+    }
+  },
+  {
+    "formation_id": "rank-27-lineup:p73841de86c7a",
+    "competition_id": "gtls4",
+    "stage_id": "gtls4-final-rank-27",
+    "entrant_id": "gtls4-final-rank-27:p73841de86c7a",
+    "player_id": "p73841de86c7a",
+    "name": "五帝巡天",
+    "slot": "lineup",
+    "code": "皓月残阳&000nqap004kE9kVHmt9kVMJq9kVS7f9kVXup9kW3Rh9kW9eTp01fAso01g8fo0vnTkp00PGpap4BrQap4E8Mp01qlEa1obbxa1o8uBU004joa004iQa006YMdjuArmU00Gdka00FVoa00ICkgoUCW6U00Gw0a00FXFa00IEB9kAfAS9kAkXKT01AOya6w6Rna6w4brp01oubr01hNi/瘴疠诏书&000hd8joyemKp00yoWaopHBPp00vsRa1a3B8a1a0UcaopEUTp004iC8pQi1Hr004kM9kVHkY9kVXsA9kVMHQ9kVS5I9kW3PD9ph32x9ph8pp9phdMh9phja99phoxc7kqV9M7kibGN7kiipD7kA0Lh7oU1jk7oU2Ei7oU40g7oU5le7oU6Gc7oU82a7pD4KK7pD66I7pD7rG7pD8ME7pDa8C/无谕双冕&001g91jnQ7qwp01AOGp01A2paoVoYdaoVmifancEOf9p9vtN9p9q6S9p9kJ2t013vA9p9fmr9p99Yzp00Tng9p94BK90EAKDt01f4s90EG8s90ELvk90EQRT90EWfL90F2CDU00LPma00Liza00NYvEpqRCgr01ASA/空律缄默&001ewHp01zLLa01APNa01y9Rp01b3sj1aE9Oq01yWxa01AOKa01y8Op01iztajvEJMajvHqIajvRU1ajvPeap00VgI9pDWwu9pE0dq9pE2Tk9pE5Ae9pE8hk9pEaXg9pEdEc9pEgl89pEj249pElI09pEooL9pEr5I9pDTPy40nrxCa01pOpvatI8d/无相光槛&001rewt01h29t01h29t01h29t01h29t01h29t01h29t01h29t01h29t01h29t01h29t01h29t01h29t01h29t01h29t01h29",
+    "raw_code": "皓月残阳&000nqap004kE9kVHmt9kVMJq9kVS7f9kVXup9kW3Rh9kW9eTp01fAso01g8fo0vnTkp00PGpap4BrQap4E8Mp01qlEa1obbxa1o8uBU004joa004iQa006YMdjuArmU00Gdka00FVoa00ICkgoUCW6U00Gw0a00FXFa00IEB9kAfAS9kAkXKT01AOya6w6Rna6w4brp01oubr01hNi/瘴疠诏书&000hd8joyemKp00yoWaopHBPp00vsRa1a3B8a1a0UcaopEUTp004iC8pQi1Hr004kM9kVHkY9kVXsA9kVMHQ9kVS5I9kW3PD9ph32x9ph8pp9phdMh9phja99phoxc7kqV9M7kibGN7kiipD7kA0Lh7oU1jk7oU2Ei7oU40g7oU5le7oU6Gc7oU82a7pD4KK7pD66I7pD7rG7pD8ME7pDa8C/无谕双冕&001g91jnQ7qwp01AOGp01A2paoVoYdaoVmifancEOf9p9vtN9p9q6S9p9kJ2t013vA9p9fmr9p99Yzp00Tng9p94BK90EAKDt01f4s90EG8s90ELvk90EQRT90EWfL90F2CDU00LPma00Liza00NYvEpqRCgr01ASA/空律缄默&001ewHp01zLLa01APNa01y9Rp01b3sj1aE9Oq01yWxa01AOKa01y8Op01iztajvEJMajvHqIajvRU1ajvPeap00VgI9pDWwu9pE0dq9pE2Tk9pE5Ae9pE8hk9pEaXg9pEdEc9pEgl89pEj249pElI09pEooL9pEr5I9pDTPy40nrxCa01pOpvatI8d/无相光槛&001rewt01h29t01h29t01h29t01h29t01h29t01h29t01h29t01h29t01h29t01h29t01h29t01h29t01h29t01h29t01h29",
+    "tactic": null,
+    "record_kind": "lineup_container",
+    "work_key": "9282aca41b368d5f306db8f12fa983771eb10f2a3001166ff0cbedd1fe4b388e",
+    "source": {
+      "source_id": "rank-export-20261009",
+      "sheet": "formation_pool",
+      "cell": "/formation_pool/gtls4_final/天玉"
+    }
+  },
+  {
+    "formation_id": "rank-27-lineup:pe6f5b9cd0689",
+    "competition_id": "gtls4",
+    "stage_id": "gtls4-final-rank-27",
+    "entrant_id": "gtls4-final-rank-27:pe6f5b9cd0689",
+    "player_id": "pe6f5b9cd0689",
+    "name": "BanG Dream! It's MyGO!!!!!",
+    "slot": "lineup",
+    "code": "千早爱音 - Chihaya Anon&000i1ji3jIyYj1iBdPt008kSp00u6oam2fsxam2cLB41S0Aia3fJ6kp00rGx9kRiBr9kRpzL9kRx6M7oYql37oYtyG7p3TUr9p3OO79p3UbN9pq2ha9pq7E290dhxQ90zznL7kdMu97kieUw7kdPYg7k9tEmt00dYgafafKt/椎名立希 - Shiina Taki&001keWanQkFIanQnmIp01AT2p01ATYt01fWgt01fWgt01fWgt01fWgt01fWgt01fWgt01iDct01iDct01iDcakwt2oakwuU6akwwMQaci6Rfaci4bpyiMMpaF01ASur004khr019dG/高松灯 - Takamatsu Tomori&000e1djo3kWyjlSaBhjmXg3kjp8qoBp00HgPp00AyQyliUU9t00ougF00krip00ouMt00otJt00fSVt00fSVt00fSVr004l2/长崎素世 - Nagasaki Soyo&000dYpp00os8jokWTHj0dwjAF00n7aychblDt004jat00ocer00ocIt00b20t00b20t00b20Imo5mrN1A68NE1e7mU/要乐奈 - Kaname Rana&000uXIinP970hol4qqt00veVj1a3TWSo7Qc6a60m6aa4ptot4nPvFTp00Fs1amKvk3p00ToDamKsD79puMj69p8wCi9puFjNN0zBBa7ke3F67kiv6t7ke7ad7k9JPm1nbITb1ngbRop00GfCakdURmr01AlE",
+    "raw_code": "千早爱音 - Chihaya Anon&000i1ji3jIyYj1iBdPt008kSp00u6oam2fsxam2cLB41S0Aia3fJ6kp00rGx9kRiBr9kRpzL9kRx6M7oYql37oYtyG7p3TUr9p3OO79p3UbN9pq2ha9pq7E290dhxQ90zznL7kdMu97kieUw7kdPYg7k9tEmt00dYgafafKt/椎名立希 - Shiina Taki&001keWanQkFIanQnmIp01AT2p01ATYt01fWgt01fWgt01fWgt01fWgt01fWgt01fWgt01iDct01iDct01iDcakwt2oakwuU6akwwMQaci6Rfaci4bpyiMMpaF01ASur004khr019dG/高松灯 - Takamatsu Tomori&000e1djo3kWyjlSaBhjmXg3kjp8qoBp00HgPp00AyQyliUU9t00ougF00krip00ouMt00otJt00fSVt00fSVt00fSVr004l2/长崎素世 - Nagasaki Soyo&000dYpp00os8jokWTHj0dwjAF00n7aychblDt004jat00ocer00ocIt00b20t00b20t00b20Imo5mrN1A68NE1e7mU/要乐奈 - Kaname Rana&000uXIinP970hol4qqt00veVj1a3TWSo7Qc6a60m6aa4ptot4nPvFTp00Fs1amKvk3p00ToDamKsD79puMj69p8wCi9puFjNN0zBBa7ke3F67kiv6t7ke7ad7k9JPm1nbITb1ngbRop00GfCakdURmr01AlE",
+    "tactic": null,
+    "record_kind": "lineup_container",
+    "work_key": "3e96f8c1d8571655823613ad5beb976e61273d843991f3e4dce695f71e2aed8a",
+    "source": {
+      "source_id": "rank-export-20261009",
+      "sheet": "formation_pool",
+      "cell": "/formation_pool/gtls4_final/65"
+    }
+  },
+  {
+    "formation_id": "rank-27-lineup:pa64a92c86530",
+    "competition_id": "gtls4",
+    "stage_id": "gtls4-final-rank-27",
+    "entrant_id": "gtls4-final-rank-27:pa64a92c86530",
+    "player_id": "pa64a92c86530",
+    "name": "冲刺队",
+    "slot": "lineup",
+    "code": "65冲刺&100rsNt00agbt00agbt00agbq004BQq00Jclr00cFir00agbr009spr00jUQr00pzbr00vKir00CJGr00Fr4r00Gw6r00bSmr00eQar00EUaV00flRW00grkW00B8A/o2o冲刺&101aPwY01mEHq01m7mq00Y0vY00YhrdpW06UdpVC05dpIDxMdpzH06dpMUJSdpRrJV3pIhf8r00ORYr00LUcBpQXbzgk6bacr01ofCvpzWgPq01ekr/叶玉冲刺&100m7JY00bTHY00bU8Y00xpeY00xG4Y00jaXY00qqznpM726n04O583pcJ0S3oUupot00m7W/404冲刺&100m64U00aMRU00xmWs00hw7s00qo6p00nYFp00lzDgjDuRVgjIhcsw00iA9w09cYGp00h1lp009ebp004nF/极限冲刺&100syqr00yder00qWmr00qpUr00oNYr00uISr00ATOr00Ghyr00LnSr00MItr00FsJr0060Fr00eREr0106kr013Qor012Llr012KMr012Kir011Vzr00S4kr00Jc7r00AjYr00qU9r00hLLr00ag1r007zCr005XJr006fFr0074lr006x0r00dL6r00l1Or00Cupr00KhFr00T9yr008TDr004kFr00gqmr00oKjr00x5pr00F9jr00NtCr00WCar0145at00Ngft00Ngft00Ngft00Ngft00Ngfr00MYQ",
+    "raw_code": "65冲刺&100rsNt00agbt00agbt00agbq004BQq00Jclr00cFir00agbr009spr00jUQr00pzbr00vKir00CJGr00Fr4r00Gw6r00bSmr00eQar00EUaV00flRW00grkW00B8A/o2o冲刺&101aPwY01mEHq01m7mq00Y0vY00YhrdpW06UdpVC05dpIDxMdpzH06dpMUJSdpRrJV3pIhf8r00ORYr00LUcBpQXbzgk6bacr01ofCvpzWgPq01ekr/叶玉冲刺&100m7JY00bTHY00bU8Y00xpeY00xG4Y00jaXY00qqznpM726n04O583pcJ0S3oUupot00m7W/404冲刺&100m64U00aMRU00xmWs00hw7s00qo6p00nYFp00lzDgjDuRVgjIhcsw00iA9w09cYGp00h1lp009ebp004nF/极限冲刺&100syqr00yder00qWmr00qpUr00oNYr00uISr00ATOr00Ghyr00LnSr00MItr00FsJr0060Fr00eREr0106kr013Qor012Llr012KMr012Kir011Vzr00S4kr00Jc7r00AjYr00qU9r00hLLr00ag1r007zCr005XJr006fFr0074lr006x0r00dL6r00l1Or00Cupr00KhFr00T9yr008TDr004kFr00gqmr00oKjr00x5pr00F9jr00NtCr00WCar0145at00Ngft00Ngft00Ngft00Ngft00Ngfr00MYQ",
+    "tactic": null,
+    "record_kind": "lineup_container",
+    "work_key": "f0006e2d2fda8ba67e99666e192b0e07d86da1f293b0667c6d3f630db2257cf9",
+    "source": {
+      "source_id": "rank-export-20261009",
+      "sheet": "formation_pool",
+      "cell": "/formation_pool/gtls4_final/土豆"
+    }
+  },
+  {
+    "formation_id": "rank-27-lineup:p92b1cb3400b9",
+    "competition_id": "gtls4",
+    "stage_id": "gtls4-final-rank-27",
+    "entrant_id": "gtls4-final-rank-27:p92b1cb3400b9",
+    "player_id": "p92b1cb3400b9",
+    "name": "启示",
+    "slot": "lineup",
+    "code": "蓝漪水灵&000hNsin2t1fhmB7Uhj0RaNxajuIh77pulHYN0uYWPSopgxla2aGoVa5LUWXp00uXKp00H2Gp00vLkamKjeoamKgxs9pulHY9pM3fA9pM8Cq9pMdsu7kiaFA7kdO9T7k9r1M4noR2Yp00eiir007lazcULDbr01ABM/幻月&001kHyj1K6bUa3gLwba3gOdep01vbDp018CrT018Bea6mR3Ba6vCQya9KR1Sp017xfa6vHpza6vEID9pzEKh9pzJQK9pzPez9pEj0U9pEn2O9pEr4I90J7u190NHvV90ShcV9kJuUc9kFgnE9kB1zL7pzR7k7pzUl37k1FXXr015aoaohQHIaohO1M7k1EmB7k1B8S/天奈&000dYpjpM54WjoGYCUjnfUWMFnPjvUt004j1t00au4t008kwt00g8ky2aoAst00nEWt00ocet00pgj/松坂砂糖&000htKi2rQCFlb3cA7lcujtXleA55Nj0Imglxk4XsBx5LzVW9pughX9pLYH79pM4gP9pM8Pw9pQC9A7kmEcN7kihRT7kdUy27k9qH5p00suwang83uang5myp00rqC41ryQI1opmUA1opjGV/罪颢&001bPHajAeXwU01nUQa1Xlzoa1Xogzr01noEafTcuzjmbT27U00V0Ga5qnK6a5ql4ap01APIa4z75KT01AOxa7B9m8a7Bc34p01AP8a4z9LGp01x5Pa05WS3a060yY8e6EFjr01bSM9pmMea9pmIcb9pieBR9pi6Os9pi2fw9pdzOe9pdx8op01bQA9pi9vo9picck7p0xkN7p4YuM7p0u757p4Vh4",
+    "raw_code": "蓝漪水灵&000hNsin2t1fhmB7Uhj0RaNxajuIh77pulHYN0uYWPSopgxla2aGoVa5LUWXp00uXKp00H2Gp00vLkamKjeoamKgxs9pulHY9pM3fA9pM8Cq9pMdsu7kiaFA7kdO9T7k9r1M4noR2Yp00eiir007lazcULDbr01ABM/幻月&001kHyj1K6bUa3gLwba3gOdep01vbDp018CrT018Bea6mR3Ba6vCQya9KR1Sp017xfa6vHpza6vEID9pzEKh9pzJQK9pzPez9pEj0U9pEn2O9pEr4I90J7u190NHvV90ShcV9kJuUc9kFgnE9kB1zL7pzR7k7pzUl37k1FXXr015aoaohQHIaohO1M7k1EmB7k1B8S/天奈&000dYpjpM54WjoGYCUjnfUWMFnPjvUt004j1t00au4t008kwt00g8ky2aoAst00nEWt00ocet00pgj/松坂砂糖&000htKi2rQCFlb3cA7lcujtXleA55Nj0Imglxk4XsBx5LzVW9pughX9pLYH79pM4gP9pM8Pw9pQC9A7kmEcN7kihRT7kdUy27k9qH5p00suwang83uang5myp00rqC41ryQI1opmUA1opjGV/罪颢&001bPHajAeXwU01nUQa1Xlzoa1Xogzr01noEafTcuzjmbT27U00V0Ga5qnK6a5ql4ap01APIa4z75KT01AOxa7B9m8a7Bc34p01AP8a4z9LGp01x5Pa05WS3a060yY8e6EFjr01bSM9pmMea9pmIcb9pieBR9pi6Os9pi2fw9pdzOe9pdx8op01bQA9pi9vo9picck7p0xkN7p4YuM7p0u757p4Vh4",
+    "tactic": null,
+    "record_kind": "lineup_container",
+    "work_key": "8873510d13c8d07932f8969c50d937f12a583c778cff1dc69a8b73f2bc930d0d",
+    "source": {
+      "source_id": "rank-export-20261009",
+      "sheet": "formation_pool",
+      "cell": "/formation_pool/gtls4_final/MKTL"
+    }
+  },
+  {
+    "formation_id": "rank-27-lineup:p0b9e7ab8fed6",
+    "competition_id": "gtls4",
+    "stage_id": "gtls4-final-rank-27",
+    "entrant_id": "gtls4-final-rank-27:p0b9e7ab8fed6",
+    "player_id": "p0b9e7ab8fed6",
+    "name": "轻音部",
+    "slot": "lineup",
+    "code": "中野梓&000ONNimonEvj1j8tm7kiKTG7kemXp7ka0Du9pdaxR9pddLA9pdgIU9phIGU9phLUz9phPpG9phSDu9pdwQA7p4uEo7p4x4T7p4xS47p4AiAa4luVnT01991a2bhTLa4lwMWa4lu71p018BOp0185Ca4lxB5a4luU9r015Ghp017yq4phWWFp00Ekrp00Q8EalFyaeakAvFwacqm9Kad0DNX/平泽唯&000gYcimB2wsj19MLea1rzr9p00vdKamofBqan7gmPp00Dgit00fD9t00fD9t006uL9oYrrc9o7y9U9004l59oYHyH9o7Ohn904JcY1mXg3X1mXcPiakzHwt7kiao97kicNG7kdPtK7kdQykN005G3/中野梓&000ONNimonEvj1j8tm7kiKTG7kemXp7ka0Du9pdaxR9pddLA9pdgIU9phIGU9phLUz9phPpG9phSDu9pdwQA7p4uEo7p4x4T7p4xS47p4AiAa4luVnT01991a2bhTLa4lwMWa4lu71p018BOp0185Ca4lxB5a4luU9r015Ghp017yq4phWWFp00Ekrp00Q8EalFyaeakAvFwacqm9Kad0DNX/山中佐和子&000FcFaljkWrakAkbXaocHD4anPIAPp01cICanQ3rDp01fUnp00LSQr00hOMt00reMt00tUIt00tUIt00tUIt00tUIt00tUIt00tUIt00tUIt00tUIt00tUIt00tUIt00tUIt00tUI/山中佐和子&000FcFaljkWrakAkbXaocHD4anPIAPp01cICanQ3rDp01fUnp00LSQr00hOMt00reMt00tUIt00tUIt00tUIt00tUIt00tUIt00tUIt00tUIt00tUIt00tUIt00tUIt00tUIt00tUI",
+    "raw_code": "中野梓&000ONNimonEvj1j8tm7kiKTG7kemXp7ka0Du9pdaxR9pddLA9pdgIU9phIGU9phLUz9phPpG9phSDu9pdwQA7p4uEo7p4x4T7p4xS47p4AiAa4luVnT01991a2bhTLa4lwMWa4lu71p018BOp0185Ca4lxB5a4luU9r015Ghp017yq4phWWFp00Ekrp00Q8EalFyaeakAvFwacqm9Kad0DNX/平泽唯&000gYcimB2wsj19MLea1rzr9p00vdKamofBqan7gmPp00Dgit00fD9t00fD9t006uL9oYrrc9o7y9U9004l59oYHyH9o7Ohn904JcY1mXg3X1mXcPiakzHwt7kiao97kicNG7kdPtK7kdQykN005G3/中野梓&000ONNimonEvj1j8tm7kiKTG7kemXp7ka0Du9pdaxR9pddLA9pdgIU9phIGU9phLUz9phPpG9phSDu9pdwQA7p4uEo7p4x4T7p4xS47p4AiAa4luVnT01991a2bhTLa4lwMWa4lu71p018BOp0185Ca4lxB5a4luU9r015Ghp017yq4phWWFp00Ekrp00Q8EalFyaeakAvFwacqm9Kad0DNX/山中佐和子&000FcFaljkWrakAkbXaocHD4anPIAPp01cICanQ3rDp01fUnp00LSQr00hOMt00reMt00tUIt00tUIt00tUIt00tUIt00tUIt00tUIt00tUIt00tUIt00tUIt00tUIt00tUIt00tUI/山中佐和子&000FcFaljkWrakAkbXaocHD4anPIAPp01cICanQ3rDp01fUnp00LSQr00hOMt00reMt00tUIt00tUIt00tUIt00tUIt00tUIt00tUIt00tUIt00tUIt00tUIt00tUIt00tUIt00tUI",
+    "tactic": null,
+    "record_kind": "lineup_container",
+    "work_key": "8f0c9c536b045258ef22be499b87dacdf5876e819f96cb4bb339e14a22a9b8bb",
+    "source": {
+      "source_id": "rank-export-20261009",
+      "sheet": "formation_pool",
+      "cell": "/formation_pool/gtls4_final/猪神"
+    }
+  },
+  {
+    "formation_id": "rank-27-lineup:pecc76c19c9f3",
+    "competition_id": "gtls4",
+    "stage_id": "gtls4-final-rank-27",
+    "entrant_id": "gtls4-final-rank-27:pecc76c19c9f3",
+    "player_id": "pecc76c19c9f3",
+    "name": "I am War",
+    "slot": "lineup",
+    "code": "the Ironclad&000NKHU00AAW9jduK97jqHYt7jqTMSU00Mpm9j9hO7600MGxp01nVia5qh2wa4l9aWU00vcronQjMIp01q4NamLh2wo0JkJXanPpHTanPn1Xp00ORBt00R0mp00PlXamKC0Q8fwMnXa3fSNga3fQ7ka3gzrva3gwKzT01hv0a3gyDkO00UtVU01fTea5qkiYp01nVMr00Xaqr00R0Vr00osI/the Silent&000iAAio39GOp00h08jnt8YcajuRpfajuOIip00sgEa00uWSa00sgVp00Dxkp00ITiT00syc8nGtcTN0R2Jz7kzRuy7kvumt7kr7eo7kmB2v7kr2oj7kvstI7nTtxc7nTwKU7oLn5R7oLqjA7094oT7097CC9pLYdv9pM9XvGgforjN0MMFzd5pAFs/the Defect&000pQqU00EDAaoUERe8jVFJ5aoUCbig00B8Gdjv8hc9jIlvw7mxayMr00FrwjmKlEn6pHxAir00cqaT013MQa5qrMla3gk80a3gfhla3gnl8U012IR9jvyk3djvyk3ajv4eAajuVaWGjuN6Qa3fNIJp00tU39pq4K89pqmdK7putKWp01APLzdMTa98cRzNY/the Watcher&001ds0U01hJQa4HIchjmxUKd9p9ktF7p9ktF7p9nHop01dJi9pdQK89p9nHo9p4JI59p9c9i9pdEnL9pil429pioOCa8GexWT01AOxa93fdca6w5ODa3gQlvp01Ailp01zL9a0eO3Ra16Djf8e2hNCp01w1Pp01zeW4nD62uaaQdk5afTrMT9ffQA2r01cH4OpN3dyaaPY8C/the Hermit&000i4I604yu4lbCpsfl91Ob6zdqB22aiUH1AjnKKpVp00lxQGhgeyd9nTmP79oUav0t00bDf7kieIA7kiczrNpLXG5EoLfzAa5UMpdp00uH9p00JsramFVDua00w2ar012b6",
+    "raw_code": "the Ironclad&000NKHU00AAW9jduK97jqHYt7jqTMSU00Mpm9j9hO7600MGxp01nVia5qh2wa4l9aWU00vcronQjMIp01q4NamLh2wo0JkJXanPpHTanPn1Xp00ORBt00R0mp00PlXamKC0Q8fwMnXa3fSNga3fQ7ka3gzrva3gwKzT01hv0a3gyDkO00UtVU01fTea5qkiYp01nVMr00Xaqr00R0Vr00osI/the Silent&000iAAio39GOp00h08jnt8YcajuRpfajuOIip00sgEa00uWSa00sgVp00Dxkp00ITiT00syc8nGtcTN0R2Jz7kzRuy7kvumt7kr7eo7kmB2v7kr2oj7kvstI7nTtxc7nTwKU7oLn5R7oLqjA7094oT7097CC9pLYdv9pM9XvGgforjN0MMFzd5pAFs/the Defect&000pQqU00EDAaoUERe8jVFJ5aoUCbig00B8Gdjv8hc9jIlvw7mxayMr00FrwjmKlEn6pHxAir00cqaT013MQa5qrMla3gk80a3gfhla3gnl8U012IR9jvyk3djvyk3ajv4eAajuVaWGjuN6Qa3fNIJp00tU39pq4K89pqmdK7putKWp01APLzdMTa98cRzNY/the Watcher&001ds0U01hJQa4HIchjmxUKd9p9ktF7p9ktF7p9nHop01dJi9pdQK89p9nHo9p4JI59p9c9i9pdEnL9pil429pioOCa8GexWT01AOxa93fdca6w5ODa3gQlvp01Ailp01zL9a0eO3Ra16Djf8e2hNCp01w1Pp01zeW4nD62uaaQdk5afTrMT9ffQA2r01cH4OpN3dyaaPY8C/the Hermit&000i4I604yu4lbCpsfl91Ob6zdqB22aiUH1AjnKKpVp00lxQGhgeyd9nTmP79oUav0t00bDf7kieIA7kiczrNpLXG5EoLfzAa5UMpdp00uH9p00JsramFVDua00w2ar012b6",
+    "tactic": null,
+    "record_kind": "lineup_container",
+    "work_key": "fde16882809c6e2b5e9776c56fe2f09abd17f5c705a92248831014eece028fd2",
+    "source": {
+      "source_id": "rank-export-20261009",
+      "sheet": "formation_pool",
+      "cell": "/formation_pool/gtls4_final/XX"
+    }
+  },
+  {
+    "formation_id": "rank-27-lineup:p5f3fe80d1de9",
+    "competition_id": "gtls4",
+    "stage_id": "gtls4-final-rank-27",
+    "entrant_id": "gtls4-final-rank-27:p5f3fe80d1de9",
+    "player_id": "p5f3fe80d1de9",
+    "name": "旧时代的集合",
+    "slot": "lineup",
+    "code": "机娘属于机动车&001dfIikWJjLp01t7Jt01dgB9oUXaU9oV6eR9p0D379p5aQc9ngNfP9nlqXza2bB2Ua3gJaTp01wRtaodoNQaodmojajvM4najA97Rp01AShp01nrjp01duvahcx7EafxfFkp00IH5jlbdEV7oMi1n7kj8OV7oMkaw7knzIw7oMn7Q7ks2qi7nUsed7nQ982p00ULGg0rDII4o4xTqr01ARu/疯心万丈剑9SU&000jFlt00gstajuRppajuOItp00xEcanCeoxanCbHBt00hg2t00hg2t00hg2t00hg2t00hg2t00hg2t00hg2t00hg2p012syp01iyrp00jDGp00jC3p00VA2p00DQFp01AzCr01ADgr00CbPyp8jY0F00Yei/杀戮尖塔之私募觉醒者&001dbx9foJU0a1FO0mp01pPOapRGJeT01wMDabmbCfacNh9Ra8bmata6w6kDa6w4bup01wwPp01sLU8pEtdUr01sw9r01bTsp01dco9oV6aE9pE9C59oVees9pEhFS9oUWiA9pIqiB9pNdWS9oVkWajloqP57oV6r37oQIzm7oV8Ac7oQKYT7oVcC6U01j5zajvKo0a3gzWsa1Bd8lp01atYaeeWszaeJJYNr01lie/玩的原神学的焊接&000FXsLmb6WYU00veJ9gBJx79i8gbp9i89bA9gKr2bg00rcjgmx0CpgmwSCAdjuQBoT01eNLaod9JgU01cWNa4HwVip00QGUU00mSXLnCdQPj00P6Yajvh7Hajv93TamKhBVa3fHMAGeNFYTa6vNBza4UKa4a0dxHdaoptWqr00FWPdjvJmaa4HzDq809Yyor01cWbp01e1b8pMgWjr00E6Pp01AR0/小孩玩茄豆&000i3QinBHWNj0ImiExkibJd9pHyo49pQzeEt00grmt00cGPa6qn1Ap00yYnp00PlWanKXPualakkxa1ENK87kdMwA7kdOpi7kdQi17kihUd7kmIxq9o7HP27kmKqd1nt3jT1noGwH7opfY6r01ATT6pLXFbg2jczXp01ewi42aBgK",
+    "raw_code": "机娘属于机动车&001dfIikWJjLp01t7Jt01dgB9oUXaU9oV6eR9p0D379p5aQc9ngNfP9nlqXza2bB2Ua3gJaTp01wRtaodoNQaodmojajvM4najA97Rp01AShp01nrjp01duvahcx7EafxfFkp00IH5jlbdEV7oMi1n7kj8OV7oMkaw7knzIw7oMn7Q7ks2qi7nUsed7nQ982p00ULGg0rDII4o4xTqr01ARu/疯心万丈剑9SU&000jFlt00gstajuRppajuOItp00xEcanCeoxanCbHBt00hg2t00hg2t00hg2t00hg2t00hg2t00hg2t00hg2t00hg2p012syp01iyrp00jDGp00jC3p00VA2p00DQFp01AzCr01ADgr00CbPyp8jY0F00Yei/杀戮尖塔之私募觉醒者&001dbx9foJU0a1FO0mp01pPOapRGJeT01wMDabmbCfacNh9Ra8bmata6w6kDa6w4bup01wwPp01sLU8pEtdUr01sw9r01bTsp01dco9oV6aE9pE9C59oVees9pEhFS9oUWiA9pIqiB9pNdWS9oVkWajloqP57oV6r37oQIzm7oV8Ac7oQKYT7oVcC6U01j5zajvKo0a3gzWsa1Bd8lp01atYaeeWszaeJJYNr01lie/玩的原神学的焊接&000FXsLmb6WYU00veJ9gBJx79i8gbp9i89bA9gKr2bg00rcjgmx0CpgmwSCAdjuQBoT01eNLaod9JgU01cWNa4HwVip00QGUU00mSXLnCdQPj00P6Yajvh7Hajv93TamKhBVa3fHMAGeNFYTa6vNBza4UKa4a0dxHdaoptWqr00FWPdjvJmaa4HzDq809Yyor01cWbp01e1b8pMgWjr00E6Pp01AR0/小孩玩茄豆&000i3QinBHWNj0ImiExkibJd9pHyo49pQzeEt00grmt00cGPa6qn1Ap00yYnp00PlWanKXPualakkxa1ENK87kdMwA7kdOpi7kdQi17kihUd7kmIxq9o7HP27kmKqd1nt3jT1noGwH7opfY6r01ATT6pLXFbg2jczXp01ewi42aBgK",
+    "tactic": null,
+    "record_kind": "lineup_container",
+    "work_key": "00fed76604504add17fc9d1ec1c4b8d8a658487a052c3048177c858f851669b0",
+    "source": {
+      "source_id": "rank-export-20261009",
+      "sheet": "formation_pool",
+      "cell": "/formation_pool/gtls4_final/无殇"
+    }
+  },
+  {
+    "formation_id": "rank-27-lineup:pef2836a3e4a3",
+    "competition_id": "gtls4",
+    "stage_id": "gtls4-final-rank-27",
+    "entrant_id": "gtls4-final-rank-27:pef2836a3e4a3",
+    "player_id": "pef2836a3e4a3",
+    "name": "碧蓝战队",
+    "slot": "lineup",
+    "code": "布雷斯特&000hugi328JAamKfWRamKdgWp00rXC42aDUIa3fHuHa3fKbG9l1dNO9kVYOa9p8lh390dsif9p8w1P7k9sAl7k9oyt7kieV57kiiWYE2SkNNj1Nrrut00g9dr00BXjt00fROt00gpBt00g9d1oc5Vl1oc9Xa1kVS6h1kVW8b/岛风&000P5Dp017x4p016Jtp015Fup00NdVp01wMDakAwdzakAtwDa164oNa1675Lr00SPot00MoQt00MoQt00MoQt00MoQt00MoQt00MoQt00MoQt00MoQt00MoQt00MoQt00MoQt00wgTt00MoR/久田泉奈&000g8Ii3fjOxh3x5Fja1rxMua1rAtuE1NdJPj2SwBzT00u8p8nGtra8nGvjTamKcKpamKfrkr00zxvaoymqyanPgicp00q5i42aCzblaOWJT90070v900dHo900kqh1kVXsD1kVULE1kVS5I7kdLWo7kdNP77kdPYg7kdRR1zd4EStzclqHhL70GKM/玛莉萝丝&001az8inCspzT012u4LlBndzajvy5f8nCFxtakANdrakAPTqakAOzMt01dgzjnQeeGgpE0hHp01bSwp01liup01yKBa16CRba16AbfamLmdFamLjwJp01A5Sp01uHqgoVahlgoV3yvgpEkrcp00O4xaiqaFeagg8mwt01ekSt01ekSt01ekTGjvtIB/樫野&000iilin2uzDi2SkfChnKArzjnTzFdj04Himt00iict00iiba15A6Fa15xpIankvbGanksuOp00hsWajuQilajuNBpGd0f4sSnP51cx5LDXjx5LNn5p00xBar01ARmp00w0nq00yF5E4kxkR",
+    "raw_code": "布雷斯特&000hugi328JAamKfWRamKdgWp00rXC42aDUIa3fHuHa3fKbG9l1dNO9kVYOa9p8lh390dsif9p8w1P7k9sAl7k9oyt7kieV57kiiWYE2SkNNj1Nrrut00g9dr00BXjt00fROt00gpBt00g9d1oc5Vl1oc9Xa1kVS6h1kVW8b/岛风&000P5Dp017x4p016Jtp015Fup00NdVp01wMDakAwdzakAtwDa164oNa1675Lr00SPot00MoQt00MoQt00MoQt00MoQt00MoQt00MoQt00MoQt00MoQt00MoQt00MoQt00MoQt00wgTt00MoR/久田泉奈&000g8Ii3fjOxh3x5Fja1rxMua1rAtuE1NdJPj2SwBzT00u8p8nGtra8nGvjTamKcKpamKfrkr00zxvaoymqyanPgicp00q5i42aCzblaOWJT90070v900dHo900kqh1kVXsD1kVULE1kVS5I7kdLWo7kdNP77kdPYg7kdRR1zd4EStzclqHhL70GKM/玛莉萝丝&001az8inCspzT012u4LlBndzajvy5f8nCFxtakANdrakAPTqakAOzMt01dgzjnQeeGgpE0hHp01bSwp01liup01yKBa16CRba16AbfamLmdFamLjwJp01A5Sp01uHqgoVahlgoV3yvgpEkrcp00O4xaiqaFeagg8mwt01ekSt01ekSt01ekTGjvtIB/樫野&000iilin2uzDi2SkfChnKArzjnTzFdj04Himt00iict00iiba15A6Fa15xpIankvbGanksuOp00hsWajuQilajuNBpGd0f4sSnP51cx5LDXjx5LNn5p00xBar01ARmp00w0nq00yF5E4kxkR",
+    "tactic": null,
+    "record_kind": "lineup_container",
+    "work_key": "fcfb4783ae309c4b2bbf0a23656ad9ca17f3609ca05239afb7fdddf75625589e",
+    "source": {
+      "source_id": "rank-export-20261009",
+      "sheet": "formation_pool",
+      "cell": "/formation_pool/gtls4_final/brony牧玉"
+    }
+  },
+  {
+    "formation_id": "rank-27-lineup:p5a9cc884751c",
+    "competition_id": "gtls4",
+    "stage_id": "gtls4-final-rank-27",
+    "entrant_id": "gtls4-final-rank-27:p5a9cc884751c",
+    "player_id": "p5a9cc884751c",
+    "name": null,
+    "slot": "lineup",
+    "code": "于禁&000jpXj00iSEX00iTcajuNVjajuQCfa3fJqpa3fM7oS00iSE4nPkoyO00gt7O00i5tO00jGPO00ljcw00foxw00hO5w00kv1w00mUyaa6QGjp00BXXp00HkQp00MGJp01ARm/张郃&000LDNyhH4wRajvha9ajvjQ5anPMCoanPPjmr01iDrt00Hm5t00Hm5t00Hm5t00Hm5t00Hm5t00Hm5t00Hm5t00Hm5t00BXSr004iCp01ljeanQetIp00MGOai3H4FanQbMMF01iCT/乐进&001dwsajvJp9ajvGIdLnCYVbjnQeeDGd12eUaiqg36aiqdmar01deVr01dfvp01lPct01dgAt01dgft01dgft01dgft01dgft01dgft01dgfT01demp01ASSr01ATranQpfranQrVnp01AU2p014D19oz0du9ozj257oMegrr004iC8nu1YHgpi6CG/张辽&000i3ViobWUqp00HhYp00xTLa15wn6anPn3canPkmd90072j900f5O900ouz9oUjT09oU3LC6pHyUO700gan700dJSj15o1Wt00i3It00hMkt009IMa15z447kdHGO7kich77kdPdx7kihDT1kVQMf1kVTcJr01AStr01AUg/墓碑&001bPzr012dI9pi5cV7p9gI3p01af49pie4Up01j73ajvGCuajvJjq4nufVb7p9ly87p9mmj7p9rco9phVkY9phYi99pi2fo9pi8ag9pib7A9pdR1p9pijYq9pimVMa8GexWT01AOxa8GdtYa6w5OD8pRLP78lkgAaa3gQlvp01Ailp01zL9a0eO3Ra16Djf8e2hNCp01w1Pp01zeWjmxUKcr01eQd",
+    "raw_code": "于禁&000jpXj00iSEX00iTcajuNVjajuQCfa3fJqpa3fM7oS00iSE4nPkoyO00gt7O00i5tO00jGPO00ljcw00foxw00hO5w00kv1w00mUyaa6QGjp00BXXp00HkQp00MGJp01ARm/张郃&000LDNyhH4wRajvha9ajvjQ5anPMCoanPPjmr01iDrt00Hm5t00Hm5t00Hm5t00Hm5t00Hm5t00Hm5t00Hm5t00Hm5t00BXSr004iCp01ljeanQetIp00MGOai3H4FanQbMMF01iCT/乐进&001dwsajvJp9ajvGIdLnCYVbjnQeeDGd12eUaiqg36aiqdmar01deVr01dfvp01lPct01dgAt01dgft01dgft01dgft01dgft01dgft01dgfT01demp01ASSr01ATranQpfranQrVnp01AU2p014D19oz0du9ozj257oMegrr004iC8nu1YHgpi6CG/张辽&000i3ViobWUqp00HhYp00xTLa15wn6anPn3canPkmd90072j900f5O900ouz9oUjT09oU3LC6pHyUO700gan700dJSj15o1Wt00i3It00hMkt009IMa15z447kdHGO7kich77kdPdx7kihDT1kVQMf1kVTcJr01AStr01AUg/墓碑&001bPzr012dI9pi5cV7p9gI3p01af49pie4Up01j73ajvGCuajvJjq4nufVb7p9ly87p9mmj7p9rco9phVkY9phYi99pi2fo9pi8ag9pib7A9pdR1p9pijYq9pimVMa8GexWT01AOxa8GdtYa6w5OD8pRLP78lkgAaa3gQlvp01Ailp01zL9a0eO3Ra16Djf8e2hNCp01w1Pp01zeWjmxUKcr01eQd",
+    "tactic": null,
+    "record_kind": "lineup_container",
+    "work_key": "8e5eb7bcdfa358654ee66531298431485c60c820fd0443b45bbfd94a7bb8b655",
+    "source": {
+      "source_id": "rank-export-20261009",
+      "sheet": "formation_pool",
+      "cell": "/formation_pool/gtls4_final/幕府"
+    }
+  },
+  {
+    "formation_id": "rank-27-lineup:p98a621cdb383",
+    "competition_id": "gtls4",
+    "stage_id": "gtls4-final-rank-27",
+    "entrant_id": "gtls4-final-rank-27:p98a621cdb383",
+    "player_id": "p98a621cdb383",
+    "name": "我们绝不投降",
+    "slot": "lineup",
+    "code": "剑鱼 MK Ι&000dYJjoydPbj15og89nPdkR9nPa7m9oyal09oydyMnpUH229obWS29obYtHx5LBNSx5le27x5ytWnx5YX72a04LRHalj4ePp00Aiu41ru27p00A1cp00aLRanGoPYr01zK17kdFLj7ki7oG7kmy1T7kqYE47ph33F7ph4Vj7ph6Oj7ph8H4/亨伯 MK ΙΙ&000keYldm7delercnRlbbVQWlch22Ajmo3y2joyer6OpHDh54oUsh0SnXMVEanPfwsa00wBha00vgir00Jv3p00mlX7kigBf7kdPfu7kr6Ht7kvx4hr012cur00PCB/柴郡团&000f3YF006swyjuCB2joyb92jn74LXj00g7VxkdSFcxkdPrtxkdMdKxkzKIfxkzRaGxkzNVXxkVW7CxjQQVYN19yevp00vs5r00vrA/威灵顿&000gIdp00wioj0Vzxkp00dtrajuKWnajuNDjt009sCamb2Ua60qyQaamb0eeU00vuOa26e8Ma1Jf76p00tCE8lwmROOpQjoIU00Maj8krCEXa15UOwT017iza5QWhUa15S8Aa5QYXQp00CIFU005q19kn8hgr01cY9p01ds5GhkqEUN15ajI/英联邦&001rewt01uIEt01uIEt01uIEt01uIEt01uIEt01uIEt01uIEt01uIEt01uIEt01uIEt01uIEt01uIEt01uIEt01uIEt01uIE",
+    "raw_code": "剑鱼 MK Ι&000dYJjoydPbj15og89nPdkR9nPa7m9oyal09oydyMnpUH229obWS29obYtHx5LBNSx5le27x5ytWnx5YX72a04LRHalj4ePp00Aiu41ru27p00A1cp00aLRanGoPYr01zK17kdFLj7ki7oG7kmy1T7kqYE47ph33F7ph4Vj7ph6Oj7ph8H4/亨伯 MK ΙΙ&000keYldm7delercnRlbbVQWlch22Ajmo3y2joyer6OpHDh54oUsh0SnXMVEanPfwsa00wBha00vgir00Jv3p00mlX7kigBf7kdPfu7kr6Ht7kvx4hr012cur00PCB/柴郡团&000f3YF006swyjuCB2joyb92jn74LXj00g7VxkdSFcxkdPrtxkdMdKxkzKIfxkzRaGxkzNVXxkVW7CxjQQVYN19yevp00vs5r00vrA/威灵顿&000gIdp00wioj0Vzxkp00dtrajuKWnajuNDjt009sCamb2Ua60qyQaamb0eeU00vuOa26e8Ma1Jf76p00tCE8lwmROOpQjoIU00Maj8krCEXa15UOwT017iza5QWhUa15S8Aa5QYXQp00CIFU005q19kn8hgr01cY9p01ds5GhkqEUN15ajI/英联邦&001rewt01uIEt01uIEt01uIEt01uIEt01uIEt01uIEt01uIEt01uIEt01uIEt01uIEt01uIEt01uIEt01uIEt01uIEt01uIE",
+    "tactic": null,
+    "record_kind": "lineup_container",
+    "work_key": "de5feff32c078744a3c7e29fae3703113e94c9041d7519985716241eb87de6bd",
+    "source": {
+      "source_id": "rank-export-20261009",
+      "sheet": "formation_pool",
+      "cell": "/formation_pool/gtls4_final/lbwnb"
+    }
+  },
+  {
+    "formation_id": "rank-27-lineup:p0ebdc3317b75",
+    "competition_id": "gtls4",
+    "stage_id": "gtls4-final-rank-27",
+    "entrant_id": "gtls4-final-rank-27:p0ebdc3317b75",
+    "player_id": "p0ebdc3317b75",
+    "name": "famil群友",
+    "slot": "lineup",
+    "code": "春光2.0&000e08j3fDJbj0VDy0j2FqEpF08RO2p00zviaigLlUa47zaG41n7aQp00tzPr01APtr00f6fa6hwTdala9hXa8vVL8U00ewHN1Wai6y0I8jkS0quMN/小侯2.0&000e0ct004k9t004k9t004k9t004k9t004k9t004k9t004k9t004k9t004k9t004k9t004k9t004k9t004k9t004k9t004k9/oly 1.5&000mEwX006xrO008pEO006NiO004Uxw008G3w007Btw004nKp00XXzp00LTKp00OjLp00IGAm006gvaphEKlt00qabO00aipO005IIapzf3bj0i2zPp00T9jr01AQ1/末蕾娜 2.5&001mkkp01APH8mplLXa2GBp8101leW1kX1Xg1kWVAq1kX7l51kX4Ef1kXa1OP1f7ooT01AP7p01AQiajvV8Yj1sxM8t01piBt01piBaozw746pIKcnO01dstRpRAiAr01ASur01ARH8nQsED801Aybaov5dra2TLWw/芹菜2.5&0016JKU00S2Ag0iut2dk5FcF4120lsa00Q9ia00Sir8pv5gGjmbNona3CGwmT01nVNa3ccicanLHWDa00YenanQbsBaiDAJDU00WSWgdEFDoT01AP7a54YH8a3lcRba3UdRKp00P6l6iqiDW9phPXR9pmbGpr01aO6e00W5ea4cICAr01AhMp00ERIalT4pqagPxJs",
+    "raw_code": "春光2.0&000e08j3fDJbj0VDy0j2FqEpF08RO2p00zviaigLlUa47zaG41n7aQp00tzPr01APtr00f6fa6hwTdala9hXa8vVL8U00ewHN1Wai6y0I8jkS0quMN/小侯2.0&000e0ct004k9t004k9t004k9t004k9t004k9t004k9t004k9t004k9t004k9t004k9t004k9t004k9t004k9t004k9t004k9/oly 1.5&000mEwX006xrO008pEO006NiO004Uxw008G3w007Btw004nKp00XXzp00LTKp00OjLp00IGAm006gvaphEKlt00qabO00aipO005IIapzf3bj0i2zPp00T9jr01AQ1/末蕾娜 2.5&001mkkp01APH8mplLXa2GBp8101leW1kX1Xg1kWVAq1kX7l51kX4Ef1kXa1OP1f7ooT01AP7p01AQiajvV8Yj1sxM8t01piBt01piBaozw746pIKcnO01dstRpRAiAr01ASur01ARH8nQsED801Aybaov5dra2TLWw/芹菜2.5&0016JKU00S2Ag0iut2dk5FcF4120lsa00Q9ia00Sir8pv5gGjmbNona3CGwmT01nVNa3ccicanLHWDa00YenanQbsBaiDAJDU00WSWgdEFDoT01AP7a54YH8a3lcRba3UdRKp00P6l6iqiDW9phPXR9pmbGpr01aO6e00W5ea4cICAr01AhMp00ERIalT4pqagPxJs",
+    "tactic": null,
+    "record_kind": "lineup_container",
+    "work_key": "d1654f5230601c5bbdc02c772f2fc2fa5e5694a590557f79979866e23e1bb837",
+    "source": {
+      "source_id": "rank-export-20261009",
+      "sheet": "formation_pool",
+      "cell": "/formation_pool/gtls4_final/hell"
+    }
+  },
+  {
+    "formation_id": "rank-27-lineup:pacc71e90765c",
+    "competition_id": "gtls4",
+    "stage_id": "gtls4-final-rank-27",
+    "entrant_id": "gtls4-final-rank-27:pacc71e90765c",
+    "player_id": "pacc71e90765c",
+    "name": "GOODGAN",
+    "slot": "lineup",
+    "code": "红狼&001rewt01gKKt01gKKt01gKKt01gKKt01gKKt01gKKt01gKKt01gKKt01gKKt01gKKt01gKKt01gKKt01gKKt01gKKt01gKK/牧羊人&000BTNU00cnJI1NjEiI1NjEiI1NjEiI1NjEiI1NjEi9iLDIj5hkwOsdjuHaJLkdKSyLkdL9W615ASBj1NEBsjpQJWfantDyzantGfzp019a8w0VFa8w0VCtcp00kYNlerDr5r00M7Mr004jr/乌鲁鲁&000mkas00yq8j00g8kj2aqdcp004Rkr00lgMa6hDl9800kYQantnXNantqETlercjwlerf0slerhGplerknjT004iU2004iCp00Nsrr01AOxQ2axsO8aOU8J/威龙&000I7YU01kGVa3gAdQa3gxwUU014zka3gk6fU01jEYap56v0U015Yka3gnnsU00Fosa3fTitU00nqRa2B2sYa2BFYxU0099fa3foECa3flXGt00JHVt00VxET01lfMa3gC78a3gzqcp01AOxoov76co0a21Up01ATWp01ATgp00SRUp00T8LalnPzyalnMSAgpmpX2dm6LJ09eo1MR7mPwnIr012b1/深蓝&000gryhpQlwYjoUdb4j00fSXjnP7J2j15ll0p00GuYy4TRXCFpUTprE0mdjXldIkHsp00OO29pHtNH9pDecX9pDnBH",
+    "raw_code": "红狼&001rewt01gKKt01gKKt01gKKt01gKKt01gKKt01gKKt01gKKt01gKKt01gKKt01gKKt01gKKt01gKKt01gKKt01gKKt01gKK/牧羊人&000BTNU00cnJI1NjEiI1NjEiI1NjEiI1NjEiI1NjEi9iLDIj5hkwOsdjuHaJLkdKSyLkdL9W615ASBj1NEBsjpQJWfantDyzantGfzp019a8w0VFa8w0VCtcp00kYNlerDr5r00M7Mr004jr/乌鲁鲁&000mkas00yq8j00g8kj2aqdcp004Rkr00lgMa6hDl9800kYQantnXNantqETlercjwlerf0slerhGplerknjT004iU2004iCp00Nsrr01AOxQ2axsO8aOU8J/威龙&000I7YU01kGVa3gAdQa3gxwUU014zka3gk6fU01jEYap56v0U015Yka3gnnsU00Fosa3fTitU00nqRa2B2sYa2BFYxU0099fa3foECa3flXGt00JHVt00VxET01lfMa3gC78a3gzqcp01AOxoov76co0a21Up01ATWp01ATgp00SRUp00T8LalnPzyalnMSAgpmpX2dm6LJ09eo1MR7mPwnIr012b1/深蓝&000gryhpQlwYjoUdb4j00fSXjnP7J2j15ll0p00GuYy4TRXCFpUTprE0mdjXldIkHsp00OO29pHtNH9pDecX9pDnBH",
+    "tactic": null,
+    "record_kind": "lineup_container",
+    "work_key": "96ffd395059de7055c94524ebbc1fdd257d6449c8d8331beb2cd6fe1ee1e6605",
+    "source": {
+      "source_id": "rank-export-20261009",
+      "sheet": "formation_pool",
+      "cell": "/formation_pool/gtls4_final/愣生物"
+    }
+  },
+  {
+    "formation_id": "rank-27-lineup:pef90d9c1ec76",
+    "competition_id": "gtls4",
+    "stage_id": "gtls4-final-rank-27",
+    "entrant_id": "gtls4-final-rank-27:pef90d9c1ec76",
+    "player_id": "pef90d9c1ec76",
+    "name": "谁起的焊接名，我草死你",
+    "slot": "lineup",
+    "code": "花洒&000jmHV00mA8V00eMI9kIOgn9kIKet9kIH0K9kICr49oYJW69oYFDN9oYCq59oYy7Mj04Hywa1ryRganoTV1anoWBW4pMiwQa1rBygimJSoQ7kr1wR7kr2RP7kr4KA7kr6mW7kr7HU7kr9AFxkmCkdx5YUq61noE51vi3vrkvi3xk1/怪盗基德&000hKgV006JMj2atajaogJboaogLRkp00FUJp00DvLp00BU1apHRrmapHU8lr00hLaa7VSCJ80duIyn004A6n0057Sn005ohn006sQn0070Dn007NOn008lBn008C0n0099Mp008D9ilEMGQvoVkuivoVdeFr01jHy/花洒II&001h15V01m7gV01dM2johEFPamkLQTamkOxPp01z0Wp01yK6p01zyQ80rRGR80rTzCp01syT80rRG380rTyNapEqlkapEt2j9mbIR19mbLhy9mbNH69mbQEs9mbTlo9ohv0D9ohyuK9ohBbI9ohEFPp01x4wp01rr8p01exzp017Pwp01yHUp01i3Yak61syak649uimKOHmvg7und/瞎子狙击队&000jCSV006JyO08S4LO08TpJO08V26O08Wn4j0zxLramsCXRamsFENa0i4VWa0i7CXp00EQIp00ERg400unNw0qv3xw0qwViw0qyhgw0qzlPw0qAGNglekRpglemtLgleoCUr00fSga8w7vy80dvwA/经典牢番&000krhjpM7L8amoeuOamohbKa0zHJ8a0zKq8p00IS4p00FF5p00EB242FtRkim1OWut004PR9l5RB39l5OU49l5Me79l5Jxc9l5GQk9l5DSF9l5Aoy9l5wTrr00exsa8NI9w80dszqT01zdPa8XPaDa8XRQzr01y9Q8cA92Ia44iJQ7kmFxY7kmIeT7kmKUQ7kmMgQvpVm3L",
+    "raw_code": "花洒&000jmHV00mA8V00eMI9kIOgn9kIKet9kIH0K9kICr49oYJW69oYFDN9oYCq59oYy7Mj04Hywa1ryRganoTV1anoWBW4pMiwQa1rBygimJSoQ7kr1wR7kr2RP7kr4KA7kr6mW7kr7HU7kr9AFxkmCkdx5YUq61noE51vi3vrkvi3xk1/怪盗基德&000hKgV006JMj2atajaogJboaogLRkp00FUJp00DvLp00BU1apHRrmapHU8lr00hLaa7VSCJ80duIyn004A6n0057Sn005ohn006sQn0070Dn007NOn008lBn008C0n0099Mp008D9ilEMGQvoVkuivoVdeFr01jHy/花洒II&001h15V01m7gV01dM2johEFPamkLQTamkOxPp01z0Wp01yK6p01zyQ80rRGR80rTzCp01syT80rRG380rTyNapEqlkapEt2j9mbIR19mbLhy9mbNH69mbQEs9mbTlo9ohv0D9ohyuK9ohBbI9ohEFPp01x4wp01rr8p01exzp017Pwp01yHUp01i3Yak61syak649uimKOHmvg7und/瞎子狙击队&000jCSV006JyO08S4LO08TpJO08V26O08Wn4j0zxLramsCXRamsFENa0i4VWa0i7CXp00EQIp00ERg400unNw0qv3xw0qwViw0qyhgw0qzlPw0qAGNglekRpglemtLgleoCUr00fSga8w7vy80dvwA/经典牢番&000krhjpM7L8amoeuOamohbKa0zHJ8a0zKq8p00IS4p00FF5p00EB242FtRkim1OWut004PR9l5RB39l5OU49l5Me79l5Jxc9l5GQk9l5DSF9l5Aoy9l5wTrr00exsa8NI9w80dszqT01zdPa8XPaDa8XRQzr01y9Q8cA92Ia44iJQ7kmFxY7kmIeT7kmKUQ7kmMgQvpVm3L",
+    "tactic": null,
+    "record_kind": "lineup_container",
+    "work_key": "12571ed387cd3e8f503a0d1b906a7ac6df8b9d360bba46744b8df2fec55181f9",
+    "source": {
+      "source_id": "rank-export-20261009",
+      "sheet": "formation_pool",
+      "cell": "/formation_pool/gtls4_final/yy601718370"
+    }
+  },
+  {
+    "formation_id": "rank-27-lineup:p3312d927c2e7",
+    "competition_id": "gtls4",
+    "stage_id": "gtls4-final-rank-27",
+    "entrant_id": "gtls4-final-rank-27:p3312d927c2e7",
+    "player_id": "p3312d927c2e7",
+    "name": "这是我无法涤清的...罪",
+    "slot": "lineup",
+    "code": "黑之尖兵-琳达梅尔-御&000g8V600cnTp00f5nU00iNRLh7kUz8cQymYafavkoafay1k8fay1kLkICaHa00tzQa00qSQp00y8CaoUwKmaoUu4q4puDoS8096KXanPaDVanPdkR7kdFew7kdHUs7kdKBG7kibH37kienV7kih4R9oU1jk9oU9nn9oUhrcimSEt7joUfOMg00mznr00Ilfr01AOxx5LzVo/黑之审判者——海因&001pO2X01c7tO0199BO01biKO01dIiw01aebw01dbvw01bPxw01fB3601b2ma01y9ka01APlakB3IUakB6pQp01AOQj1K6bU401ypJw018Sdp013vqaeserJaejngUanQsEB/四号球&000gFxj1ectqt006IV7kdFeK7kdHUG7kdKBt7kibGS7kienK7kih4G9004iQ9oU5ls9pq0EQ9pq62H9pqa4B9l175E9la0Wb9la6k49l1nd69l1f9jp00vrUp00yF6aoUxi9ad05pji3jIyY7oU1kl7oU4OoaoUuBd4plNPfa15wB6/黑森林罪业大爆发&000dYqN08S4HN00mQmt00su3t00rWOt00oJEt004jjt004iLN2auLvN1rjghi3sx3Rh004jr/裴廓徳号です捕鯨船&001dYIjmL8YrT01AOxa6w6Rqa6w4bup01A1WafbMguafbJzy8fbMgup01A2vp01wOop01izjp019Hka16DAQa16ATU8d1Azf9p9a0f9p9duc9p9hMF9p9nax9p9sxp9p9xU6ajvJ32ioUVKUp01rGK401qm17oV0wg7oV3d57oV5Tj7oV8jQp00Pn6a3g8zplfbjfYp01wicr01rJir01nYuajvLIX",
+    "raw_code": "黑之尖兵-琳达梅尔-御&000g8V600cnTp00f5nU00iNRLh7kUz8cQymYafavkoafay1k8fay1kLkICaHa00tzQa00qSQp00y8CaoUwKmaoUu4q4puDoS8096KXanPaDVanPdkR7kdFew7kdHUs7kdKBG7kibH37kienV7kih4R9oU1jk9oU9nn9oUhrcimSEt7joUfOMg00mznr00Ilfr01AOxx5LzVo/黑之审判者——海因&001pO2X01c7tO0199BO01biKO01dIiw01aebw01dbvw01bPxw01fB3601b2ma01y9ka01APlakB3IUakB6pQp01AOQj1K6bU401ypJw018Sdp013vqaeserJaejngUanQsEB/四号球&000gFxj1ectqt006IV7kdFeK7kdHUG7kdKBt7kibGS7kienK7kih4G9004iQ9oU5ls9pq0EQ9pq62H9pqa4B9l175E9la0Wb9la6k49l1nd69l1f9jp00vrUp00yF6aoUxi9ad05pji3jIyY7oU1kl7oU4OoaoUuBd4plNPfa15wB6/黑森林罪业大爆发&000dYqN08S4HN00mQmt00su3t00rWOt00oJEt004jjt004iLN2auLvN1rjghi3sx3Rh004jr/裴廓徳号です捕鯨船&001dYIjmL8YrT01AOxa6w6Rqa6w4bup01A1WafbMguafbJzy8fbMgup01A2vp01wOop01izjp019Hka16DAQa16ATU8d1Azf9p9a0f9p9duc9p9hMF9p9nax9p9sxp9p9xU6ajvJ32ioUVKUp01rGK401qm17oV0wg7oV3d57oV5Tj7oV8jQp00Pn6a3g8zplfbjfYp01wicr01rJir01nYuajvLIX",
+    "tactic": null,
+    "record_kind": "lineup_container",
+    "work_key": "36635bea6d9314b58cc96e03930bb60934db0d1158656083a137da3a8ee12d2a",
+    "source": {
+      "source_id": "rank-export-20261009",
+      "sheet": "formation_pool",
+      "cell": "/formation_pool/gtls4_final/审玉"
+    }
+  },
+  {
+    "formation_id": "rank-27-lineup:p9552186d84ad",
+    "competition_id": "gtls4",
+    "stage_id": "gtls4-final-rank-27",
+    "entrant_id": "gtls4-final-rank-27:p9552186d84ad",
+    "player_id": "p9552186d84ad",
+    "name": "蛮力",
+    "slot": "lineup",
+    "code": "こんぱく ようむ&001dwojnQeezOoMgpAp01ATPa16Ed9anQsJmanQq3qp01shQp01ASFT017R4anQ3Ymp01gs6GhucavalFKjqaggiQd9nUCYwt01hiut01h26t01h26t01h26t01h26ajvOM1ajvM65ae65OSr01ATfLnGY9f8nYJ9A9nUmQU7oqgPtr01ARst014oj/フランドール・スカーレット&000g8yjokWTHj0dwjAN1A5B1t00cDct008kTt008kTt008kTt00oIyF2X8rIIotPXhp00sdWE19NgJyotL8cr00qC8/いぬばしり　もみじ&000zwhjocswXt00vukt00vukt00vukt00vukt00vukt00vukt00vukt00vukt00rc6p00Dx0p00nW5p00JpTp015qwp015oOq00A2eakAgmJamKiEep00JrcGh7sIla2aVqEa2aSJFr00mAwp00JsCr01ATza9KcuzEphozvp01APlp018RHr01ABu/二ッ岩 マミゾウ&000ik5inouIkt008Uht00gHGt00gHGj15o1H7pLTD27kdIdI7kiaEo7kdNAXNpQn9G9l18sO9kRA6l9obYfi9kRs2z904Cu69opsB2anPkSKamKiFwp00Ruw1nBWYA1kN6vMp00FGGa15BJU1noEUe/かざみ　ゆうか - δ&001dbxa3gNFKU01hJMjlTh3bT01AOxabVt0Ta5r0E0O05yrb7pdIGd9p4Uckp01dco7p9lhJ7p9nqS7p50PAr018Fc9p4JrC9p51DL9p9wiGa3gvUyr01jSKa50lYeaggtw7T01ehh9lT6iBa22xqS4nHuLU9f70pda4lVw9p01Ailp01zL9a12hfJa2PnbR8eojwPp01xmNp01zeW9pi3k0r01s1Ua3gE3b",
+    "raw_code": "こんぱく ようむ&001dwojnQeezOoMgpAp01ATPa16Ed9anQsJmanQq3qp01shQp01ASFT017R4anQ3Ymp01gs6GhucavalFKjqaggiQd9nUCYwt01hiut01h26t01h26t01h26t01h26ajvOM1ajvM65ae65OSr01ATfLnGY9f8nYJ9A9nUmQU7oqgPtr01ARst014oj/フランドール・スカーレット&000g8yjokWTHj0dwjAN1A5B1t00cDct008kTt008kTt008kTt00oIyF2X8rIIotPXhp00sdWE19NgJyotL8cr00qC8/いぬばしり　もみじ&000zwhjocswXt00vukt00vukt00vukt00vukt00vukt00vukt00vukt00vukt00rc6p00Dx0p00nW5p00JpTp015qwp015oOq00A2eakAgmJamKiEep00JrcGh7sIla2aVqEa2aSJFr00mAwp00JsCr01ATza9KcuzEphozvp01APlp018RHr01ABu/二ッ岩 マミゾウ&000ik5inouIkt008Uht00gHGt00gHGj15o1H7pLTD27kdIdI7kiaEo7kdNAXNpQn9G9l18sO9kRA6l9obYfi9kRs2z904Cu69opsB2anPkSKamKiFwp00Ruw1nBWYA1kN6vMp00FGGa15BJU1noEUe/かざみ　ゆうか - δ&001dbxa3gNFKU01hJMjlTh3bT01AOxabVt0Ta5r0E0O05yrb7pdIGd9p4Uckp01dco7p9lhJ7p9nqS7p50PAr018Fc9p4JrC9p51DL9p9wiGa3gvUyr01jSKa50lYeaggtw7T01ehh9lT6iBa22xqS4nHuLU9f70pda4lVw9p01Ailp01zL9a12hfJa2PnbR8eojwPp01xmNp01zeW9pi3k0r01s1Ua3gE3b",
+    "tactic": null,
+    "record_kind": "lineup_container",
+    "work_key": "40172442d16162d312ce468d2335cd35fe5b9319bc7ab744440a6b09542060a9",
+    "source": {
+      "source_id": "rank-export-20261009",
+      "sheet": "formation_pool",
+      "cell": "/formation_pool/gtls4_final/2069"
+    }
   }
 ]

@@ -945,10 +945,11 @@
     "source_ids": [
       "src010",
       "src051",
-      "src011"
+      "src011",
+      "rank-export-20261009"
     ],
     "status": "partial",
-    "format_description": "R1单人3阵；R2拆分单阵循环；缺失部分R1对局",
+    "format_description": "R1单人3阵；R2拆分单阵循环；缺失部分R1对局；补充五阵决赛已知150条真实交手，最终名次尚未确认。",
     "title_year": 2024,
     "date_start": null,
     "date_end": null,
@@ -987,9 +988,9 @@
       }
     ],
     "notes": [],
-    "stage_count": 5,
-    "encounter_count": 550,
-    "resolved_encounter_count": 548,
+    "stage_count": 6,
+    "encounter_count": 700,
+    "resolved_encounter_count": 698,
     "series": "GTLS",
     "year": 2024,
     "tier": "A",
@@ -1015,7 +1016,7 @@
         "statement": "GTL系列的比赛都调到A级，通常一个系列的比赛都是一个级别"
       }
     ],
-    "player_count": 25,
+    "player_count": 29,
     "final_standings_complete": false
   },
   {
@@ -1176,10 +1177,11 @@
     "source_ids": [
       "src018",
       "src017",
-      "src016"
+      "src016",
+      "rank-export-20261009"
     ],
-    "status": "unknown",
-    "format_description": "只收录双方身份明确、常规胜负明确的复活赛对战；猎人求生、重组阵和角色分数阶段不收录。",
+    "status": "partial",
+    "format_description": "已核验的复活赛常规胜负计入个人统计；决赛小组及淘汰赛的角色比分保留为档案，不计入个人统计或Rating；复杂周赛重组对局不纳入普通对战。",
     "title_year": 2026,
     "date_start": null,
     "date_end": null,
@@ -1218,8 +1220,8 @@
       }
     ],
     "notes": [],
-    "stage_count": 21,
-    "encounter_count": 26,
+    "stage_count": 31,
+    "encounter_count": 103,
     "resolved_encounter_count": 26,
     "series": "IVSC",
     "year": 2026,
