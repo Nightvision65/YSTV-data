@@ -946,10 +946,11 @@
       "src010",
       "src051",
       "src011",
-      "rank-export-20261009"
+      "rank-export-20261009",
+      "gtls4-final-xlsx"
     ],
     "status": "partial",
-    "format_description": "R1单人3阵；R2拆分单阵循环；缺失部分R1对局；补充五阵决赛已知150条真实交手，最终名次尚未确认。",
+    "format_description": "R1单人3阵，部分对局缺失；R2拆分单阵循环；20人五阵决赛单循环，190场及最终名次已收录。",
     "title_year": 2024,
     "date_start": null,
     "date_end": null,
@@ -989,8 +990,8 @@
     ],
     "notes": [],
     "stage_count": 6,
-    "encounter_count": 700,
-    "resolved_encounter_count": 698,
+    "encounter_count": 740,
+    "resolved_encounter_count": 738,
     "series": "GTLS",
     "year": 2024,
     "tier": "A",
@@ -1017,7 +1018,7 @@
       }
     ],
     "player_count": 29,
-    "final_standings_complete": false
+    "final_standings_complete": true
   },
   {
     "competition_id": "hope",

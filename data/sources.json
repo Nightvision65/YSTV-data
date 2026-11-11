@@ -3593,5 +3593,39 @@
     "sha256": "7332990b1a36a04d2737af81334770b92c002e7b608275a2b756fd89217b69ce",
     "sheets": [],
     "pages": 0
+  },
+  {
+    "source_id": "gtls4-final-xlsx",
+    "origin": "rawdata",
+    "filename": "第一届激突国无限制格斗大赛(1).xlsx",
+    "size": 31404,
+    "sha256": "7cd39451dc7064d7c65bedd48ac42401aafaf5e1d6fe205f40b6178188bf23d4",
+    "sheets": [
+      {
+        "name": "阵容收集",
+        "dimension": "A1:D21",
+        "cell_count": 82,
+        "comments": 0
+      },
+      {
+        "name": "循环表格",
+        "dimension": "A1:W21",
+        "cell_count": 273,
+        "comments": 0
+      },
+      {
+        "name": "最终结果",
+        "dimension": "A1:B21",
+        "cell_count": 42,
+        "comments": 0
+      },
+      {
+        "name": "测试时间",
+        "dimension": "A1:O23",
+        "cell_count": 333,
+        "comments": 0
+      }
+    ],
+    "pages": 0
   }
 ]

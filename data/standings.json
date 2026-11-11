@@ -19,7 +19,8 @@
     "src005": "17d8aef1986aeadf3b150c64620ff420984b077c2f891af339e3b9769e52d77b",
     "src009": "28e97f7b8289f94b60b00a75df2ecf639f654dc8b246df5ae76ff223c0390a60",
     "src008": "703e22c4d6158397cc61fd739bb6076a70ed09020b6e50cd769504fd9954c0b6",
-    "src077": "f661e861963095ee1339c294ddee5940b007ee19a32825d7f313808698a1093b"
+    "src077": "f661e861963095ee1339c294ddee5940b007ee19a32825d7f313808698a1093b",
+    "gtls4-final-xlsx": "7cd39451dc7064d7c65bedd48ac42401aafaf5e1d6fe205f40b6178188bf23d4"
   },
   "tables": [
     {
@@ -21901,6 +21902,404 @@
       ],
       "entrant_count": 25,
       "method": "source_rank"
+    },
+    {
+      "id": "gtls4-final",
+      "event_uid": "gtls4",
+      "stage_uid": "gtls4-final-rank-27",
+      "source_id": "gtls4-final-xlsx",
+      "sheet": "最终结果",
+      "label": "决赛最终名次 · 5v5",
+      "scope": "overall",
+      "name_column": 1,
+      "rank_column": null,
+      "first_row": 2,
+      "last_row": 21,
+      "format": "5v5",
+      "entries": [
+        {
+          "uid": "standings:gtls4-final:2",
+          "player_uid": "pe6f5b9cd0689",
+          "name": "Nightvision65",
+          "label": "65",
+          "formation_name": null,
+          "rank_low": 1,
+          "rank_high": 1,
+          "evidence": [
+            {
+              "source_id": "gtls4-final-xlsx",
+              "sheet": "最终结果",
+              "cell": "B2"
+            }
+          ],
+          "tied": false,
+          "podium": true,
+          "points": 16
+        },
+        {
+          "uid": "standings:gtls4-final:3",
+          "player_uid": "p92b1cb3400b9",
+          "name": "MKTL",
+          "label": "MKTL",
+          "formation_name": null,
+          "rank_low": 2,
+          "rank_high": 3,
+          "evidence": [
+            {
+              "source_id": "gtls4-final-xlsx",
+              "sheet": "最终结果",
+              "cell": "B3"
+            }
+          ],
+          "tied": true,
+          "podium": true,
+          "points": 15
+        },
+        {
+          "uid": "standings:gtls4-final:4",
+          "player_uid": "p0b9e7ab8fed6",
+          "name": "猪神",
+          "label": "猪神",
+          "formation_name": null,
+          "rank_low": 2,
+          "rank_high": 3,
+          "evidence": [
+            {
+              "source_id": "gtls4-final-xlsx",
+              "sheet": "最终结果",
+              "cell": "B4"
+            }
+          ],
+          "tied": true,
+          "podium": true,
+          "points": 15
+        },
+        {
+          "uid": "standings:gtls4-final:5",
+          "player_uid": "p101d1e8d9126",
+          "name": "叶玉",
+          "label": "叶玉",
+          "formation_name": null,
+          "rank_low": 4,
+          "rank_high": 6,
+          "evidence": [
+            {
+              "source_id": "gtls4-final-xlsx",
+              "sheet": "最终结果",
+              "cell": "B5"
+            }
+          ],
+          "tied": true,
+          "podium": false,
+          "points": 14
+        },
+        {
+          "uid": "standings:gtls4-final:6",
+          "player_uid": "p5f3fe80d1de9",
+          "name": "无殇",
+          "label": "无殇",
+          "formation_name": null,
+          "rank_low": 4,
+          "rank_high": 6,
+          "evidence": [
+            {
+              "source_id": "gtls4-final-xlsx",
+              "sheet": "最终结果",
+              "cell": "B6"
+            }
+          ],
+          "tied": true,
+          "podium": false,
+          "points": 14
+        },
+        {
+          "uid": "standings:gtls4-final:7",
+          "player_uid": "p9552186d84ad",
+          "name": "2069",
+          "label": "2069",
+          "formation_name": null,
+          "rank_low": 4,
+          "rank_high": 6,
+          "evidence": [
+            {
+              "source_id": "gtls4-final-xlsx",
+              "sheet": "最终结果",
+              "cell": "B7"
+            }
+          ],
+          "tied": true,
+          "podium": false,
+          "points": 14
+        },
+        {
+          "uid": "standings:gtls4-final:8",
+          "player_uid": "p6b3c238ebcf1",
+          "name": "404",
+          "label": "404",
+          "formation_name": null,
+          "rank_low": 7,
+          "rank_high": 8,
+          "evidence": [
+            {
+              "source_id": "gtls4-final-xlsx",
+              "sheet": "最终结果",
+              "cell": "B8"
+            }
+          ],
+          "tied": true,
+          "podium": false,
+          "points": 12
+        },
+        {
+          "uid": "standings:gtls4-final:9",
+          "player_uid": "p2a776a35b114",
+          "name": "淦生物",
+          "label": "淦生物",
+          "formation_name": null,
+          "rank_low": 7,
+          "rank_high": 8,
+          "evidence": [
+            {
+              "source_id": "gtls4-final-xlsx",
+              "sheet": "最终结果",
+              "cell": "B9"
+            }
+          ],
+          "tied": true,
+          "podium": false,
+          "points": 12
+        },
+        {
+          "uid": "standings:gtls4-final:10",
+          "player_uid": "p2e5a8d9483e4",
+          "name": "Raze Bond",
+          "label": "RB",
+          "formation_name": null,
+          "rank_low": 9,
+          "rank_high": 9,
+          "evidence": [
+            {
+              "source_id": "gtls4-final-xlsx",
+              "sheet": "最终结果",
+              "cell": "B10"
+            }
+          ],
+          "tied": false,
+          "podium": false,
+          "points": 11
+        },
+        {
+          "uid": "standings:gtls4-final:11",
+          "player_uid": "p73841de86c7a",
+          "name": "天玉",
+          "label": "天玉",
+          "formation_name": null,
+          "rank_low": 10,
+          "rank_high": 11,
+          "evidence": [
+            {
+              "source_id": "gtls4-final-xlsx",
+              "sheet": "最终结果",
+              "cell": "B11"
+            }
+          ],
+          "tied": true,
+          "podium": false,
+          "points": 10
+        },
+        {
+          "uid": "standings:gtls4-final:12",
+          "player_uid": "p3312d927c2e7",
+          "name": "审玉",
+          "label": "审玉",
+          "formation_name": null,
+          "rank_low": 10,
+          "rank_high": 11,
+          "evidence": [
+            {
+              "source_id": "gtls4-final-xlsx",
+              "sheet": "最终结果",
+              "cell": "B12"
+            }
+          ],
+          "tied": true,
+          "podium": false,
+          "points": 10
+        },
+        {
+          "uid": "standings:gtls4-final:13",
+          "player_uid": "pef2836a3e4a3",
+          "name": "Brony牧玉",
+          "label": "brony牧玉",
+          "formation_name": null,
+          "rank_low": 12,
+          "rank_high": 14,
+          "evidence": [
+            {
+              "source_id": "gtls4-final-xlsx",
+              "sheet": "最终结果",
+              "cell": "B13"
+            }
+          ],
+          "tied": true,
+          "podium": false,
+          "points": 9
+        },
+        {
+          "uid": "standings:gtls4-final:14",
+          "player_uid": "p5a9cc884751c",
+          "name": "幕府",
+          "label": "幕府",
+          "formation_name": null,
+          "rank_low": 12,
+          "rank_high": 14,
+          "evidence": [
+            {
+              "source_id": "gtls4-final-xlsx",
+              "sheet": "最终结果",
+              "cell": "B14"
+            }
+          ],
+          "tied": true,
+          "podium": false,
+          "points": 9
+        },
+        {
+          "uid": "standings:gtls4-final:15",
+          "player_uid": "p98a621cdb383",
+          "name": "lbwnb",
+          "label": "lbwnb",
+          "formation_name": null,
+          "rank_low": 12,
+          "rank_high": 14,
+          "evidence": [
+            {
+              "source_id": "gtls4-final-xlsx",
+              "sheet": "最终结果",
+              "cell": "B15"
+            }
+          ],
+          "tied": true,
+          "podium": false,
+          "points": 9
+        },
+        {
+          "uid": "standings:gtls4-final:16",
+          "player_uid": "pecc76c19c9f3",
+          "name": "XX",
+          "label": "XX",
+          "formation_name": null,
+          "rank_low": 15,
+          "rank_high": 15,
+          "evidence": [
+            {
+              "source_id": "gtls4-final-xlsx",
+              "sheet": "最终结果",
+              "cell": "B16"
+            }
+          ],
+          "tied": false,
+          "podium": false,
+          "points": 7
+        },
+        {
+          "uid": "standings:gtls4-final:17",
+          "player_uid": "p57dac6a8c07e",
+          "name": "极限EMK",
+          "label": "极限",
+          "formation_name": null,
+          "rank_low": 16,
+          "rank_high": 17,
+          "evidence": [
+            {
+              "source_id": "gtls4-final-xlsx",
+              "sheet": "最终结果",
+              "cell": "B17"
+            }
+          ],
+          "tied": true,
+          "podium": false,
+          "points": 4
+        },
+        {
+          "uid": "standings:gtls4-final:18",
+          "player_uid": "p0ebdc3317b75",
+          "name": "hell",
+          "label": "hell",
+          "formation_name": null,
+          "rank_low": 16,
+          "rank_high": 17,
+          "evidence": [
+            {
+              "source_id": "gtls4-final-xlsx",
+              "sheet": "最终结果",
+              "cell": "B18"
+            }
+          ],
+          "tied": true,
+          "podium": false,
+          "points": 4
+        },
+        {
+          "uid": "standings:gtls4-final:19",
+          "player_uid": "pacc71e90765c",
+          "name": "愣生物",
+          "label": "愣生物",
+          "formation_name": null,
+          "rank_low": 18,
+          "rank_high": 18,
+          "evidence": [
+            {
+              "source_id": "gtls4-final-xlsx",
+              "sheet": "最终结果",
+              "cell": "B19"
+            }
+          ],
+          "tied": false,
+          "podium": false,
+          "points": 3
+        },
+        {
+          "uid": "standings:gtls4-final:20",
+          "player_uid": "pef90d9c1ec76",
+          "name": "yy",
+          "label": "yy601718370",
+          "formation_name": null,
+          "rank_low": 19,
+          "rank_high": 19,
+          "evidence": [
+            {
+              "source_id": "gtls4-final-xlsx",
+              "sheet": "最终结果",
+              "cell": "B20"
+            }
+          ],
+          "tied": false,
+          "podium": false,
+          "points": 2
+        },
+        {
+          "uid": "standings:gtls4-final:21",
+          "player_uid": "pa64a92c86530",
+          "name": "土豆",
+          "label": "土豆",
+          "formation_name": null,
+          "rank_low": 20,
+          "rank_high": 20,
+          "evidence": [
+            {
+              "source_id": "gtls4-final-xlsx",
+              "sheet": "最终结果",
+              "cell": "B21"
+            }
+          ],
+          "tied": false,
+          "podium": false,
+          "points": 0
+        }
+      ],
+      "entrant_count": 20,
+      "method": "source_ranked_list"
     }
   ],
   "policy": "只读原表排名或明确排名页的展示顺序；不按本站胜率补排。未找到明确名次的阶段留空。"

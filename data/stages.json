@@ -9709,10 +9709,10 @@
   {
     "stage_id": "gtls4-final-rank-27",
     "competition_id": "gtls4",
-    "name": "决赛 · 五阵循环赛（已收录对局）",
-    "source_id": "rank-export-20261009",
-    "source_sheet": "encounters",
-    "schedule_type": "partial_pairings",
+    "name": "决赛 · 五阵循环赛",
+    "source_id": "gtls4-final-xlsx",
+    "source_sheet": "循环表格",
+    "schedule_type": "round_robin",
     "players_per_side": 1,
     "formations_per_side": 5,
     "statistics_eligible": true,
@@ -9734,7 +9734,7 @@
     "item_uid": "gtls4:5v5:individual:A",
     "expected": 190,
     "notes": [
-      "用户确认已有150条真实对局可计入统计；20人单循环理论190对交手，缺失40对不补造；最终名次、冠亚军及荣誉暂不录入。",
+      "原表覆盖20人单循环全部190场，与既有150场赛果逐场一致；最终名次按原表积分，同分并列。",
       "月份由合作者估算为2025-01，未确认为精确日期；用户确认按2024赛季计入年度统计。"
     ],
     "event_player_count": 29,
